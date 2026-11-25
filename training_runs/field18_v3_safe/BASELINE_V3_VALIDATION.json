@@ -1,0 +1,23 @@
+{
+  "field_crop": {
+    "correct": 142,
+    "total": 233,
+    "pct": 60.94
+  },
+  "field_joint": {
+    "total": 205,
+    "crop_correct": 121,
+    "crop_pct": 59.02,
+    "joint_correct": 75,
+    "joint_pct": 36.59,
+    "given_true_crop_correct": 111,
+    "given_true_crop_pct": 54.15,
+    "free_97_correct": 69,
+    "free_97_pct": 33.66
+  },
+  "old_crop": {
+    "correct": 269,
+    "total": 272,
+    "pct": 98.9
+  }
+}

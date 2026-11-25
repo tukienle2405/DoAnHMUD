@@ -1,0 +1,19 @@
+﻿ma_cay,ten_cay,nguon,luu_y
+Banana,Chuối,https://data.mendeley.com/datasets/5nfjzntwd8/1,"Chưa kiểm chứng tải tự động; có Healthy và Black Sigatoka, không đánh đồng Black Sigatoka với Sigatoka thông thường"
+Cashew,Điều,https://data.mendeley.com/datasets/xx94td2tyt/1,Có lá khỏe; bệnh lá đa loại không đồng nhất với Fungal infection của AI
+Chili,Ớt cay,https://data.mendeley.com/datasets/wzc6r6w5w5/3,Cercospora; Leaf Curl chỉ là triệu chứng nên không tự gán Curl virus
+Coffee,Cà phê,https://data.mendeley.com/datasets/mfpxg4y65r/1,Rust và Healthy; Mycena leaf spot không phải Phoma
+Corn,Ngô/Bắp,https://github.com/pratikkayal/PlantDoc-Dataset,"Blight, Gray Leaf Spot, Common Rust (theo bộ PlantDoc)"
+Durian,Sầu riêng,https://data.mendeley.com/datasets/mhjwyb5p48/1,Ảnh thực địa nhưng bệnh và bộ phận cây không khớp 5 nhãn lá cũ; không tự gán nhãn
+Guava,Ổi,https://data.mendeley.com/datasets/ng85zg4xm4/1,Ảnh thực địa; đối chiếu nhãn cụ thể sau khi tải
+Jackfruit,Mít,https://data.mendeley.com/datasets/94srbmydkw/1,"Ảnh chụp ngoài vườn, nhãn nguồn; có một số lớp trùng lớp AI"
+Lemon,Chanh,https://data.mendeley.com/datasets/643f5bbc2t/5,Bộ dữ liệu khác; vẫn phải kiểm tra ảnh trùng với Train
+Mango,Xoài,https://data.mendeley.com/datasets/94srbmydkw/1,"Ảnh chụp ngoài vườn, nhãn nguồn và nhiều bệnh tương ứng"
+Papaya,Đu đủ,https://data.mendeley.com/datasets/44p8v6ywsm/1,Ảnh gốc vườn; kiểm tra nhãn cụ thể và hình ảnh trước sử dụng
+Pepper__bell,Ớt chuông,https://data.mendeley.com/datasets/w9drvtxg9g/1,"Bacterial Spot, Healthy; không xác nhận tất cả ảnh đều ngoài trời"
+Potato,Khoai tây,https://data.mendeley.com/datasets/mwbwbdzz7z/1,"Early/Late Blight, Healthy ngoài đồng"
+Rice,Lúa,https://data.mendeley.com/datasets/86s4jzj2m4/1,"Brown Spot, Leaf Smut; không có Bacterial Leaf Blight ở nguồn này"
+Rubber,Cao su,https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2022.829479/full,Tham khảo ảnh bệnh lá khác bộ 1740 ảnh đã dùng Train; chưa có link tải tự động cho tất cả nhãn
+Sugarcane,Mía,https://data.mendeley.com/datasets/rzh99cj2rj/1,Ảnh ngoài đồng nhưng cần xác minh nhóm bệnh trước khi ánh xạ 97 lớp
+Tea,Chè,https://data.mendeley.com/datasets/rrff4vb35m/2,"Ảnh lá chè các bệnh khác nguồn gốc; Brown Blight, Healthy có thể khớp"
+Tomato,Cà chua,https://github.com/pratikkayal/PlantDoc-Dataset,"Đa bệnh ngoài Train, cần xác minh từng ảnh nhãn nguồn và trùng nguồn"

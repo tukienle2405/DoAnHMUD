@@ -1,0 +1,19 @@
+﻿ma_cay,ten_cay_tieng_viet,duong_dan_thu_muc_cay,metadata_train,metadata_val,metadata_test,metadata_exclude_review,metadata_ngoai_train,anh_thuc_te_duoc_quet_trong_metadata,so_anh_trong_thu_muc_cay,so_nhom_thu_muc_benh_goi_y,anh_ngoai_danh_sach_cu,canh_bao
+Banana,Chuối,D:\DoanHMvUD\La benh ngoai train\Chuoi,1239,264,270,0,534,1773,13,3,13,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Cashew,Điều,D:\DoanHMvUD\La benh ngoai train\Dieu,331,70,74,0,144,475,0,0,0,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Chili,Ớt cay,D:\DoanHMvUD\La benh ngoai train\Ot cay,4208,899,919,0,1818,6026,0,0,0,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Coffee,Cà phê,D:\DoanHMvUD\La benh ngoai train\Ca phe,1266,267,275,0,542,1808,16,3,16,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Corn,Ngô,D:\DoanHMvUD\La benh ngoai train\Ngo,2982,644,649,4,1297,4279,0,0,0,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Durian,Sầu riêng,D:\DoanHMvUD\La benh ngoai train\Sau rieng,1827,379,389,0,768,2595,0,0,0,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Guava,Ổi,D:\DoanHMvUD\La benh ngoai train\Oi,1427,305,311,0,616,2043,0,0,0,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Jackfruit,Mít,D:\DoanHMvUD\La benh ngoai train\Mit,1248,262,275,0,537,1785,0,0,0,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Lemon,Chanh,D:\DoanHMvUD\La benh ngoai train\Chanh,942,196,213,0,409,1351,39,8,39,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Mango,Xoài,D:\DoanHMvUD\La benh ngoai train\Xoai,10501,2244,2259,4,4507,15008,0,0,0,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Papaya,Đu đủ,D:\DoanHMvUD\La benh ngoai train\du du,1056,220,235,0,455,1511,0,0,0,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Pepper__bell,Ớt chuông,D:\DoanHMvUD\La benh ngoai train\Ot chuong,1809,395,401,2,798,2607,0,0,0,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Potato,Khoai tây,D:\DoanHMvUD\La benh ngoai train\khoai tay,1631,362,367,13,742,2373,0,0,0,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Rice,Lúa,D:\DoanHMvUD\La benh ngoai train\Lua nuoc,84,18,18,0,36,120,0,0,0,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Rubber,Cao su,D:\DoanHMvUD\La benh ngoai train\Cao su,1123,239,246,0,485,1608,0,0,0,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Sugarcane,Mía,D:\DoanHMvUD\La benh ngoai train\Mia,3740,808,841,0,1649,5389,0,0,0,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Tea,Chè,D:\DoanHMvUD\La benh ngoai train\Che,56228,1350,1350,0,2700,58928,0,0,0,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH
+Tomato,Cà chua,D:\DoanHMvUD\La benh ngoai train\Ca chua,11624,2544,2560,15,5119,16743,64,12,64,TEN_THU_MUC_BENH_CHUA_DUOC_XAC_MINH

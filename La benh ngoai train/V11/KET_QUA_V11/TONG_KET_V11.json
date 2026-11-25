@@ -1,0 +1,41 @@
+{
+  "mode": "V11_INTERNAL_VALIDATION_ONLY",
+  "start_model97": "D:\\DoanHMvUD\\training_runs\\field97_v2_safe\\field97_best_candidate.pth",
+  "start_model18": "D:\\DoanHMvUD\\training_runs\\field18_v3_safe\\field18_best_candidate_v3.pth",
+  "training_images_per_epoch": 600,
+  "field_training_images_available": 540,
+  "excluded_original_source_test_folder": 50,
+  "no_original_checkpoints_overwritten": true,
+  "no_test_images_opened": true,
+  "frozen_other_classifier_classes": 84,
+  "baseline_field_val": {
+    "total": 205,
+    "crop_correct": 150,
+    "crop_pct": 73.17,
+    "joint_correct": 81,
+    "joint_pct": 39.51,
+    "given_true_crop_correct": 111,
+    "given_true_crop_pct": 54.15,
+    "free_97_correct": 69,
+    "free_97_pct": 33.66
+  },
+  "baseline_old_val": {
+    "correct": 249,
+    "total": 258,
+    "pct": 96.51
+  },
+  "best_provisional_epoch": {
+    "epoch": 2,
+    "train_loss": 1.27506,
+    "field_crop_pct": 73.17,
+    "field_joint_pct": 40.0,
+    "field_joint_correct": 82,
+    "field_given_crop_pct": 54.63,
+    "old_val_pct": 96.51,
+    "old_val_drop_pp": 0.0,
+    "meets_provisional_rules": true
+  },
+  "approved_for_deployment": false,
+  "needs_fresh_independent_holdout": true,
+  "warning": "Validation was reused in V2/V3/V5; any improvement is ONLY exploratory."
+}

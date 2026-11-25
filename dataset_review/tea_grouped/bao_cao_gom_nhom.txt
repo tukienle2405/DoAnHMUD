@@ -1,0 +1,15 @@
+BAO CAO GOM NHOM ANH CHE
+=============================================
+Blister_Blight: 13500 anh, 1500 nhom, train=9450, val=225, test=225
+Brown_Blight: 13500 anh, 1500 nhom, train=9450, val=225, test=225
+Leaf_Red_Rust: 13500 anh, 1500 nhom, train=9450, val=225, test=225
+Red_Spider_Mite: 13500 anh, 1500 nhom, train=9450, val=225, test=225
+Tea_Mosquito_Bug: 13500 anh, 1500 nhom, train=9450, val=225, test=225
+Healthy: 12829 anh, 1500 nhom, train=8978, val=225, test=225
+
+So file co van de danh so: 0
+
+Can xac minh quy luat 1500 o ca 6 lop.
+Chua xac nhan anh dai dien la anh goc.
+Manifest chi la phuong an chia du kien.
+Khong xoa hoac di chuyen anh.

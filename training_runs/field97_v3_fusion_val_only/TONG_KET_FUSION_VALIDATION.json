@@ -1,0 +1,80 @@
+{
+  "mode": "VALIDATION_ONLY_NO_TEST_INFERENCE",
+  "baseline_alpha1": {
+    "alpha": 1.0,
+    "field_crop_pct": 60.94,
+    "field_crop_correct": 142,
+    "field_joint_pct": 36.59,
+    "field_joint_correct": 75,
+    "old_crop_pct": 98.9,
+    "old_crop_correct": 269
+  },
+  "all_candidates": [
+    {
+      "alpha": 1.0,
+      "field_crop_pct": 60.94,
+      "field_crop_correct": 142,
+      "field_joint_pct": 36.59,
+      "field_joint_correct": 75,
+      "old_crop_pct": 98.9,
+      "old_crop_correct": 269
+    },
+    {
+      "alpha": 0.9,
+      "field_crop_pct": 60.94,
+      "field_crop_correct": 142,
+      "field_joint_pct": 35.61,
+      "field_joint_correct": 73,
+      "old_crop_pct": 99.26,
+      "old_crop_correct": 270
+    },
+    {
+      "alpha": 0.75,
+      "field_crop_pct": 62.66,
+      "field_crop_correct": 146,
+      "field_joint_pct": 35.12,
+      "field_joint_correct": 72,
+      "old_crop_pct": 99.26,
+      "old_crop_correct": 270
+    },
+    {
+      "alpha": 0.5,
+      "field_crop_pct": 65.24,
+      "field_crop_correct": 152,
+      "field_joint_pct": 36.59,
+      "field_joint_correct": 75,
+      "old_crop_pct": 99.63,
+      "old_crop_correct": 271
+    },
+    {
+      "alpha": 0.25,
+      "field_crop_pct": 60.09,
+      "field_crop_correct": 140,
+      "field_joint_pct": 34.15,
+      "field_joint_correct": 70,
+      "old_crop_pct": 99.26,
+      "old_crop_correct": 270
+    },
+    {
+      "alpha": 0.0,
+      "field_crop_pct": 60.52,
+      "field_crop_correct": 141,
+      "field_joint_pct": 33.66,
+      "field_joint_correct": 69,
+      "old_crop_pct": 98.9,
+      "old_crop_correct": 269
+    }
+  ],
+  "chosen": null,
+  "approved_for_further_independent_verification": false,
+  "missing_old_validation_crop": [
+    "Papaya"
+  ],
+  "warning": "Old validation does not cover missing crops. VAL selection is not final real-world certification.",
+  "model18": "D:\\DoanHMvUD\\training_runs\\crop18_field_pilot_20261125_123457\\best_field_candidate.pth",
+  "model97": "D:\\DoanHMvUD\\training_runs\\field97_v2_safe\\field97_best_candidate.pth",
+  "field_val_count": 233,
+  "old_val_count": 272,
+  "no_test_used": true,
+  "no_auto_deploy": true
+}

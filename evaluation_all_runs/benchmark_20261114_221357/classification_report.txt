@@ -1,0 +1,47 @@
+                                             precision    recall  f1-score   support
+
+                     Chili___Bacterial_spot     1.0000    1.0000    1.0000        12
+               Chili___Cercospora_leaf_spot     1.0000    1.0000    1.0000        21
+                         Chili___Curl_virus     1.0000    1.0000    1.0000        22
+                            Chili___healthy     1.0000    1.0000    1.0000        15
+                             Coffee___Phoma     0.9286    0.9286    0.9286        14
+                              Coffee___Rust     0.9286    0.9286    0.9286        14
+                           Coffee___healthy     1.0000    1.0000    1.0000        12
+                              Corn___Blight     1.0000    0.6000    0.7500        10
+                         Corn___Common_rust     0.9167    1.0000    0.9565        11
+                      Corn___Gray_leaf_spot     0.5000    1.0000    0.6667         3
+                             Corn___healthy     1.0000    1.0000    1.0000        10
+                        Mango___Anthracnose     1.0000    1.0000    1.0000        21
+                   Mango___Bacterial_canker     1.0000    1.0000    1.0000        26
+                     Mango___Cutting_weevil     1.0000    1.0000    1.0000        19
+                           Mango___Die_back     1.0000    1.0000    1.0000        12
+                         Mango___Gall_midge     1.0000    1.0000    1.0000        21
+                     Mango___Powdery_mildew     1.0000    1.0000    1.0000         9
+                        Mango___Sooty_mould     1.0000    1.0000    1.0000         9
+                            Mango___healthy     1.0000    1.0000    1.0000         8
+              Pepper__bell___Bacterial_spot     1.0000    1.0000    1.0000        11
+                     Pepper__bell___healthy     1.0000    1.0000    1.0000        17
+                      Potato___Early_blight     1.0000    1.0000    1.0000        10
+                       Potato___Late_blight     1.0000    1.0000    1.0000        12
+                           Potato___healthy     1.0000    1.0000    1.0000         4
+               Rice___Bacterial_leaf_blight     1.0000    1.0000    1.0000         1
+                          Rice___Brown_spot     1.0000    1.0000    1.0000         1
+                           Rice___Leaf_smut     0.0000    0.0000    0.0000         0
+                       Rubber___Anthracnose     1.0000    1.0000    1.0000         3
+                          Rubber___Dry_leaf     1.0000    1.0000    1.0000         5
+                         Rubber___Leaf_spot     1.0000    1.0000    1.0000         5
+                           Rubber___healthy     1.0000    1.0000    1.0000         5
+                      Tomato_Bacterial_spot     1.0000    1.0000    1.0000        17
+                        Tomato_Early_blight     1.0000    0.9000    0.9474        10
+                         Tomato_Late_blight     0.9412    1.0000    0.9697        16
+                           Tomato_Leaf_Mold     1.0000    1.0000    1.0000        10
+                  Tomato_Septoria_leaf_spot     1.0000    0.9412    0.9697        17
+Tomato_Spider_mites_Two_spotted_spider_mite     0.8889    1.0000    0.9412        16
+                        Tomato__Target_Spot     0.9375    0.8824    0.9091        17
+      Tomato__Tomato_YellowLeaf__Curl_Virus     1.0000    1.0000    1.0000        32
+                Tomato__Tomato_mosaic_virus     1.0000    1.0000    1.0000         6
+                             Tomato_healthy     1.0000    1.0000    1.0000        16
+
+                                   accuracy                         0.9800       500
+                                  macro avg     0.9522    0.9556    0.9504       500
+                               weighted avg     0.9836    0.9800    0.9800       500

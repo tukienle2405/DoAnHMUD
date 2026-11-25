@@ -1,0 +1,33 @@
+V14 - BAN DEMO RIENG, KHONG GHI DE APP.PY HOAC CHECKPOINT
+
+GIAI NEN:
+D:\DoanHMvUD\La benh ngoai train\V14
+Dat app_v14_demo.py, core_v14.py, model_architecture_v14.py,
+kiem_tra_v14.py vao cung mot thu muc V14.
+
+CHAY POWER SHELL:
+cd "D:\DoanHMvUD\La benh ngoai train\V14"
+py -3 -u kiem_tra_v14.py --mode check
+py -3 -m streamlit run app_v14_demo.py
+
+NEU BAO LOI THIEU STREAMLIT:
+py -3 -m pip install streamlit
+Roi chay lai lenh streamlit. Khong can cai lai torch neu da chay V12/V13.
+
+CACH SU DUNG:
+- Co the chon anh tu V12B da quét trong thu muc V12 (mac dinh, neu tim thay CSV), hoac upload mot anh moi.
+- Xem goi y TOP 3 loai cay, nhung co the chon bat ky cay nao trong 18 cay.
+- Bam "Toi da kiem tra va xac nhan loai cay minh chon" sau khi xac nhan.
+- Xem ket qua benh theo model V2 trong cay da chon.
+- Bam "Luu bao cao thu nghiem V14".
+
+GUI LAI:
+D:\DoanHMvUD\La benh ngoai train\V14\KET_QUA_V14\KIEM_TRA_V14.json
+D:\DoanHMvUD\La benh ngoai train\V14\KET_QUA_V14\KET_QUA_DEMO_V14.json
+(Kem anh chup man hinh neu ban muon minh danh gia giao dien.)
+
+LUU Y KHOA HOC:
+- Chon dung cay chi gioi han loai benh co the hien thi, khong bao dam dung benh.
+- V13/40 anh cu KHONG phai test doc lap va chua co nhan benh da xac minh.
+- Khong tinh Accuracy tu nhan folder, khong dua checkpoint V11 vao app.
+- V14 khong huan luyen, khong tu sua nhan, khong thay checkpoint dang dung.

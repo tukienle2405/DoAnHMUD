@@ -1,0 +1,14 @@
+BAO CAO KIEM TRA TEA NANG CAO
+=============================================
+So nhom dHash dau vao: 2143
+So anh duoc tinh pHash: 5789
+So cap so sanh khac lop: 5058
+Cap uu tien CAO (pHash <= 5): 135
+Cap TRUNG BINH (6-10): 1415
+Cap THAP (>10): 3508
+So anh loi: 0
+
+pHash chi phuc vu sang loc.
+Khong ket luan trung anh hoac sai nhan tu pHash.
+Chi kiem tra anh mau trong bao cao dHash.
+Khong sua, xoa hoac di chuyen anh goc.

@@ -1,0 +1,69 @@
+{
+  "so_anh_sai_v6": 124,
+  "so_anh_co_the_xem": 124,
+  "so_anh_thieu": 0,
+  "so_cap_trung_hoac_gan_trung_can_xem": 3,
+  "so_luong_theo_co_hieu": {
+    "DUNG_CAY_SAI_BENH": 69,
+    "DU_DOAN_SAI_DIEM_CAO": 60,
+    "SAI_LOAI_CAY": 55,
+    "HAI_MODEL_CAY_BAT_DONG": 35,
+    "NHAN_HEALTHY_NHUNG_MODEL_BAO_BENH_CAN_XEM": 11,
+    "ANH_DO_PHAN_GIAI_THAP": 10,
+    "NGHI_GAN_TRUNG_CAN_XEM": 6,
+    "TEN_FILE_SPECK_NHAN_SPOT": 2,
+    "ANH_DO_TUONG_PHAN_THAP": 1,
+    "CO_THE_MO_HOAC_NHIEU_NEN": 1,
+    "TEN_FILE_CO_THE_LA_ANH_MINH_HOA": 1,
+    "TEN_FILE_TOBRFV_NHAN_MOSAIC": 1
+  },
+  "anh_sai_theo_cay": {
+    "Tomato": 94,
+    "Potato": 23,
+    "Pepper__bell": 4,
+    "Corn": 3
+  },
+  "anh_sai_theo_benh": {
+    "Tomato_Septoria_leaf_spot": 20,
+    "Tomato_Bacterial_spot": 17,
+    "Potato___Early_blight": 14,
+    "Tomato_Leaf_Mold": 13,
+    "Tomato_Late_blight": 12,
+    "Tomato_healthy": 11,
+    "Tomato_Early_blight": 11,
+    "Tomato__Tomato_mosaic_virus": 9,
+    "Potato___Late_blight": 9,
+    "Pepper__bell___healthy": 4,
+    "Corn___Gray_leaf_spot": 2,
+    "Corn___Common_rust": 1,
+    "Tomato_Spider_mites_Two_spotted_spider_mite": 1
+  },
+  "top_20_stt_html": [
+    13,
+    9,
+    36,
+    37,
+    91,
+    50,
+    52,
+    74,
+    103,
+    4,
+    53,
+    55,
+    59,
+    61,
+    66,
+    94,
+    30,
+    32,
+    42,
+    76
+  ],
+  "luu_y": [
+    "CHI DANH DAU NGHI VAN, khong tu dong chuan doan hay sua nhan",
+    "Diem model khong phai do tin cay da hieu chuan",
+    "V6 la Validation da su dung nhieu lan, khong phai tap Test doc lap",
+    "Khong duoc dung anh Validation de fine-tune nhan/model."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "mode": "CHECK_ONLY_NO_IMAGES",
+  "v2": "D:\\DoanHMvUD\\training_runs\\field97_v2_safe\\field97_best_candidate.pth",
+  "v11": "D:\\DoanHMvUD\\La benh ngoai train\\V11\\KET_QUA_V11\\V11_CANDIDATE_ONLY_NOT_DEPLOY.pth",
+  "v3_18": "D:\\DoanHMvUD\\training_runs\\field18_v3_safe\\field18_best_candidate_v3.pth",
+  "images_dir": "D:\\DoanHMvUD\\La benh ngoai train\\V12\\ANH_MOI_DOC_LAP",
+  "v2_present": true,
+  "v11_present": true,
+  "v3_present": true,
+  "image_count": 0,
+  "no_old_validation_or_test_opened": true,
+  "no_training": true,
+  "warning": "Chua co tap anh moi duoc xac minh. Khong co Accuracy cho V12.",
+  "check_ok": true
+}

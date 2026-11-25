@@ -1,0 +1,4 @@
+﻿anh_1,anh_2,loai,dhash_distance,label_1,label_2
+74,76,NGHI_GAN_TRUNG_CAN_XEM,1,Tomato_Early_blight,Tomato_Early_blight
+78,79,NGHI_GAN_TRUNG_CAN_XEM,0,Tomato_Late_blight,Tomato_Late_blight
+101,108,NGHI_GAN_TRUNG_CAN_XEM,0,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot

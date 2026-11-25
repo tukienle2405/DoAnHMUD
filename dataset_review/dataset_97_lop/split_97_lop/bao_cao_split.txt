@@ -1,0 +1,16 @@
+BAO CAO CHIA DATASET 97 LOP - DU KIEN
+==================================================
+Tong anh: 125228
+So lop: 97
+Train: 102577
+Validation: 11233
+Test: 11414
+Anh cach ly: 4
+So nhom ro ri theo ID: 0
+
+LUU Y:
+Day la split DU KIEN, chua phai FINAL.
+Nhom gan trung chua duoc xac minh day du.
+Anh co needs_label_review=YES can xac minh nhan.
+Chua dam bao khong ro ri anh xoay/lat.
+Khong sua, xoa hay di chuyen anh goc.

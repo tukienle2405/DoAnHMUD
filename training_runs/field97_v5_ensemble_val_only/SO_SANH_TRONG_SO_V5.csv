@@ -1,0 +1,6 @@
+﻿alpha_v3,field_val_crop_correct,field_val_crop_pct,field_val_joint_correct,field_val_joint_pct,old_val_crop_correct,old_val_crop_pct,passes_validation_rules,per_crop_guard_ok
+0.0,142,60.94,75,36.59,269,98.9,False,False
+0.25,149,63.95,75,36.59,270,99.26,False,False
+0.5,162,69.53,78,38.05,271,99.63,False,False
+0.75,171,73.39,80,39.02,271,99.63,False,False
+1.0,173,74.25,81,39.51,271,99.63,False,True

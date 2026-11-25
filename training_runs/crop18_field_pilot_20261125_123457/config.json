@@ -1,0 +1,8 @@
+{
+  "epochs": 2,
+  "batch_size": 8,
+  "old_per_crop": 80,
+  "field_per_crop": 100,
+  "field_weight": 3.0,
+  "seed": 42
+}

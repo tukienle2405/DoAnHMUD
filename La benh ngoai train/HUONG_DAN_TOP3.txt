@@ -1,0 +1,54 @@
+HUONG DAN KIEM TRA TOP3 CAY + 97 BENH
+===================================
+
+MUC TIEU
+- Dung 2 checkpoint CU (18 loai cay field pilot + 97 lop benh).
+- KHONG train, KHONG ghi de checkpoint, KHONG sua Streamlit.
+- Chay lai dung 238 anh Test PlantDoc da khoa.
+- Tinh ca ket qua Top1 chay lai va Top3, KHONG dua ra ket qua gia.
+- 30 anh CHUA_XAC_MINH chi dung de danh gia cay, khong tinh Accuracy benh.
+
+BUOC 1 - CHUAN BI
+- Copy kiem_tra_top3_18_97.py vao D:\DoanHMvUD
+- Copy DU_DOAN_TUNG_ANH(1).csv vao D:\DoanHMvUD
+- Trong D:\DoanHMvUD phai co:
+    model_architecture.py
+    training_runs\crop18_field_pilot_*\best_field_candidate.pth
+    training_runs\plant97_full_*\best_plant_model.pth
+- Anh trong CSV (o D:\DoanHMvUD\external_field_pool_v2\...) van phai ton tai.
+- EXTERNAL_SPLIT_LOCKED.csv tai external_field_pool_v2 neu co se duoc kiem tra de bao dam dung tap Test.
+
+BUOC 2 - MO TERMINAL (POWERSHELL) TAI THU MUC DU AN
+    cd D:\DoanHMvUD
+
+BUOC 3 - KIEM TRA KET QUA CSV (KHONG DUNG GPU)
+    py -3 kiem_tra_top3_18_97.py --mode audit --csv "DU_DOAN_TUNG_ANH(1).csv"
+
+BUOC 4 - CHAY TOP3 TREN 238 ANH (CO GPU THI TU DONG SU DUNG)
+    py -3 -u kiem_tra_top3_18_97.py --csv "DU_DOAN_TUNG_ANH(1).csv" --batch_size 8
+
+Neu may bi loi bo nho CUDA, giam batch_size:
+    py -3 -u kiem_tra_top3_18_97.py --csv "DU_DOAN_TUNG_ANH(1).csv" --batch_size 4
+
+Neu muon chi ro model:
+    py -3 -u kiem_tra_top3_18_97.py --csv "DU_DOAN_TUNG_ANH(1).csv" --model18 "D:\DoanHMvUD\training_runs\crop18_field_pilot_TEN_THU_MUC\best_field_candidate.pth" --model97 "D:\DoanHMvUD\training_runs\plant97_full_20261118_064241\best_plant_model.pth" --batch_size 8
+
+OUTPUT:
+D:\DoanHMvUD\external_field_pool_v2\field_adaptation_v1\KET_QUA_TOP3_18_97\
+
+CAC FILE KET QUA:
+- TONG_KET_TOP3.json: Top1 chay lai, Top3 chinh, Top3 doi chung.
+- DU_DOAN_TOP3_TUNG_ANH.csv: xep hang Top3 va benh ung vien tung anh.
+- BAO_CAO_TOP3_THEO_NHOM.csv: ket qua theo tung nhom benh.
+- CA_CHUA_TOP3_CON_SAI.csv: anh ca chua ma Top3 van nhan sai.
+- PHAN_TICH_CSV_HIEN_TAI.json: so lieu baseline, gioi han (oracle) Top3.
+- NHAM_LAN_BENH_CA_CHUA.csv, BENH_CA_CHUA_THEO_LOP.csv.
+- ANH_CHUA_XAC_MINH.csv: 30 anh loai khoi danh gia benh.
+- ANH_CO_THE_CUU_BANG_TOP3.csv: 18 anh co tiem nang sua khi chon dung cay.
+
+Luu y:
+- Top3 primary dung P18(cay) * P97(benh | cay, anh). Chi la DIEM xep hang, khong phai muc do tin cay da hieu chuan.
+- Top3 global la phuong an doi chung, khong phai 'chon model tot nhat' theo Test.
+- Neu ket qua Top3 khong tang so voi Top1 chay lai: KHONG tich hop vao app.
+- Neu diem tang: van can kiem tra Validation doc lap va cac anh ngoai o 18 cay truoc khi tich hop.
+- Script se canh bao khi checkpoint/transform chay lai khong khop du doan cu trong CSV.

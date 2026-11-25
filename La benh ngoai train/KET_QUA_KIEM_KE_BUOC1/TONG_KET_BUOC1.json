@@ -1,0 +1,158 @@
+{
+  "che_do": "READ_ONLY_AUDIT_NOT_AI_DIAGNOSIS",
+  "thoi_diem_chay": "2026-11-25T17:33:30",
+  "so_thu_muc_loai_cay_tim_thay": 18,
+  "so_thu_muc_loai_cay_mong_doi": 18,
+  "so_nhan_benh_danh_muc": 97,
+  "metadata_97": "D:\\DoanHMvUD\\La benh ngoai train\\V10\\dataset_manifest_SPLIT_DU_KIEN(1).csv",
+  "metadata_plantdoc": "D:\\DoanHMvUD\\La benh ngoai train\\V10\\EXTERNAL_SPLIT_LOCKED.csv",
+  "so_dong_du_lieu_goc": {
+    "manifest_97_rows": 125228,
+    "plantdoc_locked_rows": 1194
+  },
+  "so_dong_metadata_khong_trung_duong_dan": 126422,
+  "so_duong_dan_trung_trong_metadata": 0,
+  "theo_nhan_chia_trong_metadata": {
+    "train": 103266,
+    "val": 11466,
+    "test": 11652,
+    "exclude_review": 4,
+    "exclude": 34
+  },
+  "so_anh_ngoai_train_theo_metadata": 23156,
+  "so_anh_vat_ly_quyet_dinh_ngoai_train_bang_file_chia": 23156,
+  "so_anh_vat_ly_quyet_dinh_train_bang_file_chia": 103266,
+  "so_anh_vat_ly_chua_xac_dinh_split": 86845,
+  "so_anh_trong_18_thu_muc_cay": 132,
+  "so_anh_tim_duoc_ngoai_danh_sach_metadata": 86845,
+  "so_anh_duong_dan_ngoai_train_can_ra_soat": 110001,
+  "so_anh_thuc_te_quet_duoc": 213267,
+  "so_anh_metadata_khong_xuat_hien_trong_cac_goc_da_quet": 0,
+  "so_anh_metadata_khong_xuat_hien_theo_split": {},
+  "so_anh_ngoai_metadata_theo_nguon": {
+    "PLANTDOC": 4142,
+    "THU_MUC_18_CAY": 132,
+    "PLANTVILLAGE": 82571
+  },
+  "cac_goc_da_quet": [
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Ca chua",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 64
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Ca phe",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 16
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Cao su",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 0
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Chanh",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 39
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Che",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 0
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Chuoi",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 13
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Dieu",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 0
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\du du",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 0
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\khoai tay",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 0
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Lua nuoc",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 0
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Mia",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 0
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Mit",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 0
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Ngo",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 0
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Oi",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 0
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Ot cay",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 0
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Ot chuong",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 0
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Sau rieng",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 0
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Xoai",
+      "loai": "THU_MUC_18_CAY",
+      "so_anh_tim_thay": 0
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\PlantVillage",
+      "loai": "PLANTVILLAGE",
+      "so_anh_tim_thay": 207799
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\external_field_pool_v2",
+      "loai": "PLANTDOC",
+      "so_anh_tim_thay": 5336
+    },
+    {
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\external_field_pool_v2",
+      "loai": "PLANTDOC_KHAC",
+      "so_anh_tim_thay": 0
+    }
+  ],
+  "goc_thieu": [],
+  "loi_truy_cap": [],
+  "danh_muc_97_chua_duoc_dich": [],
+  "danh_muc_97_khong_nam_trong_manifest": [],
+  "canh_bao": [
+    "Đếm ảnh theo đường dẫn, chưa kiểm tra trùng nội dung SHA256/pHash. Ảnh trùng đổi tên có thể được tính nhiều lần.",
+    "Ảnh không nằm trong manifest KHÔNG đồng nghĩa là ảnh mới hoàn toàn độc lập hoặc có nhãn đúng.",
+    "Nhãn trong dữ liệu chỉ là nhãn nguồn; KHÔNG phải kết luận bệnh từ pixels.",
+    "Thư mục test/train trong đường dẫn KHÔNG được dùng để quyết định split: chỉ tin CSV đã khóa.",
+    "Các ảnh chưa có trong CSV cũ có thể đã được huấn luyện ở một nơi khác; KHÔNG được xem là ngoài Train chắc chắn.",
+    "Các trường metadata đếm toàn bộ CSV, kể cả ảnh không có trong gốc đã quét.",
+    "Dữ liệu nguồn chưa được chuyên gia xác minh, không dùng các số này làm Accuracy.",
+    "Split=train trong manifest không chứng minh ảnh chắc chắn đã được nạp trong từng lần huấn luyện lấy mẫu V2/V3/V11."
+  ]
+}

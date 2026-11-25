@@ -1,0 +1,5 @@
+﻿epoch,stage,train_loss,train_acc_pct,field_val_joint_pct,field_val_given_crop_pct,old_val_acc_pct,retention_ok
+1,head,2.59511,58.83,36.59,54.15,96.12,True
+2,backbone+head,1.6713,65.42,35.61,54.15,96.12,True
+3,backbone+head,1.37856,69.17,34.15,53.17,95.93,True
+4,backbone+head,1.21447,71.83,34.63,51.71,95.93,True

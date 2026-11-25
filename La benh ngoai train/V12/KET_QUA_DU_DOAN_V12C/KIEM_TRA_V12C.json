@@ -1,0 +1,22 @@
+{
+  "mode": "CHECK_NO_INFERENCE",
+  "input_csv": "D:\\DoanHMvUD\\La benh ngoai train\\V12\\KET_QUA_QUET_ANH_V12\\DANH_SACH_UNG_VIEN_V12.csv",
+  "models": {
+    "crop_v3": "D:\\DoanHMvUD\\training_runs\\field18_v3_safe\\field18_best_candidate_v3.pth",
+    "disease_v2": "D:\\DoanHMvUD\\training_runs\\field97_v2_safe\\field97_best_candidate.pth",
+    "disease_v11": "D:\\DoanHMvUD\\La benh ngoai train\\V11\\KET_QUA_V11\\V11_CANDIDATE_ONLY_NOT_DEPLOY.pth"
+  },
+  "checkpoint_present": {
+    "crop_v3": true,
+    "disease_v2": true,
+    "disease_v11": true
+  },
+  "no_training": true,
+  "original_images_untouched": true,
+  "warning": "Anh V12B la anh cu, nhan khong xac minh. KHONG duoc tinh Accuracy.",
+  "csv_rows": 40,
+  "images_found": 40,
+  "missing_or_invalid_images": [],
+  "images_complete": true,
+  "ready_for_predict": true
+}

@@ -1,0 +1,157 @@
+﻿dataset,class_folder,image_count,example_filename
+A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda,A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves,1179,1_0.jpg
+A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda,A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust,1033,1200_0.jpg
+A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda,A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma,1110,2300_0.jpg
+Banana Leaf Image Dataset for Classification of Si,Banana Leaf Image Dataset for Classification of Si\cordana,505,1746918117578(2).jpg
+Banana Leaf Image Dataset for Classification of Si,Banana Leaf Image Dataset for Classification of Si\sanas,544,1746918117674.jpg
+Banana Leaf Image Dataset for Classification of Si,Banana Leaf Image Dataset for Classification of Si\sigatoka,724,1746918117611(2).jpg
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Aumented Dataset\Anthracnose,1000,Anthracnose00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Aumented Dataset\Bacterial Blight,1000,Bacterial Blight00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Aumented Dataset\Citrus Canker,1000,Citrus Canker00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Aumented Dataset\Curl Virus,1000,Curl Virus00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Aumented Dataset\Deficiency Leaf,1000,Deficiency Leaf00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Aumented Dataset\Dry Leaf,1000,Dry Leaf00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Aumented Dataset\Healthy Leaf,1000,Healthy Leaf00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Aumented Dataset\Sooty Mould,1000,Sooty Mould00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Aumented Dataset\Spider Mites,1000,Spider Mites00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Original Dataset\Anthracnose,100,Anthracnose00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Original Dataset\Bacterial Blight,105,bacterial_blight00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Original Dataset\Citrus Canker,178,Citrus_Canker00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Original Dataset\Curl Virus,115,curl_virus00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Original Dataset\Deficiency Leaf,193,Deficiency_leaf00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Original Dataset\Dry Leaf,186,Dry_leaf00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Original Dataset\Healthy Leaf,210,Healthy_leaf00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Original Dataset\Sooty Mould,153,sooty_mould00001.JPG
+Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Original Dataset\Spider Mites,114,spider_mites00001.JPG
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\test\Leaf_Algal,67,Leaf_Algal_1.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\test\Leaf_Blight,66,Leaf_Blight_100.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\test\Leaf_Colletotrichum,59,Leaf_Colletotrichum_101.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\test\Leaf_Healthy,73,Leaf_Healthy_1.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\test\Leaf_Phomopsis,63,Leaf_Phomopsis_102.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\test\Leaf_Rhizoctonia,61,Leaf_Rhizoctonia_10.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\train\Leaf_Algal,330,Leaf_Algal_10.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\train\Leaf_Blight,309,Leaf_Blight_1.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\train\Leaf_Colletotrichum,281,Leaf_Colletotrichum_1.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\train\Leaf_Healthy,342,Leaf_Healthy_10.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\train\Leaf_Phomopsis,287,Leaf_Phomopsis_101.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\train\Leaf_Rhizoctonia,278,Leaf_Rhizoctonia_1.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\val\Leaf_Algal,65,Leaf_Algal_113.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\val\Leaf_Blight,64,Leaf_Blight_101.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\val\Leaf_Colletotrichum,61,Leaf_Colletotrichum_102.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\val\Leaf_Healthy,69,Leaf_Healthy_11.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\val\Leaf_Phomopsis,61,Leaf_Phomopsis_1.jpg
+Durian_Leaf_Diseases_Release_20261017_v2,Durian_Leaf_Diseases_Release_20261017_v2\val\Leaf_Rhizoctonia,59,Leaf_Rhizoctonia_107.jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\Augmented\Guava_fruit\Disease\Anthracnose,2367,Anthracnose (1)_aug_1.jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\Augmented\Guava_fruit\Disease\Scab,1190,Scab (1)_aug_1.jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\Augmented\Guava_fruit\Disease\Styler end root,2358,Styler end Root (1)_aug_1.jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\Augmented\Guava_fruit\Healthy,4230,Healthy (1)_aug_1.jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\Augmented\Guava_leaf\Disease\Anthracnose,1659,Anthracnose (1)_aug_1.jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\Augmented\Guava_leaf\Disease\Canker,1344,Canker (1)_aug_1.jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\Augmented\Guava_leaf\Disease\Dot,1533,Dot (1)_aug_1.jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\Augmented\Guava_leaf\Disease\Rust,1169,Rust (1)_aug_1.jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\Augmented\Guava_leaf\Helathy,4494,Healthy (1)_aug_1.jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Fruit\Disease\Anthracnose,263,Anthracnose (1).jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Fruit\Disease\Scab,119,Scab (1).jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Fruit\Disease\Styler end root,262,Styler end Root (1).jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Fruit\Healthy,342,Healthy (100).jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Anthracnose,237,Anthracnose (1).jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Canker,192,Canker (1).jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Dot,219,Dot (1).jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Rust,167,Rust (1).jpg
+Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Healthy,1248,Healthy (1).jpg
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\augmented\Anthracnose,1150,image_100_aug_1.jpg
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\augmented\BacterialSpot,1070,image_100_aug_1.jpg
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\augmented\Curl,3890,image_100_aug_1.jpg
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\augmented\Healthy,2970,image_100_aug_1.jpg
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\augmented\Mealybug,910,image_100_aug_1.jpg
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\augmented\Mite disease,2760,image_100_aug_1.jpg
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\augmented\Mosaic,2730,image_100_aug_1.jpg
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\augmented\Ringspot,2650,image_100_aug_1.jpg
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\new\Anthracnose,230,1730354693037.png
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\new\BacterialSpot,214,Anthracnose_increased_1.png
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\new\Curl,778,075c28da-9e91-40bf-9558-572fac762ced.png
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\new\Healthy,594,0186bd04-1f45-4c30-bb4b-704f9017bd00.png
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\new\Mealybug,182,Anthracnose_increased_1.png
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\new\Mite disease,552,1424cf3c-8dd9-4387-94a8-7d17247400c9.png
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\new\Mosaic,546,0725ba76-4889-448d-8d85-8c348ce9a2fe.png
+Papaya Leaf Disease Image Dataset,Papaya Leaf Disease Image Dataset\new\Ringspot,530,0725ba76-4889-448d-8d85-8c348ce9a2fe - Copy.png
+Rubber_Leaf_Dataset,Rubber_Leaf_Dataset\Raw_Dataset\Anthracnose,300,anthracnose_1.jpg
+Rubber_Leaf_Dataset,Rubber_Leaf_Dataset\Raw_Dataset\Dry_Leaf,450,dry_1.jpg
+Rubber_Leaf_Dataset,Rubber_Leaf_Dataset\Raw_Dataset\Healthy,506,healthy_1.jpg
+Rubber_Leaf_Dataset,Rubber_Leaf_Dataset\Raw_Dataset\Leaf_Spot,484,leaf_spot_1.jpg
+Rubber_Leaf_Dataset,Rubber_Leaf_Dataset\rubber_Compressed_Dataset\Anthracnose,301,anthracnose_1.jpg
+Rubber_Leaf_Dataset,Rubber_Leaf_Dataset\rubber_Compressed_Dataset\Dry_Leaf,450,dry_1.jpg
+Rubber_Leaf_Dataset,Rubber_Leaf_Dataset\rubber_Compressed_Dataset\Healthy,506,healthy_1.jpg
+Rubber_Leaf_Dataset,Rubber_Leaf_Dataset\rubber_Compressed_Dataset\Leaf_Spot,484,leaf_spot_1.jpg
+Sugarcane Leaf Image Dataset,Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis,471,image001.jpg
+Sugarcane Leaf Image Dataset,Sugarcane Leaf Image Dataset\Diseases\Brown Spot,1722,image001.jpg
+Sugarcane Leaf Image Dataset,Sugarcane Leaf Image Dataset\Diseases\BrownRust,314,image001.jpg
+Sugarcane Leaf Image Dataset,Sugarcane Leaf Image Dataset\Diseases\Grassy shoot,346,image001.jpg
+Sugarcane Leaf Image Dataset,Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng,297,Pokkah Boeng001.jpg
+Sugarcane Leaf Image Dataset,Sugarcane Leaf Image Dataset\Diseases\Sett Rot,652,Sett Rot001.jpg
+Sugarcane Leaf Image Dataset,Sugarcane Leaf Image Dataset\Diseases\Viral Disease,663,Viral Disease001.jpg
+Sugarcane Leaf Image Dataset,Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf,1194,Yellow Leaf001.jpg
+Sugarcane Leaf Image Dataset,Sugarcane Leaf Image Dataset\Diseases\smut,316,Smut001.jpg
+Sugarcane Leaf Image Dataset,Sugarcane Leaf Image Dataset\Dried Leaves,343,image001.jpg
+Sugarcane Leaf Image Dataset,Sugarcane Leaf Image Dataset\Healthy Leaves,430,image001.jpg
+Tea Leaf Dataset,Tea Leaf Dataset\Tea Leaf Dataset\Diseased Leaves\Blister_Blight,13500,Blister_Blight1.jpg
+Tea Leaf Dataset,Tea Leaf Dataset\Tea Leaf Dataset\Diseased Leaves\Brown_Blight,13500,Brown_Blight1.jpg
+Tea Leaf Dataset,Tea Leaf Dataset\Tea Leaf Dataset\Diseased Leaves\Leaf_Red_Rust,13500,Leaf_Red_Rust1.jpg
+Tea Leaf Dataset,Tea Leaf Dataset\Tea Leaf Dataset\Diseased Leaves\Red_Spider_Mite,13500,Red_Spider_Mite1.jpg
+Tea Leaf Dataset,Tea Leaf Dataset\Tea Leaf Dataset\Diseased Leaves\Tea_Mosquito_Bug,13500,Tea_Mosquito_Bug1.jpg
+Tea Leaf Dataset,Tea Leaf Dataset\Tea Leaf Dataset\Healthy Leaves\Healthy_leaves,12829,Healthy_leaf1.jpg
+cashew and jackfruit,cashew and jackfruit\cashew leaf\cashew fungal infection,250,20251217_140740.jpg
+cashew and jackfruit,cashew and jackfruit\cashew leaf\cashew healthy,250,20251217_140341.jpg
+cashew and jackfruit,cashew and jackfruit\jackfruit leaf\jackfruit algal,245,algal_(1).png
+cashew and jackfruit,cashew and jackfruit\jackfruit leaf\jackfruit anthracnose,349,anthracnose_(1).png
+cashew and jackfruit,cashew and jackfruit\jackfruit leaf\jackfruit healthy,316,healthy_(1).png
+cashew and jackfruit,cashew and jackfruit\jackfruit leaf\jackfruit leaf spot,368,leaf_spot_(1).png
+cashew and jackfruit,cashew and jackfruit\jackfruit leaf\jackfruit phyllosticta,345,phyllosticta_(1).png
+cashew and jackfruit,cashew and jackfruit\jackfruit leaf\jackfruit sooty mold,220,sooty_mold_(1).png
+chileleaf,chileleaf\Bacterial_Spot,1629,Bacterial_Spot_001.jpg
+chileleaf,chileleaf\Cercospora_Leaf_Spot,1898,Cercospora Leaf Spot_001.jpg
+chileleaf,chileleaf\Curl_Virus,1590,Curl Virus_1.jpg
+chileleaf,chileleaf\Healthy_Leaf,1647,Healthy_Leaf_001.png
+corndisease,corndisease\Blight,1146,Corn_Blight (1).jpeg
+corndisease,corndisease\Common_Rust,1306,Corn_Common_Rust (1).jpg
+corndisease,corndisease\Gray_Leaf_Spot,574,Corn_Gray_Spot (1).jpg
+corndisease,corndisease\Healthy,1162,Corn_Health (1).jpg
+mago,mago\Mango Dataset\Anthracnose,2075,20211011_131304 (Custom).jpg
+mago,mago\Mango Dataset\Bacterial Canker,2894,20241027_140832-removebg-preview.png
+mago,mago\Mango Dataset\Cutting Weevil,1890,20211011_131101 (Custom).jpg
+mago,mago\Mango Dataset\Gall Midge,2552,IMG-20241104-WA0001.jpg
+mago,mago\Mango Dataset\Healthy,1500,20211231_123123 (Custom).jpg
+mago,mago\Mango Dataset\Powdery Mildew,981,2.JPG
+mago,mago\Mango Dataset\Sooty Mould,1590,IMG-20241104-WA0066.jpg
+mago,mago\Mango Dataset\die back,1600,20211129_160425 (Custom).jpg
+mago,mago\mango leaf\mango anthracnose,500,mango anthracnose (1).jpg
+mago,mago\mango leaf\mango die back,500,mango die back (1).jpg
+mago,mago\mango leaf\mango gall midge,500,mango gall midge (1).jpg
+mago,mago\mango leaf\mango healthy,500,mango healthy (1).jpg
+mago,mago\mango leaf\mango powdery mildew,500,mango powdery mildew (1).jpg
+mago,mago\mango leaf\mango sooty mould,209,mango sooty mould (1).jpg
+pepper,pepper\Pepper__bell___Bacterial_spot,997,0022d6b7-d47c-4ee2-ae9a-392a53f48647___JR_B.Spot 8964.JPG
+pepper,pepper\Pepper__bell___healthy,1478,00100ffa-095e-4881-aebf-61fe5af7226e___JR_HL 7886.JPG
+potato,potato\Potato___Early_blight,1000,001187a0-57ab-4329-baff-e7246a9edeb0___RS_Early.B 8178.JPG
+potato,potato\Potato___Late_blight,1000,0051e5e8-d1c4-4a84-bf3a-a426cdad6285___RS_LB 4640.JPG
+potato,potato\Potato___healthy,152,00fc2ee5-729f-4757-8aeb-65c3355874f2___RS_HL 1864.JPG
+rice_leaf_diseases,rice_leaf_diseases\Bacterial leaf blight,40,DSC_0365.JPG
+rice_leaf_diseases,rice_leaf_diseases\Brown spot,40,DSC_0100.jpg
+rice_leaf_diseases,rice_leaf_diseases\Leaf smut,40,DSC_0293.JPG
+tomato,tomato\Tomato_Bacterial_spot,2127,00416648-be6e-4bd4-bc8d-82f43f8a7240___GCREC_Bact.Sp 3110.JPG
+tomato,tomato\Tomato_Early_blight,1000,0012b9d2-2130-4a06-a834-b1f3af34f57e___RS_Erly.B 8389.JPG
+tomato,tomato\Tomato_Late_blight,1909,0003faa8-4b27-4c65-bf42-6d9e352ca1a5___RS_Late.B 4946.JPG
+tomato,tomato\Tomato_Leaf_Mold,952,00694db7-3327-45e0-b4da-a8bb7ab6a4b7___Crnl_L.Mold 6923.JPG
+tomato,tomato\Tomato_Septoria_leaf_spot,1771,002533c1-722b-44e5-9d2e-91f7747b2543___Keller.St_CG 1831.JPG
+tomato,tomato\Tomato_Spider_mites_Two_spotted_spider_mite,1676,002835d1-c18e-4471-aa6e-8d8c29585e9b___Com.G_SpM_FL 8584.JPG
+tomato,tomato\Tomato__Target_Spot,1404,002213fb-b620-4593-b9ac-6a6cc119b100___Com.G_TgS_FL 8360.JPG
+tomato,tomato\Tomato__Tomato_YellowLeaf__Curl_Virus,3208,00139ae8-d881-4edb-925f-46584b0bd68c___YLCV_NREC 2944.JPG
+tomato,tomato\Tomato__Tomato_mosaic_virus,373,000ec6ea-9063-4c33-8abe-d58ca8a88878___PSU_CG 2169.JPG
+tomato,tomato\Tomato_healthy,1591,000146ff-92a4-4db6-90ad-8fce2ae4fddd___GH_HL Leaf 259.1.JPG
+tomato,tomato\tomato bacterial spot,376,tomato bacterial spot (1).jpg
+tomato,tomato\tomato blight,290,tomato blight (1).jpg
+tomato,tomato\tomato curl virus,394,tomato curl virus (1).jpg
+tomato,tomato\tomato healthy,278,tomato healthy (1).jpeg
+tomato,tomato\tomato insect damage,336,tomato insect damage (1).jpg
+tomato,tomato\tomato leaf mold,222,tomato leaf mold (1).jpg
+tomato,tomato\tomato spider mites,307,tomato spider mites (1).jpg

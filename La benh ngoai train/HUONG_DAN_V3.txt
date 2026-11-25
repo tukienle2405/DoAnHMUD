@@ -1,0 +1,39 @@
+NANG CAP V3 - DANH GIA DUNG LOAI CAY VA DUNG BENH LA
+
+DA XAC NHAN TU LOG V2 CUA BAN
+- Test co nhan benh 208 anh; V2 dung dong thoi ca cay va benh 67 anh (32,21%)
+- V1 dung 56 anh (26,92%), V2 tang 11 anh (+5,29 diem phan tram)
+- V2 VAL 63/205 => 75/205 o epoch 1 (30,73% => 36,59%)
+- Model 18 chua cai thien: test 129/208 dung cay (62,02%); val 121/205 (59,02%)
+
+V3 CO HAI PHAN
+- Fusion: phoi hop P18(cay) + tong P97(benh thuoc cay) tren Validation.
+  Neu co cai thien, luu config va bao cao, khong sua App.
+- Fine-tune model18: dung 689 anh TRAIN loai cay, old replay co nhan da kiem tra,
+  ket hop model97 V2 de chon epoch theo do chinh xac DUNG CA CAY+BENH tren VAL.
+
+CANH BAO
+- 238 anh Test da duoc mo ket qua o V2; V3 KHONG SU DUNG TEST de chon tham so.
+- 233 anh Validation chi co 4 cay (ngo, ot chuong, khoai tay, ca chua).
+- Original validation da loc chi co 17/18 cay, THIEU Papaya.
+- Chua co co so cam ket nhan dien dung moi loai cay va moi loai benh tu anh thuc te.
+- Do khong co checkpoint va anh goc tren may ChatGPT, phai chay tren may Windows cua ban.
+- Khong ghi de checkpoint, khong tu sua Streamlit, khong dung 30 anh chua xac minh de tinh do dung benh.
+
+CACH CHAY
+- Giai nen TOAN BO zip vao D:\DoanHMvUD\La benh ngoai train\
+- File ZIP co V2 helper, lock CSV, manifest va model_architecture.py.
+- Chay: py -3 -u CHAY_V3_TU_DONG.py
+- Hoac mo CHAY_V3_WINDOWS.bat.
+
+YEU CAU CO SAN
+- D:\DoanHMvUD\training_runs\crop18_field_pilot_20261125_123457\best_field_candidate.pth
+- D:\DoanHMvUD\training_runs\field97_v2_safe\field97_best_candidate.pth (V2 ban vua train)
+- Anh field va anh old theo duong dan D:\... da dung de chay V2.
+
+FILE KET QUA V3
+- D:\DoanHMvUD\training_runs\field97_v3_fusion_val_only\TONG_KET_FUSION_VALIDATION.json
+- D:\DoanHMvUD\training_runs\field18_v3_safe\QUYET_DINH_V3_VALIDATION.json
+- D:\DoanHMvUD\training_runs\TOM_TAT_V3_VALIDATION.json
+
+NHAC LAI: CHI VAL MOI DUOC DUNG CHON MODEL, khong tiep tuc doi Test de tim "tiep" do chinh xac.

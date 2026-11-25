@@ -1,0 +1,47 @@
+{
+  "baseline": {
+    "field_crop": {
+      "correct": 142,
+      "total": 233,
+      "pct": 60.94
+    },
+    "field_joint": {
+      "total": 205,
+      "crop_correct": 121,
+      "crop_pct": 59.02,
+      "joint_correct": 75,
+      "joint_pct": 36.59,
+      "given_true_crop_correct": 111,
+      "given_true_crop_pct": 54.15,
+      "free_97_correct": 69,
+      "free_97_pct": 33.66
+    },
+    "old_crop": {
+      "correct": 269,
+      "total": 272,
+      "pct": 98.9
+    }
+  },
+  "best": {
+    "epoch": 6,
+    "stage": "backbone+head",
+    "train_loss": 0.47395,
+    "train_acc_pct": 88.08,
+    "field_val_crop_correct": 173,
+    "field_val_crop_pct": 74.25,
+    "field_val_joint_correct": 81,
+    "field_val_joint_pct": 39.51,
+    "old_val_crop_pct": 99.63,
+    "old_retention_ok": true,
+    "field_crop_not_worse": true
+  },
+  "gain_joint_pp": 2.92,
+  "approved_for_new_independent_verification": true,
+  "candidate_path": "D:\\DoanHMvUD\\training_runs\\field18_v3_safe\\field18_best_candidate_v3.pth",
+  "missing_old_val_crops": [
+    "Papaya"
+  ],
+  "no_field_test_used": true,
+  "no_auto_deploy": true,
+  "warning": "17/18 old crop val coverage if Papaya is missing. Need separately verified Papaya images for safe deployment."
+}

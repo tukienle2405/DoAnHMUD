@@ -1,0 +1,42 @@
+V7 - RA SOAT ANH LA TU DONG (KHONG TU SUA NHAN)
+
+1) TAI VA GIAI NEN
+- Tai BO_RASOAT_TU_DONG_V7.zip.
+- Giai nen TOAN BO ZIP TRUC TIEP vao thu muc:
+  D:\DoanHMvUD\La benh ngoai train
+- Can co 3 file cung cap trong thu muc nay:
+  rasoat_v7.py
+  CHAY_V7.bat
+  CAC_ANH_DU_DOAN_SAI_CAN_XEM.csv
+- Khong can sao chep file checkpoint .pth hay chay lai huan luyen.
+
+2) CHAY
+- Mo PowerShell va copy 2 dong sau:
+  cd "D:\DoanHMvUD\La benh ngoai train"
+  py -3 -u rasoat_v7.py
+- Hoac click dup CHAY_V7.bat.
+- Neu thong bao thieu Pillow:
+  py -3 -m pip install Pillow
+  roi chay lai lenh V7.
+
+3) V7 LAM GI?
+- Tu dong doc 124 anh sai tu CSV V6.
+- Uu tien anh sai cay, sai diem cao, bat dong 2 mo hinh, nghi van ten file.
+- Kiem tra chat luong anh va goi y anh trung/gan trung (chua phai ket luan).
+- Neu duong dan anh D:\ con ton tai: doc truc tiep anh goc.
+- Neu khong, se thu tim anh da nhung trong file
+  KET_QUA_RASOAT_V6\XEM_ANH_DU_DOAN_SAI.html.
+- Tao bao cao va HTML anh xem nhanh, khong tu sua CSV nhan.
+
+4) KET QUA
+D:\DoanHMvUD\La benh ngoai train\KET_QUA_V7_TU_DONG
+
+5) GUI LAI CHATGPT DUNG 3 FILE TRONG THU MUC KET QUA
+- TONG_KET_V7.json
+- DANH_SACH_UU_TIEN_V7.csv
+- NHOM_ANH_GAN_TRUNG_V7.csv
+
+Neu file HTML de xem anh bi loi, co the gui them XEM_ANH_UU_TIEN_V7.html.
+
+Luu y: Day la rang loc nghi van, KHONG thay the xac minh nhan boi chuyen gia.
+Khong dung bo Validation cu de dua ra tuyen bo do chinh xac tren anh moi.

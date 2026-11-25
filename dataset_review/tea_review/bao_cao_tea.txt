@@ -1,0 +1,22 @@
+BAO CAO KIEM TRA DATASET CHE
+=============================================
+So anh doc duoc: 80329
+So anh loi: 0
+So lop tim thay: 6
+
+SO ANH THEO LOP:
+Blister_Blight: 13500
+Brown_Blight: 13500
+Healthy: 12829
+Leaf_Red_Rust: 13500
+Red_Spider_Mite: 13500
+Tea_Mosquito_Bug: 13500
+
+KET QUA KIEM TRA:
+CHUA_XAC_MINH_NGUON: 80329
+So nhom dHash nghi van: 2143
+
+Chua xac minh nguon augmentation.
+Chua kiem tra anh gan trung co dHash khac nhau.
+Chua chia Train/Validation/Test.
+Khong xoa hoac di chuyen anh goc.

@@ -1,0 +1,6 @@
+V8 la bao cao da duoc xu ly, KHONG CAN CHAY LENH.
+File BAO_CAO_PHAN_TICH_V8.html: mo bang Chrome hoac Edge.
+File BANG_BAO_PHU_97_LOP_V8.csv: bang bao phu train/val/test theo class.
+File TONG_HOP_PHAN_TICH_V8.json: tom tat may doc duoc.
+Khong sua nhan; khong huan luyen model; khong ghi de checkpoint; khong dung Validation de train.
+Khong can gui lai tep nao vi toi da co du lieu goc.

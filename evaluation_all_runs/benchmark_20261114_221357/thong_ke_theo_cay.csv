@@ -1,0 +1,10 @@
+﻿crop,total,correct,incorrect,accuracy_percent
+Cao su,18,18,0,100.0
+Cà chua,157,153,4,97.45
+Cà phê,40,38,2,95.0
+Khoai tây,26,26,0,100.0
+Lúa nước,2,2,0,100.0
+Ngô,34,30,4,88.24
+Xoài,125,125,0,100.0
+Ớt cay,70,70,0,100.0
+Ớt chuông,28,28,0,100.0

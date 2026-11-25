@@ -1,0 +1,842 @@
+﻿path,class,split,reason
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_391.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_392.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_393.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_394.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_395.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_396.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_397.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_398.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_399.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_400.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_401.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_402.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_403.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_404.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_405.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_406.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_407.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_408.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_409.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_410.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_411.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_412.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_413.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_414.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_415.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_416.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_417.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_418.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_419.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_420.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_421.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_422.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_423.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_424.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_425.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_426.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_427.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_428.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_429.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_430.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_431.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_432.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_433.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_434.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_435.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_436.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_437.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_438.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_439.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_440.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_491.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_492.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_493.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_494.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_495.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_496.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_497.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_498.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_499.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_500.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_501.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_502.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_503.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_504.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_505.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_506.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_507.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_508.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_509.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_510.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_511.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_512.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_513.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_514.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_515.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_516.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_517.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_518.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_519.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_520.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_521.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_522.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_523.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_524.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_525.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_526.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_527.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_528.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_529.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_530.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_531.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_532.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_533.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_534.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_535.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_536.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_537.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_538.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_539.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_540.jpg,Coffee___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_43.jpg,Coffee___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_44.jpg,Coffee___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_1008.jpg,Coffee___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_1016.jpg,Coffee___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_17.jpg,Coffee___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_175.jpg,Coffee___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_233.jpg,Coffee___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_250.jpg,Coffee___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_314.jpg,Coffee___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_71.jpg,Coffee___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_93.jpg,Coffee___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_100.jpg,Coffee___Phoma,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_146.jpg,Coffee___Phoma,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_153.jpg,Coffee___Phoma,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_183.jpg,Coffee___Phoma,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_194.jpg,Coffee___Phoma,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_212.jpg,Coffee___Phoma,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_217.jpg,Coffee___Phoma,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_482.jpg,Coffee___Phoma,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_518.jpg,Coffee___Phoma,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Original Dataset\Healthy Leaf\Healthy_leaf00103.JPG,Lemon___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture\Original Dataset\Sooty Mould\sooty_mould00001.JPG,Lemon___Sooty_mould,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image188.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image069.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng101.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut111.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng107.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut117.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image052.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image647.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng041.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut051.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease293.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Healthy Leaves\image006.jpg,Sugarcane___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image205.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image086.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng090.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut100.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease177.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf538.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease027.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut147.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease297.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Healthy Leaves\image010.jpg,Sugarcane___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf003.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image241.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image640.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image034.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng040.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut050.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease294.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Healthy Leaves\image007.jpg,Sugarcane___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease025.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut145.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease022.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut142.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease178.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf539.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease021.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut141.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf422.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image237.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease009.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut129.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image166.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease239.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image222.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image006.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng089.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut099.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease003.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut123.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image168.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease241.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng017.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut027.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image200.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image081.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Dot\Dot (1).jpg,Guava___Dot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Rust\Rust (23).jpg,Guava___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Dot\Dot (195).jpg,Guava___Dot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Rust\Rust (118).jpg,Guava___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Dot\Dot (196).jpg,Guava___Dot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Rust\Rust (119).jpg,Guava___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Dot\Dot (197).jpg,Guava___Dot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Rust\Rust (120).jpg,Guava___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Dot\Dot (198).jpg,Guava___Dot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Rust\Rust (121).jpg,Guava___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Dot\Dot (199).jpg,Guava___Dot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Rust\Rust (122).jpg,Guava___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Dot\Dot (200).jpg,Guava___Dot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Rust\Rust (123).jpg,Guava___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Dot\Dot (201).jpg,Guava___Dot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Rust\Rust (124).jpg,Guava___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Dot\Dot (202).jpg,Guava___Dot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Rust\Rust (125).jpg,Guava___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Dot\Dot (203).jpg,Guava___Dot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Rust\Rust (127).jpg,Guava___Rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image037.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image627.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image038.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image628.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image039.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image629.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image040.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image630.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image041.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image631.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image042.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image632.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image043.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image633.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image044.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image634.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image045.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image635.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image046.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image636.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image047.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image642.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image048.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image643.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image049.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image644.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image050.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image645.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image051.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image646.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease181.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf542.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng037.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut047.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image155.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease228.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image156.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease229.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image157.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease230.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image158.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease231.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image159.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease232.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image160.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease233.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image161.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease234.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image162.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease235.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image163.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease236.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image164.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease237.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image165.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease238.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image167.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease240.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image169.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease242.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image170.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease243.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image171.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease244.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image172.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease245.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image173.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease246.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image174.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease247.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image175.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease248.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image176.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease249.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng026.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut036.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image186.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image067.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image187.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image068.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image189.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image070.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image190.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image071.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image191.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image072.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image192.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image073.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image193.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image074.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image194.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image075.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image195.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image076.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image196.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image077.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image197.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image078.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image198.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image079.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image199.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image080.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image201.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image082.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image202.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image083.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image203.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image084.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image204.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image085.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image206.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image087.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image207.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image088.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image208.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image089.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image209.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image090.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image210.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image091.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image211.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image092.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image212.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image093.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image213.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image094.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image214.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image095.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image215.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image096.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image216.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image097.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image217.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image001.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image218.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image002.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image219.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image003.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image220.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image004.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image221.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image005.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image223.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image007.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image224.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image008.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image225.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image009.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image232.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image040.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image233.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image041.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image234.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image042.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image235.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image043.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image236.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image044.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image237.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image045.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image238.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image046.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image239.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image047.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image240.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image048.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image241.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image049.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image242.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image050.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image243.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image051.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image244.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image052.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image245.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image053.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image246.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image054.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image247.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image055.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image248.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image056.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image249.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image057.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image250.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image058.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image251.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image059.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image252.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image060.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image253.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image061.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image254.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image062.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image255.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image063.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image256.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image064.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image257.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image065.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Banded Chlorosis\image258.jpg,Sugarcane___Banded_chlorosis,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image066.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image137.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease168.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease020.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut140.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image549.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf553.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image550.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf554.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image637.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image031.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image638.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image032.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image639.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image033.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Brown Spot\image641.jpg,Sugarcane___Brown_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image035.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng052.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut062.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng022.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut032.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image128.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease159.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image129.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease160.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image130.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease161.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image131.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease162.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image132.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease163.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image133.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease164.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image134.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease165.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image135.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease166.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\BrownRust\image136.jpg,Sugarcane___Brown_rust,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease167.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng001.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut011.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng002.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut012.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng003.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut013.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng004.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut014.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng005.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut015.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng006.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut016.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng007.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut017.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng008.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut018.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng009.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut019.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng010.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut020.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng011.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut021.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng012.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut022.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng013.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut023.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng014.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut024.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng015.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut025.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng016.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut026.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng018.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut028.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng019.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut029.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng020.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut030.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng021.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut031.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng023.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut033.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng024.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut034.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng025.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut035.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng027.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut037.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng028.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut038.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng029.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut039.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng030.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut040.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng031.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut041.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng032.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut042.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng033.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut043.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng034.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut044.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng035.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut045.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng036.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut046.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng038.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut048.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng039.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut049.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng042.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut052.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng043.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut053.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng044.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut054.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng045.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut055.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng046.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut056.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng047.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut057.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng048.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut058.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng049.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut059.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng050.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut060.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng051.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut061.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng053.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut063.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng054.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut064.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng055.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut065.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng056.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut066.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng057.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut067.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng058.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut068.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng059.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut069.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng060.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut070.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng061.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut071.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng062.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut072.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng063.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut073.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng064.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut074.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng065.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut075.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng066.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut076.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng067.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut077.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng068.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut078.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng069.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut079.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng070.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut080.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng071.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut081.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng072.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut082.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng073.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut083.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng074.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut084.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng075.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut085.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng076.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut086.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng077.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut087.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng078.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut088.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng079.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut089.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng080.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut090.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng081.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut091.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng082.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut092.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng083.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut093.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng084.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut094.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng085.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut095.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng086.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut096.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng087.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut097.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng088.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut098.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng091.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut101.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng092.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut102.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng093.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut103.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng094.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut104.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng095.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut105.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng096.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut106.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng097.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut107.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng098.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut108.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng099.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut109.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng100.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut110.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng102.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut112.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng103.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut113.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng104.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut114.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng105.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut115.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng106.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut116.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng108.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut118.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng109.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut119.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Pokkah Boeng\Pokkah Boeng110.jpg,Sugarcane___Pokkah_boeng,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut120.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease001.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut121.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease002.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut122.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease004.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut124.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease005.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut125.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease006.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut126.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease007.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut127.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease008.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut128.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease010.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut130.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease011.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut131.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease012.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut132.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease013.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut133.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease014.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut134.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease015.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut135.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease016.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut136.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease017.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut137.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease018.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut138.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease019.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut139.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease023.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut143.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease024.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut144.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease026.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut146.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease028.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut148.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease029.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut149.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease030.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\smut\Smut150.jpg,Sugarcane___Smut,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease169.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf530.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease170.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf531.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease171.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf532.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease172.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf533.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease173.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf534.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease174.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf535.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease175.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf536.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease176.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf537.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease179.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf540.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease180.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf541.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease182.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf543.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease183.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf544.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf416.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image231.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease288.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Healthy Leaves\image001.jpg,Sugarcane___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease289.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Healthy Leaves\image002.jpg,Sugarcane___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease290.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Healthy Leaves\image003.jpg,Sugarcane___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease291.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Healthy Leaves\image004.jpg,Sugarcane___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease292.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Healthy Leaves\image005.jpg,Sugarcane___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease295.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Healthy Leaves\image008.jpg,Sugarcane___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease296.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Healthy Leaves\image009.jpg,Sugarcane___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease298.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Healthy Leaves\image011.jpg,Sugarcane___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease299.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Healthy Leaves\image012.jpg,Sugarcane___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Viral Disease\Viral Disease300.jpg,Sugarcane___Viral_disease,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Healthy Leaves\image013.jpg,Sugarcane___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf006.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image244.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf001.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image239.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf002.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image240.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf004.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image242.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf005.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image243.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf414.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image229.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf415.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image230.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf417.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image232.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf418.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image003.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image233.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image246.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf419.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image234.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf420.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image235.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf421.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image236.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Yellow Leaf\Yellow Leaf423.jpg,Sugarcane___Yellow_leaf,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Dried Leaves\image238.jpg,Sugarcane___Dried_leaves,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\cashew leaf\cashew fungal infection\IMG_20251217_142844.jpg,Cashew___Fungal_infection,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\cashew leaf\cashew healthy\IMG_20251217_142844.jpg,Cashew___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\cashew leaf\cashew fungal infection\IMG_20251217_142643.jpg,Cashew___Fungal_infection,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\cashew leaf\cashew healthy\IMG_20251217_142643.jpg,Cashew___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\cashew leaf\cashew fungal infection\IMG_20251217_142652.jpg,Cashew___Fungal_infection,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\cashew leaf\cashew healthy\IMG_20251217_142652.jpg,Cashew___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\cashew leaf\cashew fungal infection\IMG_20251217_142927.jpg,Cashew___Fungal_infection,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\cashew leaf\cashew healthy\IMG_20251217_142927.jpg,Cashew___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\cashew leaf\cashew fungal infection\IMG_20251217_142931.jpg,Cashew___Fungal_infection,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\cashew leaf\cashew healthy\IMG_20251217_142931.jpg,Cashew___healthy,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(207).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(330).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(208).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(331).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(209).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(332).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(210).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(333).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(211).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(334).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(212).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(335).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(213).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(336).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(214).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(337).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(215).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(338).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(216).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(339).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(217).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(340).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(218).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(341).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(219).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(342).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(220).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(343).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(221).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(344).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(222).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(345).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(223).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(346).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(224).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(347).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(225).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(348).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(226).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(349).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(91).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(149).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(92).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(150).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(93).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(151).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(94).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(152).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(95).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(153).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(96).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(154).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(97).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(155).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit algal\algal_(98).png,Jackfruit___Algal,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(156).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit anthracnose\anthracnose_(1).png,Jackfruit___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\cashew and jackfruit\jackfruit leaf\jackfruit phyllosticta\phyllosticta_(249).png,Jackfruit___Phyllosticta,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1104).jpg,Corn___Blight,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (564).jpg,Corn___Gray_leaf_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (77).jpg,Corn___Blight,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (19).jpg,Corn___Gray_leaf_spot,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\mago\Mango Dataset\Anthracnose\IMG_20241103_214646_731.jpg,Mango___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\mago\Mango Dataset\Bacterial Canker\IMG_20241103_214646_731.jpg,Mango___Bacterial_canker,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\mago\Mango Dataset\Anthracnose\IMG_20241103_214714_852.jpg,Mango___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\mago\Mango Dataset\Bacterial Canker\IMG_20241103_214639_926.jpg,Mango___Bacterial_canker,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\mago\Mango Dataset\Anthracnose\IMG_20241103_214803_546.jpg,Mango___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\mago\Mango Dataset\Bacterial Canker\IMG_20241103_214803_546.jpg,Mango___Bacterial_canker,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\mago\Mango Dataset\Anthracnose\IMG_20241103_214820_462.jpg,Mango___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\mago\Mango Dataset\Cutting Weevil\IMG_20241103_214820_462.jpg,Mango___Cutting_weevil,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\mago\Mango Dataset\Anthracnose\IMG_20241103_214820_613 (1).jpg,Mango___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\mago\Mango Dataset\Anthracnose\IMG_20241103_214820_613.jpg,Mango___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\mago\Mango Dataset\Cutting Weevil\IMG_20241103_214820_613.jpg,Mango___Cutting_weevil,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\mago\Mango Dataset\Anthracnose\IMG_20241103_214821_429.jpg,Mango___Anthracnose,pending,MAU_THUAN_NHAN
+D:\DoanHMvUD\PlantVillage\mago\Mango Dataset\Cutting Weevil\IMG_20241103_214821_429.jpg,Mango___Cutting_weevil,pending,MAU_THUAN_NHAN

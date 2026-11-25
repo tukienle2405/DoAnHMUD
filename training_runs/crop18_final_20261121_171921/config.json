@@ -1,0 +1,9 @@
+{
+  "check_only": false,
+  "epochs": 8,
+  "batch_size": 8,
+  "per_crop_per_epoch": 1200,
+  "patience": 3,
+  "resume": "",
+  "seed": 42
+}

@@ -1,0 +1,7 @@
+﻿source,class_name,url,error
+WEB_NGUON,Tomato_Bacterial_spot,https://plantpath.ifas.ufl.edu/u-scout/tomato/images/bacterial-spot/BD42D3F3F7B6438DB1F540851E88DC5D/1-3.png,HTTP Error 404: Not Found
+WEB_NGUON,Papaya___Ringspot,https://gms.ctahr.hawaii.edu/gs/handler/getmedia.ashx?dt=2&g=14&moid=53076,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>
+PLANTDOC,,https://github.com/pratikkayal/PlantDoc-Dataset,Archive qua lon
+Rangamati_Mango_Jackfruit,,https://data.mendeley.com/datasets/94srbmydkw/1,Mendeley API khong co danh sach file: HTTP Error 401: Unauthorized
+Guava_Mango_Jackfruit_Field,,https://data.mendeley.com/datasets/82vn9k44ky/1,Mendeley API khong co danh sach file: HTTP Error 401: Unauthorized
+Coffee_Peru_Field,,https://data.mendeley.com/datasets/mfpxg4y65r/1,Mendeley API khong co danh sach file: HTTP Error 401: Unauthorized

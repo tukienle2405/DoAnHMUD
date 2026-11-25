@@ -1,0 +1,15 @@
+{
+  "epochs": 8,
+  "batch_size": 7,
+  "lr": 5e-05,
+  "patience": 3,
+  "workers": 0,
+  "seed": 42,
+  "init_checkpoint": "auto",
+  "device": "cuda",
+  "amp": true,
+  "train_images": 102577,
+  "validation_images": 11233,
+  "initial_checkpoint": "D:\\DoanHMvUD\\training_runs\\plant97_20261117_202524\\best_plant_model.pth",
+  "manifest": "D:\\DoanHMvUD\\dataset_review\\dataset_97_lop\\split_97_lop\\dataset_manifest_SPLIT_DU_KIEN.csv"
+}

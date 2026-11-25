@@ -1,0 +1,20 @@
+BAO CAO KIEM TRA DATASET
+=============================================
+So file anh thong ke: 207,798
+So thu muc: 156
+So lop du kien: 97
+So lop anh xa duoc: 97
+
+PHAN LOAI ANH:
+CAN_XAC_MINH: 85,370 anh
+DE_XUAT_DUNG: 67,315 anh
+TAM_BO_QUA: 55,113 anh
+
+So anh loi trong mau: 0
+
+CHU Y:
+Chua kiem tra toan bo anh.
+Chua kiem tra trung lap hash/perceptual hash.
+Chua xac minh nhan bang hinh anh.
+CAN_XAC_MINH chua duoc phe duyet de train.
+Khong tu dong xoa, doi ten hay di chuyen anh.

@@ -1,0 +1,43 @@
+{
+  "mode": "TRAIN_ONLY_DATA_AUDIT",
+  "manifest_rows": 125228,
+  "old_class_count": 97,
+  "old_train_not_flagged_for_label_review": 100536,
+  "old_train_flagged_for_label_review": 2041,
+  "classes_without_unflagged_old_train": [
+    "Banana___healthy",
+    "Guava___Dot",
+    "Papaya___Anthracnose",
+    "Papaya___Bacterial_spot",
+    "Papaya___Curl",
+    "Papaya___Mealybug",
+    "Papaya___Mite_damage",
+    "Papaya___Mosaic",
+    "Papaya___Ringspot",
+    "Papaya___healthy",
+    "Sugarcane___Sett_rot"
+  ],
+  "field_locked_split_counts_METADATA_ONLY": {
+    "train": 689,
+    "test": 238,
+    "val": 233,
+    "exclude": 34
+  },
+  "field_train_rows_ok": 689,
+  "field_train_disease_labeled_by_source_group": 601,
+  "field_train_unverified_groups": {
+    "Bell_pepper leaf spot": 42,
+    "Tomato leaf yellow virus": 46
+  },
+  "field_train_disease_classes": 13,
+  "samples_selected_from_train_only": 196,
+  "field_train_name_conflict_sample_count": 10,
+  "sample_images_read": 196,
+  "sample_images_missing": 0,
+  "sample_images_low_resolution": 7,
+  "cross_split_clusters_in_locked_csv": 0,
+  "no_train_or_test_files_modified": true,
+  "no_validation_or_test_images_opened": true,
+  "model_checkpoint_not_touched": true,
+  "disclaimer": "needs_label_review=NO means NOT flagged, NOT professionally verified. No relabel performed. Train samples only."
+}

@@ -1,0 +1,8 @@
+{
+  "original_test_accuracy": 0.08403361344537816,
+  "candidate_test_accuracy": 0.6386554621848739,
+  "original_test_macro_recall4": 0.1964417113423736,
+  "candidate_test_macro_recall4": 0.7647298433722275,
+  "improved_on_test": true,
+  "note": "Chi la test 4 cay PlantDoc, chua du 18 cay ngoai thuc te."
+}

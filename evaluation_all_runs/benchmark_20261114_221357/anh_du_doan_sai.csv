@@ -1,0 +1,11 @@
+﻿image_path,actual_crop,actual_class,predicted_class,predicted_crop,is_correct,confidence_percent
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\1a8e252e-a75b-4d39-9dfb-e09434029183___Com.G_TgS_FL 0711.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,71.1755
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (21).jpg,Ngô,Corn___Blight,Corn___Common_rust,Ngô,0,70.3649
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_127.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,68.8208
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\4b5b48f8-7d82-400a-af7a-43f7804896c6___Com.G_TgS_FL 9762.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,73.6219
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\4803a0a5-ac23-431f-b792-d60a25a268bd___RS_Erly.B 9508.JPG,Cà chua,Tomato_Early_blight,Tomato_Late_blight,Cà chua,0,53.2137
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_241.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,51.4439
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (17).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,99.2925
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\abb40b01-9ffd-4dd8-b46a-371a115110ea___JR_Sept.L.S 8358.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato__Target_Spot,Cà chua,0,47.1494
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1056).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,71.2878
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (695).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,89.0874

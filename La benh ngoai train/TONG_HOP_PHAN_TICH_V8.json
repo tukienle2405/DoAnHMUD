@@ -1,0 +1,180 @@
+{
+  "title": "V8: Auditing V7 result and 97-class manifest, without retraining",
+  "v7_wrong_count": 124,
+  "v7_lock_val_matched": 124,
+  "v7_flags": {
+    "DUNG_CAY_SAI_BENH": 69,
+    "DU_DOAN_SAI_DIEM_CAO": 60,
+    "SAI_LOAI_CAY": 55,
+    "HAI_MODEL_CAY_BAT_DONG": 35,
+    "NHAN_HEALTHY_NHUNG_MODEL_BAO_BENH_CAN_XEM": 11,
+    "ANH_DO_PHAN_GIAI_THAP": 10,
+    "NGHI_GAN_TRUNG_CAN_XEM": 6,
+    "TEN_FILE_SPECK_NHAN_SPOT": 2,
+    "ANH_DO_TUONG_PHAN_THAP": 1,
+    "CO_THE_MO_HOAC_NHIEU_NEN": 1,
+    "TEN_FILE_CO_THE_LA_ANH_MINH_HOA": 1,
+    "TEN_FILE_TOBRFV_NHAN_MOSAIC": 1
+  },
+  "suspicious_near_duplicate_pairs": [
+    {
+      "anh_1": "74",
+      "anh_2": "76",
+      "loai": "NGHI_GAN_TRUNG_CAN_XEM",
+      "dhash_distance": "1",
+      "label_1": "Tomato_Early_blight",
+      "label_2": "Tomato_Early_blight"
+    },
+    {
+      "anh_1": "78",
+      "anh_2": "79",
+      "loai": "NGHI_GAN_TRUNG_CAN_XEM",
+      "dhash_distance": "0",
+      "label_1": "Tomato_Late_blight",
+      "label_2": "Tomato_Late_blight"
+    },
+    {
+      "anh_1": "101",
+      "anh_2": "108",
+      "loai": "NGHI_GAN_TRUNG_CAN_XEM",
+      "dhash_distance": "0",
+      "label_1": "Tomato_Septoria_leaf_spot",
+      "label_2": "Tomato_Septoria_leaf_spot"
+    }
+  ],
+  "phash_cross_split_distance_le_4_pairs": 0,
+  "old_classes_in_manifest": 97,
+  "old_classes_without_train_not_flagged_for_review": [
+    "Banana___healthy",
+    "Guava___Dot",
+    "Papaya___Anthracnose",
+    "Papaya___Bacterial_spot",
+    "Papaya___Curl",
+    "Papaya___Mealybug",
+    "Papaya___Mite_damage",
+    "Papaya___Mosaic",
+    "Papaya___Ringspot",
+    "Papaya___healthy",
+    "Sugarcane___Sett_rot"
+  ],
+  "top_confusions": [
+    {
+      "true": "Tomato_Bacterial_spot",
+      "pred": "Tomato_Septoria_leaf_spot",
+      "count": 8
+    },
+    {
+      "true": "Tomato_Septoria_leaf_spot",
+      "pred": "Tomato_Early_blight",
+      "count": 6
+    },
+    {
+      "true": "Potato___Early_blight",
+      "pred": "Potato___Late_blight",
+      "count": 5
+    },
+    {
+      "true": "Tomato_Leaf_Mold",
+      "pred": "Tomato_Late_blight",
+      "count": 5
+    },
+    {
+      "true": "Tomato_Septoria_leaf_spot",
+      "pred": "Tomato_Bacterial_spot",
+      "count": 4
+    },
+    {
+      "true": "Tomato_healthy",
+      "pred": "Tomato_Leaf_Mold",
+      "count": 3
+    },
+    {
+      "true": "Tomato_Early_blight",
+      "pred": "Tomato_Bacterial_spot",
+      "count": 3
+    },
+    {
+      "true": "Tomato_Early_blight",
+      "pred": "Tomato_Septoria_leaf_spot",
+      "count": 3
+    },
+    {
+      "true": "Tomato_healthy",
+      "pred": "Tomato__Tomato_mosaic_virus",
+      "count": 2
+    },
+    {
+      "true": "Tomato__Tomato_mosaic_virus",
+      "pred": "Tomato_Leaf_Mold",
+      "count": 2
+    },
+    {
+      "true": "Tomato_Early_blight",
+      "pred": "Tomato_Late_blight",
+      "count": 2
+    },
+    {
+      "true": "Corn___Gray_leaf_spot",
+      "pred": "Corn___Blight",
+      "count": 2
+    },
+    {
+      "true": "Tomato__Tomato_mosaic_virus",
+      "pred": "Tomato__Tomato_YellowLeaf__Curl_Virus",
+      "count": 2
+    },
+    {
+      "true": "Tomato_Septoria_leaf_spot",
+      "pred": "Tomato_Leaf_Mold",
+      "count": 2
+    },
+    {
+      "true": "Tomato__Tomato_mosaic_virus",
+      "pred": "Tomato_healthy",
+      "count": 2
+    }
+  ],
+  "top_crop_confusions": [
+    {
+      "true": "Tomato",
+      "pred": "Potato",
+      "count": 20
+    },
+    {
+      "true": "Potato",
+      "pred": "Tomato",
+      "count": 16
+    },
+    {
+      "true": "Tomato",
+      "pred": "Pepper__bell",
+      "count": 9
+    },
+    {
+      "true": "Tomato",
+      "pred": "Corn",
+      "count": 5
+    },
+    {
+      "true": "Pepper__bell",
+      "pred": "Tomato",
+      "count": 3
+    },
+    {
+      "true": "Pepper__bell",
+      "pred": "Potato",
+      "count": 1
+    },
+    {
+      "true": "Potato",
+      "pred": "Pepper__bell",
+      "count": 1
+    }
+  ],
+  "notes": [
+    "needs_label_review=NO means the row is not flagged; it does not constitute expert verification.",
+    "Similarity flags do not prove label errors.",
+    "Validation has already been repeatedly consulted and should not be used to retrain or select more hyperparameters.",
+    "No images or checkpoints were modified."
+  ]
+}

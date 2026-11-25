@@ -1,0 +1,26 @@
+BƯỚC 1 - KIỂM KÊ ẢNH TOÀN DỰ ÁN 18 CÂY / 97 NHÃN
+
+1) Giải nén nội dung ZIP vào:
+   D:\DoanHMvUD\La benh ngoai train\BUOC1_KIEM_KE_ANH
+
+2) Mở PowerShell và chạy:
+   cd "D:\DoanHMvUD\La benh ngoai train\BUOC1_KIEM_KE_ANH"
+   py -3 -u kiem_ke_anh_buoc1.py
+
+3) Nếu các CSV cũ không nằm ở thư mục V10, chỉ rõ đường dẫn:
+   py -3 -u kiem_ke_anh_buoc1.py --manifest "D:\DoanHMvUD\La benh ngoai train\V10\dataset_manifest_SPLIT_DU_KIEN(1).csv" --locked "D:\DoanHMvUD\La benh ngoai train\EXTERNAL_SPLIT_LOCKED.csv"
+
+4) Kết quả nằm ở:
+   D:\DoanHMvUD\La benh ngoai train\KET_QUA_KIEM_KE_BUOC1
+
+5) Gửi ChatGPT 4 file:
+   TONG_KET_BUOC1.json
+   THONG_KE_18_LOAI_CAY.csv
+   THONG_KE_97_NHAN_BENH.csv
+   THONG_KE_THU_MUC_BENH_NGUON.csv
+
+6) Nếu có thông báo thiếu thư mục/CSV, gửi thêm BAO_CAO_BUOC1.txt.
+
+Không cần cài thư viện. Không huấn luyện, không xoá hoặc đổi ảnh. Chỉ kiểm kê file.
+Tên thư mục, tên bệnh và tác nhân trong bản dịch là thông tin từ nhãn nguồn, KHÔNG phải chẩn đoán ảnh.
+Không được báo cáo ảnh lấy từ các tập cũ là Test độc lập mới.

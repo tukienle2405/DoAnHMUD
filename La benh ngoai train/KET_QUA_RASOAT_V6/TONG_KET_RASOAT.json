@@ -1,0 +1,24 @@
+{
+  "validation_images": 233,
+  "labeled_diseases": 205,
+  "unverified_diseases": 28,
+  "crop_correct": 173,
+  "crop_accuracy_pct": 74.25,
+  "joint_correct": 81,
+  "joint_accuracy_pct": 39.51,
+  "joint_wrong": 124,
+  "wrong_crop": 55,
+  "right_crop_wrong_disease": 69,
+  "wrong_joint_high_confidence_08": 60,
+  "model_disagreement_images": 53,
+  "split_audit": {
+    "lock_found": true,
+    "lock_path": "D:\\DoanHMvUD\\La benh ngoai train\\EXTERNAL_SPLIT_LOCKED.csv",
+    "rows": 233,
+    "matched_val": 233,
+    "not_in_lock": [],
+    "not_val": [],
+    "ok": true
+  },
+  "warning": "Accuracy is on reused Validation only, not new independent field images."
+}

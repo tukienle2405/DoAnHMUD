@@ -1,0 +1,22 @@
+{
+  "fusion_validated": false,
+  "crop_training_validated": true,
+  "no_test_touched": true,
+  "streamlit_not_modified": true,
+  "old_checkpoints_not_overwritten": true,
+  "next_required": "Independent image holdout with verified plant and disease labels, including missing crops",
+  "fusion_chosen": null,
+  "crop_chosen": {
+    "epoch": 6,
+    "stage": "backbone+head",
+    "train_loss": 0.47395,
+    "train_acc_pct": 88.08,
+    "field_val_crop_correct": 173,
+    "field_val_crop_pct": 74.25,
+    "field_val_joint_correct": 81,
+    "field_val_joint_pct": 39.51,
+    "old_val_crop_pct": 99.63,
+    "old_retention_ok": true,
+    "field_crop_not_worse": true
+  }
+}

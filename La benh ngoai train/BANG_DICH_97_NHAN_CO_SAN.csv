@@ -1,0 +1,98 @@
+﻿ma_nhan_goc,ma_cay,ten_cay_tieng_viet,ten_benh_tieng_viet,nhom_nguyen_nhan_theo_ten_nhan,xac_minh_benh_tu_anh
+Banana___Cordana,Banana,Chuối,Đốm lá Cordana,Nấm,KHONG
+Banana___Sigatoka,Banana,Chuối,Bệnh đốm lá Sigatoka,Nấm,KHONG
+Banana___healthy,Banana,Chuối,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Cashew___Fungal_infection,Cashew,Điều,Nhiễm nấm trên lá,Nấm (chưa rõ loài),KHONG
+Cashew___healthy,Cashew,Điều,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Chili___Bacterial_spot,Chili,Ớt cay,Đốm lá do vi khuẩn,Vi khuẩn,KHONG
+Chili___Cercospora_leaf_spot,Chili,Ớt cay,Đốm lá Cercospora,Nấm,KHONG
+Chili___Curl_virus,Chili,Ớt cay,Xoăn lá do virus (theo nhãn),Virus (chưa xác định cụ thể),KHONG
+Chili___healthy,Chili,Ớt cay,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Coffee___Phoma,Coffee,Cà phê,Đốm/cháy lá Phoma,Nấm,KHONG
+Coffee___Rust,Coffee,Cà phê,Gỉ sắt lá cà phê,Nấm,KHONG
+Coffee___healthy,Coffee,Cà phê,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Corn___Blight,Corn,Ngô,Bệnh cháy lá ngô,Tác nhân gây bệnh chưa xác định từ nhãn chung,KHONG
+Corn___Common_rust,Corn,Ngô,Gỉ sắt thường trên ngô,Nấm,KHONG
+Corn___Gray_leaf_spot,Corn,Ngô,Đốm lá xám,Nấm,KHONG
+Corn___healthy,Corn,Ngô,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Durian___Algal,Durian,Sầu riêng,Đốm lá do tảo,Tảo,KHONG
+Durian___Blight,Durian,Sầu riêng,Bệnh cháy lá (nhãn chung),Chưa rõ tác nhân,KHONG
+Durian___Colletotrichum,Durian,Sầu riêng,Thán thư do Colletotrichum,Nấm,KHONG
+Durian___Phomopsis,Durian,Sầu riêng,Bệnh lá liên quan Phomopsis,Nấm,KHONG
+Durian___Rhizoctonia,Durian,Sầu riêng,Bệnh lá liên quan Rhizoctonia,Nấm,KHONG
+Durian___healthy,Durian,Sầu riêng,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Guava___Anthracnose,Guava,Ổi,Bệnh thán thư,Nấm,KHONG
+Guava___Canker,Guava,Ổi,Bệnh loét (nhãn chung),Chưa rõ tác nhân,KHONG
+Guava___Dot,Guava,Ổi,Đốm trên lá (nhãn Dot chưa rõ),Chưa rõ tác nhân,KHONG
+Guava___Rust,Guava,Ổi,Bệnh gỉ sắt,"Nấm (theo tên bệnh, cần đối chiếu nguồn)",KHONG
+Guava___healthy,Guava,Ổi,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Jackfruit___Algal,Jackfruit,Mít,Đốm lá do tảo,Tảo,KHONG
+Jackfruit___Anthracnose,Jackfruit,Mít,Bệnh thán thư,Nấm,KHONG
+Jackfruit___Leaf_spot,Jackfruit,Mít,Bệnh đốm lá (nhãn chung),Chưa rõ tác nhân,KHONG
+Jackfruit___Phyllosticta,Jackfruit,Mít,Đốm lá Phyllosticta,Nấm,KHONG
+Jackfruit___Sooty_mould,Jackfruit,Mít,Nấm bồ hóng,Nấm bồ hóng; thường liên quan dịch ngọt từ côn trùng,KHONG
+Jackfruit___healthy,Jackfruit,Mít,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Lemon___Anthracnose,Lemon,Chanh,Bệnh thán thư,Nấm,KHONG
+Lemon___Bacterial_blight,Lemon,Chanh,Cháy lá do vi khuẩn,Vi khuẩn,KHONG
+Lemon___Citrus_canker,Lemon,Chanh,Loét cây có múi,Vi khuẩn,KHONG
+Lemon___Curl_virus,Lemon,Chanh,Xoăn lá do virus (theo nhãn),Virus (cần xác minh cụ thể),KHONG
+Lemon___Deficiency_leaf,Lemon,Chanh,Lá có dấu hiệu thiếu dinh dưỡng,Thiếu dinh dưỡng (chưa rõ nguyên tố),KHONG
+Lemon___Dry_leaf,Lemon,Chanh,Lá khô,Triệu chứng; chưa rõ nguyên nhân,KHONG
+Lemon___Sooty_mould,Lemon,Chanh,Nấm bồ hóng,Nấm bồ hóng; có thể liên quan côn trùng chích hút,KHONG
+Lemon___Spider_mites,Lemon,Chanh,Nhện hại lá,Nhện hại,KHONG
+Lemon___healthy,Lemon,Chanh,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Mango___Anthracnose,Mango,Xoài,Bệnh thán thư,Nấm,KHONG
+Mango___Bacterial_canker,Mango,Xoài,Bệnh loét do vi khuẩn,Vi khuẩn,KHONG
+Mango___Cutting_weevil,Mango,Xoài,Tổn thương do bọ vòi voi,Côn trùng,KHONG
+Mango___Die_back,Mango,Xoài,Khô chết cành/ngọn,Triệu chứng; nhiều nguyên nhân có thể,KHONG
+Mango___Gall_midge,Mango,Xoài,Tổn thương do muỗi gây u sưng,Côn trùng,KHONG
+Mango___Powdery_mildew,Mango,Xoài,Bệnh phấn trắng,Nấm,KHONG
+Mango___Sooty_mould,Mango,Xoài,Nấm bồ hóng,Nấm bồ hóng; thường liên quan côn trùng,KHONG
+Mango___healthy,Mango,Xoài,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Papaya___Anthracnose,Papaya,Đu đủ,Bệnh thán thư,Nấm,KHONG
+Papaya___Bacterial_spot,Papaya,Đu đủ,Đốm lá do vi khuẩn,Vi khuẩn,KHONG
+Papaya___Curl,Papaya,Đu đủ,Xoăn lá (chưa rõ nguyên nhân),Chưa rõ tác nhân,KHONG
+Papaya___Mealybug,Papaya,Đu đủ,Rệp sáp,Côn trùng,KHONG
+Papaya___Mite_damage,Papaya,Đu đủ,Lá bị nhện hại,Nhện hại,KHONG
+Papaya___Mosaic,Papaya,Đu đủ,Bệnh khảm lá (nhãn chung),Có thể do virus; cần xác minh,KHONG
+Papaya___Ringspot,Papaya,Đu đủ,Bệnh đốm vòng đu đủ,Virus (thường liên quan PRSV),KHONG
+Papaya___healthy,Papaya,Đu đủ,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Pepper__bell___Bacterial_spot,Pepper__bell,Ớt chuông,Đốm lá do vi khuẩn,Vi khuẩn,KHONG
+Pepper__bell___healthy,Pepper__bell,Ớt chuông,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Potato___Early_blight,Potato,Khoai tây,Cháy lá sớm,Nấm Alternaria,KHONG
+Potato___Late_blight,Potato,Khoai tây,Mốc sương/cháy lá muộn,Sinh vật giống nấm (Phytophthora),KHONG
+Potato___healthy,Potato,Khoai tây,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Rice___Bacterial_leaf_blight,Rice,Lúa,Bạc lá do vi khuẩn,Vi khuẩn,KHONG
+Rice___Brown_spot,Rice,Lúa,Bệnh đốm nâu,Nấm,KHONG
+Rice___Leaf_smut,Rice,Lúa,Bệnh than lá,Nấm,KHONG
+Rubber___Anthracnose,Rubber,Cao su,Bệnh thán thư,Nấm,KHONG
+Rubber___Dry_leaf,Rubber,Cao su,Lá khô,Triệu chứng; chưa rõ nguyên nhân,KHONG
+Rubber___Leaf_spot,Rubber,Cao su,Bệnh đốm lá (nhãn chung),Chưa rõ tác nhân,KHONG
+Rubber___healthy,Rubber,Cao su,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Sugarcane___Banded_chlorosis,Sugarcane,Mía,Vàng lá dạng dải,Triệu chứng; chưa rõ nguyên nhân,KHONG
+Sugarcane___Brown_rust,Sugarcane,Mía,Gỉ sắt nâu,Nấm,KHONG
+Sugarcane___Brown_spot,Sugarcane,Mía,Đốm nâu,Chưa rõ tác nhân từ nhãn,KHONG
+Sugarcane___Dried_leaves,Sugarcane,Mía,Lá khô,Triệu chứng; chưa rõ nguyên nhân,KHONG
+Sugarcane___Grassy_shoot,Sugarcane,Mía,Bệnh chồi cỏ mía,Vi khuẩn không vách tế bào (phytoplasma),KHONG
+Sugarcane___Pokkah_boeng,Sugarcane,Mía,Bệnh xoăn ngọn Pokkah boeng,Nấm (thường thuộc nhóm Fusarium),KHONG
+Sugarcane___Sett_rot,Sugarcane,Mía,Bệnh thối hom,Chưa rõ tác nhân từ nhãn,KHONG
+Sugarcane___Smut,Sugarcane,Mía,Bệnh than mía,Nấm,KHONG
+Sugarcane___Viral_disease,Sugarcane,Mía,Bệnh do virus (nhãn chung),Virus; chưa rõ loại,KHONG
+Sugarcane___Yellow_leaf,Sugarcane,Mía,Vàng lá mía,Chưa rõ tác nhân chỉ từ tên bệnh,KHONG
+Sugarcane___healthy,Sugarcane,Mía,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Tea___Blister_blight,Tea,Chè,Phồng rộp lá chè,Nấm,KHONG
+Tea___Brown_blight,Tea,Chè,Cháy lá nâu,Chưa rõ tác nhân từ nhãn,KHONG
+Tea___Red_rust,Tea,Chè,Gỉ đỏ trên lá chè,Tảo (thường là Cephaleuros),KHONG
+Tea___Red_spider_mite,Tea,Chè,Nhện đỏ hại chè,Nhện hại,KHONG
+Tea___Tea_mosquito_bug,Tea,Chè,Bọ xít muỗi hại chè,Côn trùng,KHONG
+Tea___healthy,Tea,Chè,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG
+Tomato_Bacterial_spot,Tomato,Cà chua,Đốm lá do vi khuẩn,Vi khuẩn,KHONG
+Tomato_Early_blight,Tomato,Cà chua,Cháy lá sớm,Nấm Alternaria,KHONG
+Tomato_Late_blight,Tomato,Cà chua,Mốc sương/cháy lá muộn,Sinh vật giống nấm (Phytophthora),KHONG
+Tomato_Leaf_Mold,Tomato,Cà chua,Mốc lá,Nấm,KHONG
+Tomato_Septoria_leaf_spot,Tomato,Cà chua,Đốm lá Septoria,Nấm,KHONG
+Tomato_Spider_mites_Two_spotted_spider_mite,Tomato,Cà chua,Nhện đỏ hai chấm,Nhện hại,KHONG
+Tomato__Target_Spot,Tomato,Cà chua,Đốm hình bia,Nấm (thường là Corynespora),KHONG
+Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato,Cà chua,Virus xoăn vàng lá cà chua,Virus,KHONG
+Tomato__Tomato_mosaic_virus,Tomato,Cà chua,Virus khảm cà chua,Virus,KHONG
+Tomato_healthy,Tomato,Cà chua,Lá khỏe mạnh,Không có bệnh theo nhãn,KHONG

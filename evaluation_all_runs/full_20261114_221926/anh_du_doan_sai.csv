@@ -1,0 +1,643 @@
+﻿image_path,actual_crop,actual_class,predicted_class,predicted_crop,is_correct,confidence_percent
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_1204.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Curl_virus,Ớt cay,0,50.718
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_1484.jpg,Ớt cay,Chili___Bacterial_spot,Chili___healthy,Ớt cay,0,52.392
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_1508.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Curl_virus,Ớt cay,0,83.627
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_1510.jpg,Ớt cay,Chili___Bacterial_spot,Chili___healthy,Ớt cay,0,61.9629
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_293.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Curl_virus,Ớt cay,0,64.9151
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_361.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Curl_virus,Ớt cay,0,75.4733
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_462.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Curl_virus,Ớt cay,0,50.9379
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_571.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Curl_virus,Ớt cay,0,78.9454
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_611.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Curl_virus,Ớt cay,0,81.7546
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_614.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Curl_virus,Ớt cay,0,68.2689
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_648.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Curl_virus,Ớt cay,0,59.0423
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_684.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Curl_virus,Ớt cay,0,63.552
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_691.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Curl_virus,Ớt cay,0,87.8531
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_703.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Curl_virus,Ớt cay,0,71.0731
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_704.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Curl_virus,Ớt cay,0,56.8826
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_711.jpg,Ớt cay,Chili___Bacterial_spot,Chili___healthy,Ớt cay,0,79.9509
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_972.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Curl_virus,Ớt cay,0,69.2257
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1739.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___healthy,Ớt cay,0,44.1203
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1754.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___healthy,Ớt cay,0,51.016
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1767.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___healthy,Ớt cay,0,61.3602
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1769.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Curl_virus,Ớt cay,0,77.0285
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1779.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___healthy,Ớt cay,0,96.0855
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1780.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Curl_virus,Ớt cay,0,55.3898
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1821.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Curl_virus,Ớt cay,0,79.4781
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1834.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___healthy,Ớt cay,0,40.7149
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1835.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Curl_virus,Ớt cay,0,74.0562
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1850.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Curl_virus,Ớt cay,0,95.2341
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1856.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Curl_virus,Ớt cay,0,61.877
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1878.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Curl_virus,Ớt cay,0,95.8701
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1885.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___healthy,Ớt cay,0,49.1957
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1890.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Curl_virus,Ớt cay,0,99.3028
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1894.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Curl_virus,Ớt cay,0,86.9484
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1896.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___healthy,Ớt cay,0,71.4729
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_728.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Mango___Gall_midge,Xoài,0,32.9712
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_139.jpg,Ớt cay,Chili___Curl_virus,Chili___Bacterial_spot,Ớt cay,0,82.1079
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_172.jpg,Ớt cay,Chili___Curl_virus,Chili___healthy,Ớt cay,0,71.1929
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_266.png,Ớt cay,Chili___Curl_virus,Chili___healthy,Ớt cay,0,99.911
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_303.jpg,Ớt cay,Chili___Curl_virus,Chili___healthy,Ớt cay,0,37.244
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_314.jpg,Ớt cay,Chili___Curl_virus,Chili___healthy,Ớt cay,0,47.3143
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_315.jpg,Ớt cay,Chili___Curl_virus,Chili___Cercospora_leaf_spot,Ớt cay,0,42.9129
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_328.jpg,Ớt cay,Chili___Curl_virus,Chili___Cercospora_leaf_spot,Ớt cay,0,61.3531
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_329.jpg,Ớt cay,Chili___Curl_virus,Chili___healthy,Ớt cay,0,80.949
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_332.jpg,Ớt cay,Chili___Curl_virus,Chili___Cercospora_leaf_spot,Ớt cay,0,60.1719
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_333.jpg,Ớt cay,Chili___Curl_virus,Chili___Cercospora_leaf_spot,Ớt cay,0,76.8678
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_335.jpg,Ớt cay,Chili___Curl_virus,Chili___Cercospora_leaf_spot,Ớt cay,0,80.0435
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_350.jpg,Ớt cay,Chili___Curl_virus,Chili___Cercospora_leaf_spot,Ớt cay,0,57.4559
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_362.jpg,Ớt cay,Chili___Curl_virus,Chili___Cercospora_leaf_spot,Ớt cay,0,77.9606
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_363.jpg,Ớt cay,Chili___Curl_virus,Chili___Cercospora_leaf_spot,Ớt cay,0,53.1174
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_390.jpg,Ớt cay,Chili___Curl_virus,Chili___Cercospora_leaf_spot,Ớt cay,0,80.9041
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_392.jpg,Ớt cay,Chili___Curl_virus,Chili___healthy,Ớt cay,0,40.7641
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_425.jpg,Ớt cay,Chili___Curl_virus,Chili___healthy,Ớt cay,0,66.7061
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_428.jpg,Ớt cay,Chili___Curl_virus,Chili___Cercospora_leaf_spot,Ớt cay,0,64.1581
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_429.jpg,Ớt cay,Chili___Curl_virus,Chili___Cercospora_leaf_spot,Ớt cay,0,88.1386
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_436.jpg,Ớt cay,Chili___Curl_virus,Chili___Cercospora_leaf_spot,Ớt cay,0,90.257
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_441.jpg,Ớt cay,Chili___Curl_virus,Chili___Cercospora_leaf_spot,Ớt cay,0,64.7436
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_446.jpg,Ớt cay,Chili___Curl_virus,Chili___Cercospora_leaf_spot,Ớt cay,0,67.1877
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_457.jpg,Ớt cay,Chili___Curl_virus,Chili___healthy,Ớt cay,0,67.3444
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1324.jpg,Ớt cay,Chili___healthy,Chili___Bacterial_spot,Ớt cay,0,59.7253
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1416.png,Ớt cay,Chili___healthy,Chili___Curl_virus,Ớt cay,0,80.1182
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1486.jpg,Ớt cay,Chili___healthy,Chili___Cercospora_leaf_spot,Ớt cay,0,47.7019
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1558.jpg,Ớt cay,Chili___healthy,Chili___Cercospora_leaf_spot,Ớt cay,0,70.5078
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1559.jpg,Ớt cay,Chili___healthy,Chili___Cercospora_leaf_spot,Ớt cay,0,67.3397
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1565.jpg,Ớt cay,Chili___healthy,Chili___Cercospora_leaf_spot,Ớt cay,0,48.1869
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1567.jpg,Ớt cay,Chili___healthy,Chili___Cercospora_leaf_spot,Ớt cay,0,48.756
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1573.jpg,Ớt cay,Chili___healthy,Chili___Cercospora_leaf_spot,Ớt cay,0,67.9435
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1575.jpg,Ớt cay,Chili___healthy,Chili___Cercospora_leaf_spot,Ớt cay,0,40.8858
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1598.jpg,Ớt cay,Chili___healthy,Chili___Cercospora_leaf_spot,Ớt cay,0,49.132
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1599.jpg,Ớt cay,Chili___healthy,Chili___Cercospora_leaf_spot,Ớt cay,0,55.4038
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1620.jpg,Ớt cay,Chili___healthy,Chili___Curl_virus,Ớt cay,0,42.8449
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1622.jpg,Ớt cay,Chili___healthy,Chili___Curl_virus,Ớt cay,0,39.7708
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1624.jpg,Ớt cay,Chili___healthy,Chili___Bacterial_spot,Ớt cay,0,59.9542
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1629.jpg,Ớt cay,Chili___healthy,Chili___Bacterial_spot,Ớt cay,0,98.9492
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1632.jpg,Ớt cay,Chili___healthy,Chili___Bacterial_spot,Ớt cay,0,98.6899
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1633.jpg,Ớt cay,Chili___healthy,Chili___Bacterial_spot,Ớt cay,0,73.6497
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1636.jpg,Ớt cay,Chili___healthy,Chili___Curl_virus,Ớt cay,0,65.0051
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_775.jpg,Ớt cay,Chili___healthy,Chili___Bacterial_spot,Ớt cay,0,83.5796
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_787.jpg,Ớt cay,Chili___healthy,Rubber___healthy,Cao su,0,79.25
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_988.jpg,Ớt cay,Chili___healthy,Chili___Curl_virus,Ớt cay,0,60.4586
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_994.png,Ớt cay,Chili___healthy,Chili___Curl_virus,Ớt cay,0,99.9591
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_10.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,88.8671
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_101.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,55.7869
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_103.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,68.8208
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_1084.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,76.145
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_1091.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,88.8671
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_1097.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,76.145
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_1098.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,76.145
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_1104.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,88.8671
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_121.jpg,Cà phê,Coffee___Phoma,Coffee___healthy,Cà phê,0,42.1075
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_127.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,68.8208
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_135.jpg,Cà phê,Coffee___Phoma,Coffee___healthy,Cà phê,0,42.1075
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_143.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,66.742
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_147.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,68.8208
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_162.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,68.8208
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_163.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,55.7869
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_164.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,55.7869
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_17.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,88.8671
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_170.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,66.742
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_176.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,66.742
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_177.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,68.8208
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_199.jpg,Cà phê,Coffee___Phoma,Coffee___healthy,Cà phê,0,42.1075
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_2.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,88.8671
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_200.jpg,Cà phê,Coffee___Phoma,Coffee___healthy,Cà phê,0,42.1075
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_215.jpg,Cà phê,Coffee___Phoma,Coffee___healthy,Cà phê,0,42.1075
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_219.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,68.8208
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_28.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,76.145
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_32.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,88.8671
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_490.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,68.8208
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_492.jpg,Cà phê,Coffee___Phoma,Coffee___healthy,Cà phê,0,42.1075
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_504.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,66.742
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_505.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,55.7869
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_515.jpg,Cà phê,Coffee___Phoma,Coffee___healthy,Cà phê,0,42.1075
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_529.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,88.8671
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_535.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,68.8208
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_547.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,88.8671
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_549.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,76.145
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_550.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,76.145
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_56.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,76.145
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_617.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,97.2065
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_64.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,76.145
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_640.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,97.2065
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_695.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,65.0299
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_7.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,88.8671
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_718.jpg,Cà phê,Coffee___Phoma,Coffee___healthy,Cà phê,0,55.3305
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_75.jpg,Cà phê,Coffee___Phoma,Coffee___healthy,Cà phê,0,42.1075
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_763.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,73.5566
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_79.jpg,Cà phê,Coffee___Phoma,Coffee___healthy,Cà phê,0,42.1075
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_8.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,76.145
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_82.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,68.8208
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_1000.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,94.1551
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_1001.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,84.382
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_1003.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,48.9662
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_1006.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,84.382
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_1008.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,91.2704
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_101.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,79.5006
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_1012.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,55.1292
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_1014.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,94.1551
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_1016.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,91.2704
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_1018.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,91.9312
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_102.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,86.1772
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_1029.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,48.9662
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_1031.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,75.113
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_107.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,90.3275
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_108.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,72.481
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_11.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,83.6959
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_110.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,86.1772
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_114.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,50.8511
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_117.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,66.5838
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_12.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,55.1292
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_134.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,90.3275
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_137.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,50.8511
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_139.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,50.8511
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_142.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,63.3319
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_146.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,90.3275
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_148.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,90.3275
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_159.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,86.1772
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_16.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,83.6959
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_160.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,86.1772
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_165.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,78.5292
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_169.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,63.3319
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_17.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,91.2704
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_173.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,86.1772
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_174.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,63.3319
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_175.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,91.2704
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_178.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,51.4439
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_179.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,90.3275
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_192.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,79.5006
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_201.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,51.4439
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_202.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,50.8511
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_204.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,79.5006
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_207.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,66.5838
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_216.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,90.3275
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_222.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,72.481
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_225.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,79.5006
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_23.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,75.2818
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_230.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,63.3319
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_233.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,91.2704
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_234.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,72.481
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_241.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,51.4439
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_250.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,91.2704
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_256.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,63.3319
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_257.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,51.4439
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_259.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,66.5838
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_26.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,75.2818
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_261.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,51.4439
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_266.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,72.481
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_267.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,78.5292
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_268.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,78.5292
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_276.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,79.5006
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_280.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,86.1772
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_285.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,79.5006
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_287.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,63.3319
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_289.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,66.5838
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_291.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,78.5292
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_298.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,51.4439
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_299.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,72.481
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_302.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,66.5838
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_308.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,66.5838
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_312.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,78.5292
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_314.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,91.2704
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_326.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,88.371
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_328.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,60.1546
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_34.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,90.5676
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_362.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,85.9064
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_363.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,85.9064
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_366.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,85.9064
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_375.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,88.371
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_377.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,88.371
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_379.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,88.371
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_38.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,51.5532
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_381.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,92.8242
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_386.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,85.9064
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_39.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,53.1266
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_390.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,60.1546
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_396.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,60.1546
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_399.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,92.8242
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_405.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,92.8242
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_434.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,60.1546
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_440.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,92.8242
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_459.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,81.1609
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_489.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,81.1609
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_496.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,86.0869
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_507.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,86.0869
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_510.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,97.984
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_53.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,75.2818
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_56.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,91.9312
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_58.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,84.382
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_598.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,78.7379
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_623.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,77.6778
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_71.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,91.2704
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_804.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,52.4931
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_83.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,50.8511
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_85.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,50.8511
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_87.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,78.5292
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_884.jpg,Cà phê,Coffee___Rust,Coffee___healthy,Cà phê,0,56.0952
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_899.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,95.9009
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_904.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,75.8918
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_915.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,62.7972
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_93.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,91.2704
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_931.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,99.9198
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_98.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,72.481
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_638.jpg,Cà phê,Coffee___healthy,Coffee___Rust,Cà phê,0,70.4821
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_670.jpg,Cà phê,Coffee___healthy,Coffee___Rust,Cà phê,0,48.7311
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_939.jpg,Cà phê,Coffee___healthy,Mango___Bacterial_canker,Xoài,0,37.1864
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_969.jpg,Cà phê,Coffee___healthy,Coffee___Phoma,Cà phê,0,98.3813
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_978.jpg,Cà phê,Coffee___healthy,Corn___healthy,Ngô,0,85.05
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1005).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,77.8901
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (101).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,98.4966
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1012).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,67.9282
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1024).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,58.5977
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1027).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,89.459
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1036).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,50.0786
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1056).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,71.2878
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (106).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,55.7118
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1073).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,81.5713
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1100).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,50.9909
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1110).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,45.0472
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1136).jpg,Ngô,Corn___Blight,Corn___Common_rust,Ngô,0,73.3655
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1137).jpg,Ngô,Corn___Blight,Corn___Common_rust,Ngô,0,44.332
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1143).jpg,Ngô,Corn___Blight,Coffee___Rust,Cà phê,0,61.0257
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (15).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,76.5189
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (17).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,99.2925
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (18).jpg,Ngô,Corn___Blight,Rice___Leaf_smut,Lúa nước,0,45.4213
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (203).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,99.752
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (204).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,79.341
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (21).jpg,Ngô,Corn___Blight,Corn___Common_rust,Ngô,0,70.3649
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (245).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,96.5532
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (26).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,60.4291
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (270).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,89.7578
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (275).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,66.8815
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (3).jpg,Ngô,Corn___Blight,Corn___Common_rust,Ngô,0,47.9973
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (316).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,97.6742
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (318).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,95.4318
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (358).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,83.0131
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (361).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,98.3897
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (39).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,91.7725
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (402).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,76.4201
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (433).jpg,Ngô,Corn___Blight,Coffee___Phoma,Cà phê,0,34.8555
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (457).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,98.6366
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (50).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,95.9174
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (515).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,62.1511
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (634).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,61.5013
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (638).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,84.4734
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (647).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,55.2218
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (655).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,50.7676
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (672).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,63.7111
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (695).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,89.0874
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (70).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,98.0185
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (703).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,57.3547
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (718).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,82.8863
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (723).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,99.0409
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (73).jpg,Ngô,Corn___Blight,Corn___Common_rust,Ngô,0,75.9448
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (740).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,67.1068
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (75).jpg,Ngô,Corn___Blight,Corn___Common_rust,Ngô,0,70.9051
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (758).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,59.0983
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (77).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,57.5137
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (820).jpg,Ngô,Corn___Blight,Tomato_Late_blight,Cà chua,0,61.3975
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (829).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,97.1563
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (846).jpg,Ngô,Corn___Blight,Corn___healthy,Ngô,0,82.0848
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (91).jpg,Ngô,Corn___Blight,Corn___Common_rust,Ngô,0,85.502
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (917).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,81.5293
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (925).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,95.2358
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (95).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,80.7909
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (983).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,80.0262
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (99).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,76.7771
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (1120).JPG,Ngô,Corn___Common_rust,Corn___Blight,Ngô,0,66.7815
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (1262).JPG,Ngô,Corn___Common_rust,Corn___Blight,Ngô,0,65.3301
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (1263).JPG,Ngô,Corn___Common_rust,Corn___Blight,Ngô,0,92.5802
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (1280).jpg,Ngô,Corn___Common_rust,Corn___Blight,Ngô,0,77.259
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (1292).jpg,Ngô,Corn___Common_rust,Rice___Leaf_smut,Lúa nước,0,60.973
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (1300).jpg,Ngô,Corn___Common_rust,Corn___Blight,Ngô,0,71.0257
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (19).jpg,Ngô,Corn___Common_rust,Corn___Blight,Ngô,0,71.0347
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (23).jpg,Ngô,Corn___Common_rust,Rice___Leaf_smut,Lúa nước,0,59.8537
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (235).JPG,Ngô,Corn___Common_rust,Corn___Gray_leaf_spot,Ngô,0,96.5354
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (42).jpg,Ngô,Corn___Common_rust,Corn___healthy,Ngô,0,63.3921
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (56).jpg,Ngô,Corn___Common_rust,Corn___Blight,Ngô,0,20.7862
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (6).jpg,Ngô,Corn___Common_rust,Corn___Gray_leaf_spot,Ngô,0,77.2602
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (647).JPG,Ngô,Corn___Common_rust,Corn___Blight,Ngô,0,53.5488
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (66).jpg,Ngô,Corn___Common_rust,Rice___Leaf_smut,Lúa nước,0,62.4463
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (70).jpg,Ngô,Corn___Common_rust,Corn___Blight,Ngô,0,61.8469
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (9).jpg,Ngô,Corn___Common_rust,Corn___Gray_leaf_spot,Ngô,0,61.5427
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (10).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,41.5522
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (12).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,99.8752
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (123).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,98.4142
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (127).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,73.5315
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (13).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Common_rust,Ngô,0,95.1921
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (14).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Common_rust,Ngô,0,85.3643
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (17).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,61.1105
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (198).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,97.8585
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (207).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,74.9613
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (21).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,81.0216
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (223).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Common_rust,Ngô,0,44.1246
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (24).jpg,Ngô,Corn___Gray_leaf_spot,Corn___healthy,Ngô,0,70.4496
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (26).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,73.7767
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (260).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,42.3124
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (264).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,55.3622
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (270).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,96.3081
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (272).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,51.5479
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (273).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,68.7987
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (29).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,48.9898
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (298).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,80.0728
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (303).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,99.8315
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (324).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,67.5709
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (33).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,70.1025
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (336).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,95.3733
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (34).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,71.8914
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (35).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,83.1313
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (36).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Common_rust,Ngô,0,65.8811
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (366).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,83.9298
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (367).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,96.2266
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (37).jpg,Ngô,Corn___Gray_leaf_spot,Rice___Leaf_smut,Lúa nước,0,58.8617
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (38).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,77.6783
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (39).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,86.6117
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (394).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,53.1641
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (408).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,72.0574
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (41).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,60.9405
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (415).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,85.9626
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (42).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,44.2904
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (423).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,53.1296
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (432).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,97.5531
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (436).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,90.8582
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (44).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,81.1537
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (459).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,73.0395
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (48).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,88.5257
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (495).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,91.2967
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (508).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,54.8829
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (518).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,52.1364
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (547).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,83.3996
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (562).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,71.735
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (563).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,74.7044
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (564).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,93.4754
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (569).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Common_rust,Ngô,0,55.2675
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (571).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,62.3095
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (574).jpg,Ngô,Corn___Gray_leaf_spot,Rice___Leaf_smut,Lúa nước,0,77.009
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (6).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,83.7829
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (65).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,51.5254
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (79).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,75.9296
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (8).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Blight,Ngô,0,51.8678
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (9).jpg,Ngô,Corn___Gray_leaf_spot,Corn___Common_rust,Ngô,0,62.0436
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_1_IMG_20241103_214646_731.jpg,Xoài,Mango___Anthracnose,Mango___Bacterial_canker,Xoài,0,93.7422
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_1_IMG_20241103_214714_852.jpg,Xoài,Mango___Anthracnose,Mango___Bacterial_canker,Xoài,0,73.1375
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_1_IMG_20241103_214820_613 (1).jpg,Xoài,Mango___Anthracnose,Mango___Cutting_weevil,Xoài,0,56.3974
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_2_IMG_20241103_214714_852.jpg,Xoài,Mango___Anthracnose,Mango___Bacterial_canker,Xoài,0,92.3814
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_2_IMG_20241103_214853_908.jpg,Xoài,Mango___Anthracnose,Mango___Bacterial_canker,Xoài,0,67.559
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_3_IMG_20241103_214714_852.jpg,Xoài,Mango___Anthracnose,Mango___Bacterial_canker,Xoài,0,60.7922
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_3_IMG_20241103_214843_407.jpg,Xoài,Mango___Anthracnose,Mango___Gall_midge,Xoài,0,51.1227
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_3_IMG_20241103_214853_908.jpg,Xoài,Mango___Anthracnose,Mango___Bacterial_canker,Xoài,0,72.3339
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_4_IMG_20241103_214646_731.jpg,Xoài,Mango___Anthracnose,Mango___Bacterial_canker,Xoài,0,85.9024
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_4_IMG_20241103_214714_852.jpg,Xoài,Mango___Anthracnose,Mango___Bacterial_canker,Xoài,0,90.5118
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_4_IMG_20241103_214853_908.jpg,Xoài,Mango___Anthracnose,Mango___Bacterial_canker,Xoài,0,89.6824
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_5_IMG_20241103_214714_852.jpg,Xoài,Mango___Anthracnose,Mango___Bacterial_canker,Xoài,0,85.5507
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_5_IMG_20241103_214758_011.jpg,Xoài,Mango___Anthracnose,Mango___Cutting_weevil,Xoài,0,53.1734
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_5_IMG_20241103_214853_908.jpg,Xoài,Mango___Anthracnose,Mango___Bacterial_canker,Xoài,0,78.1489
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\IMG_20241103_214646_731.jpg,Xoài,Mango___Anthracnose,Mango___Bacterial_canker,Xoài,0,63.6361
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\IMG_20241103_214714_852.jpg,Xoài,Mango___Anthracnose,Mango___Bacterial_canker,Xoài,0,79.1631
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\IMG_20241103_214843_407.jpg,Xoài,Mango___Anthracnose,Mango___Bacterial_canker,Xoài,0,64.5357
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_1_20241028_145959.jpg,Xoài,Mango___Bacterial_canker,Mango___Die_back,Xoài,0,74.0849
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_1_IMG_20241103_214803_546.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,75.6725
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_1_IMG_20241103_214825_593.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,85.5093
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_1_IMG_20241103_214826_554.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,57.9766
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_1_IMG_20241103_214905_653.jpg,Xoài,Mango___Bacterial_canker,Mango___healthy,Xoài,0,67.1038
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_2_IMG_20241103_214757_940.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,62.0304
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_2_IMG_20241103_214803_546.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,94.9015
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_3_IMG_20241103_214646_731.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,76.2107
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_3_IMG_20241103_214757_940.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,58.8912
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_3_IMG_20241103_214803_546.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,88.1413
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_4_IMG_20241103_214639_926.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,52.6734
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_4_IMG_20241103_214803_546.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,84.6548
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_4_IMG_20241103_214826_239.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,52.3814
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_5_IMG_20241103_214646_731.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,50.0907
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_5_IMG_20241103_214757_940.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,63.6234
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_5_IMG_20241103_214803_546.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,88.4629
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_6_IMG_20241103_214646_731.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,83.3513
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_6_IMG_20241103_214803_546.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,84.5399
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_7_IMG_20241103_214741_364.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,79.2452
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_7_IMG_20241103_214803_546.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,73.5629
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\IMG_20241103_214757_940.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,61.5458
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\IMG_20241103_214803_546.jpg,Xoài,Mango___Bacterial_canker,Mango___Anthracnose,Xoài,0,93.4362
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_1_IMG_20241103_214820_462.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,94.5158
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_1_IMG_20241103_214820_613.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,50.9149
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_1_IMG_20241103_214821_429.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,76.9947
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_2_IMG_20241103_214820_462.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,81.3371
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_2_IMG_20241103_214820_613.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,56.1187
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_2_IMG_20241103_214821_429.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,65.6505
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_3_20211011_160904 (Custom).jpg,Xoài,Mango___Cutting_weevil,Coffee___healthy,Cà phê,0,47.1946
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_3_IMG_20241103_214820_462.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,89.6248
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_3_IMG_20241103_214821_429.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,91.829
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_4_IMG_20241103_214820_462.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,90.0273
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_4_IMG_20241103_214820_613.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,70.4848
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_4_IMG_20241103_214821_429.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,91.6993
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_5_IMG_20241103_214820_462.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,81.0131
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_5_IMG_20241103_214820_613.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,76.4264
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_5_IMG_20241103_214821_429.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,94.9586
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\IMG_20241103_214820_462.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,92.0229
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\IMG_20241103_214820_613.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,86.2217
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\IMG_20241103_214821_429.jpg,Xoài,Mango___Cutting_weevil,Mango___Anthracnose,Xoài,0,91.0768
+D:\DoanHMvUD\PlantVillage\Mango Dataset\die back\aug_1_IMG_20211027_193504 (Custom).jpg,Xoài,Mango___Die_back,Mango___Bacterial_canker,Xoài,0,37.1864
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_5_IMG_20211106_161152 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Bacterial_canker,Xoài,0,56.0972
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_6_IMG-20241104-WA0119.jpg,Xoài,Mango___Gall_midge,Mango___Sooty_mould,Xoài,0,60.2235
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_7_IMG_20211106_162808 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Bacterial_canker,Xoài,0,55.9625
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_1_IMG-20241104-WA0093 (1).jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,60.4171
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_1_IMG-20241104-WA0093.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,85.6369
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_1_IMG-20241104-WA0096.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,73.752
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_1_IMG-20241104-WA0119 (1).jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,76.8331
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_1_IMG-20241104-WA0132.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,55.4723
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_1_IMG-20241104-WA0137.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,71.6908
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_2_IMG-20241104-WA0093 (1).jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,53.5727
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_2_IMG-20241104-WA0119 (1).jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,71.1233
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_2_IMG-20241104-WA0119.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,57.749
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_2_IMG-20241104-WA0137.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,73.2922
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_2_IMG_20211108_123138 (Custom).jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,68.0906
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_3_IMG-20241104-WA0093 (1).jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,57.4299
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_3_IMG-20241104-WA0093.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,85.8179
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_3_IMG-20241104-WA0096.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,63.2554
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_3_IMG-20241104-WA0119 (1).jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,71.1592
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_3_IMG-20241104-WA0119.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,68.701
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_4_IMG-20241104-WA0093 (1).jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,74.7343
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_4_IMG-20241104-WA0093.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,73.7521
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_4_IMG-20241104-WA0096.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,52.5721
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_4_IMG-20241104-WA0119 (1).jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,74.6
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_4_IMG-20241104-WA0119.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,75.4501
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_4_IMG-20241104-WA0137.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,56.3655
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_4_IMG-20241104-WA0217.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,57.9206
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_5_IMG-20241104-WA0093 (1).jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,56.9828
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_5_IMG-20241104-WA0093.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,84.6513
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_5_IMG-20241104-WA0096.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,77.6453
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_5_IMG-20241104-WA0119 (1).jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,71.2957
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_5_IMG-20241104-WA0119.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,69.5966
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_5_IMG-20241104-WA0163.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,66.5956
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_5_IMG-20241104-WA0195.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,60.0721
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_5_IMG-20241104-WA0220.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,74.427
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\IMG-20241104-WA0093 (1).jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,61.3553
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\IMG-20241104-WA0093.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,61.3553
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\IMG-20241104-WA0096.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,77.5872
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\IMG-20241104-WA0119 (1).jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,63.7973
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\IMG-20241104-WA0119.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,63.7973
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\IMG-20241104-WA0134.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,52.5173
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\IMG-20241104-WA0137.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,63.5214
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\IMG-20241104-WA0193.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,54.0573
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\IMG-20241104-WA0195.jpg,Xoài,Mango___Sooty_mould,Mango___Gall_midge,Xoài,0,54.4479
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\0e57b44f-bb06-43ec-8688-5a7985b461e7___JR_B.Spot 8970.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___healthy,Ớt chuông,0,93.3236
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\18df58d7-c6ac-48e5-8cb0-596b70252a8e___NREC_B.Spot 9153.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___healthy,Ớt chuông,0,60.7845
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\447735c7-b650-4ef6-a53b-8fb661470de3___JR_B.Spot 3370.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Tomato_Bacterial_spot,Cà chua,0,85.5943
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\5e0a97ce-9b9d-4528-ae61-28aeab5809aa___NREC_B.Spot 1830.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Potato___Late_blight,Khoai tây,0,41.7752
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\a73080aa-8609-4ca2-86ff-28440774f4b8___JR_B.Spot 8861.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___healthy,Ớt chuông,0,97.4613
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\f3fb294f-21d3-44b3-bfab-256fed2fc2c8___NREC_B.Spot 9156.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___healthy,Ớt chuông,0,55.4013
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\3306b49b-e3b3-4450-8609-ae44ab2b6593___bell-pepper-plant-61726.jpg,Ớt chuông,Pepper__bell___healthy,Corn___Blight,Ngô,0,72.1912
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\42f083e2-272d-4f83-ad9a-573ee90e50ec___Screen Shot 2015-05-06 at 4.01.13 PM.png,Ớt chuông,Pepper__bell___healthy,Corn___Blight,Ngô,0,58.5269
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\a78a9a04-3ff9-44b2-bf18-58d5dc301014___JR_HL 8633.JPG,Ớt chuông,Pepper__bell___healthy,Potato___healthy,Khoai tây,0,86.1275
+D:\DoanHMvUD\PlantVillage\Potato___Late_blight\62d41420-8e32-47d2-9a37-698c07f7dc16___RS_LB 2543.JPG,Khoai tây,Potato___Late_blight,Potato___healthy,Khoai tây,0,70.874
+D:\DoanHMvUD\PlantVillage\Potato___healthy\14484ea5-9c34-427c-abe4-2743265aced0___RS_HL 4204.JPG,Khoai tây,Potato___healthy,Pepper__bell___healthy,Ớt chuông,0,42.9752
+D:\DoanHMvUD\PlantVillage\rice_leaf_diseases\Brown spot\DSC_0106.jpg,Lúa nước,Rice___Brown_spot,Rice___Leaf_smut,Lúa nước,0,58.5834
+D:\DoanHMvUD\PlantVillage\rice_leaf_diseases\Brown spot\DSC_0113.jpg,Lúa nước,Rice___Brown_spot,Rice___Leaf_smut,Lúa nước,0,59.5208
+D:\DoanHMvUD\PlantVillage\rice_leaf_diseases\Brown spot\DSC_0329.jpg,Lúa nước,Rice___Brown_spot,Rice___Leaf_smut,Lúa nước,0,77.1387
+D:\DoanHMvUD\PlantVillage\rice_leaf_diseases\Leaf smut\DSC_0314.JPG,Lúa nước,Rice___Leaf_smut,Rice___Bacterial_leaf_blight,Lúa nước,0,80.3532
+D:\DoanHMvUD\PlantVillage\rice_leaf_diseases\Leaf smut\DSC_0316.JPG,Lúa nước,Rice___Leaf_smut,Rice___Brown_spot,Lúa nước,0,59.6382
+D:\DoanHMvUD\PlantVillage\rice_leaf_diseases\Leaf smut\DSC_0500.jpg,Lúa nước,Rice___Leaf_smut,Rice___Brown_spot,Lúa nước,0,51.7369
+D:\DoanHMvUD\PlantVillage\rice_leaf_diseases\Leaf smut\DSC_0501.jpg,Lúa nước,Rice___Leaf_smut,Rice___Brown_spot,Lúa nước,0,53.5296
+D:\DoanHMvUD\PlantVillage\rice_leaf_diseases\Leaf smut\DSC_0507.jpg,Lúa nước,Rice___Leaf_smut,Rice___Brown_spot,Lúa nước,0,57.7084
+D:\DoanHMvUD\PlantVillage\rice_leaf_diseases\Leaf smut\DSC_0508.jpg,Lúa nước,Rice___Leaf_smut,Rice___Brown_spot,Lúa nước,0,84.0133
+D:\DoanHMvUD\PlantVillage\rice_leaf_diseases\Leaf smut\DSC_0513.jpg,Lúa nước,Rice___Leaf_smut,Rice___Brown_spot,Lúa nước,0,79.8883
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\034caf25-29c3-4be2-a725-d2866ce6f548___GCREC_Bact.Sp 3575.JPG,Cà chua,Tomato_Bacterial_spot,Tomato__Target_Spot,Cà chua,0,79.5344
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\0524de69-51ec-4794-a955-04a8e0c5656c___GCREC_Bact.Sp 3695.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Septoria_leaf_spot,Cà chua,0,72.7286
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\086dd5ed-279a-458b-aa4a-1484305ac21c___UF.GRC_BS_Lab Leaf 8835.JPG,Cà chua,Tomato_Bacterial_spot,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,0,90.482
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\0a1655ed-797c-4d1d-ba35-dc255d68a2ee___GCREC_Bact.Sp 3560.JPG,Cà chua,Tomato_Bacterial_spot,Tomato__Target_Spot,Cà chua,0,61.0693
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\16bbb84a-b078-4c74-8ab0-872ac7240052___UF.GRC_BS_Lab Leaf 8605.JPG,Cà chua,Tomato_Bacterial_spot,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,0,68.9316
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\1a50d84b-c015-45ea-a041-500d5adcc339___UF.GRC_BS_Lab Leaf 8773.JPG,Cà chua,Tomato_Bacterial_spot,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,0,88.8474
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\470dc5c1-47be-4468-ab17-e378715807e2___GCREC_Bact.Sp 3697.JPG,Cà chua,Tomato_Bacterial_spot,Tomato__Target_Spot,Cà chua,0,58.5383
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\6a309da1-f8f4-404f-afb3-f07482a19282___UF.GRC_BS_Lab Leaf 9049.JPG,Cà chua,Tomato_Bacterial_spot,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,0,58.8368
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\74c440d9-d186-41f2-a9c3-9db567a69be9___UF.GRC_BS_Lab Leaf 0325.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Early_blight,Cà chua,0,75.601
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\7bd0f0c4-082e-4da4-ade1-a1d79637949c___GCREC_Bact.Sp 3664.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Septoria_leaf_spot,Cà chua,0,84.2575
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\830824a7-c51d-477e-b987-19ae4d388f48___UF.GRC_BS_Lab Leaf 8838.JPG,Cà chua,Tomato_Bacterial_spot,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,0,78.5085
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\888463af-3611-49bb-bbf3-b3b35d0496dd___UF.GRC_BS_Lab Leaf 8725.JPG,Cà chua,Tomato_Bacterial_spot,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,0,50.14
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\90cbe307-2ec6-45f8-b62d-b6fb602466f4___UF.GRC_BS_Lab Leaf 8592.JPG,Cà chua,Tomato_Bacterial_spot,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,0,81.6271
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\c1b331bd-edf3-4623-bf39-01c3c4fe6105___UF.GRC_BS_Lab Leaf 9299.JPG,Cà chua,Tomato_Bacterial_spot,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,0,74.224
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\c9a8b799-6159-415d-a82d-8aeb4db76d87___GCREC_Bact.Sp 3701.JPG,Cà chua,Tomato_Bacterial_spot,Tomato__Target_Spot,Cà chua,0,71.3139
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\0621aab4-b9fd-4012-b0a6-ba72e63cd87d___RS_Erly.B 8220.JPG,Cà chua,Tomato_Early_blight,Tomato_Late_blight,Cà chua,0,93.2531
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\1bdb9ab4-1a7a-449a-b848-c446d7615d42___RS_Erly.B 8443.JPG,Cà chua,Tomato_Early_blight,Tomato_Late_blight,Cà chua,0,65.687
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\1f402ddb-f3e8-4907-a793-320c8e43446a___RS_Erly.B 9460.JPG,Cà chua,Tomato_Early_blight,Tomato_Late_blight,Cà chua,0,64.7657
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\2179421c-3ce3-4581-8b65-17da6fffd3db___RS_Erly.B 7730.JPG,Cà chua,Tomato_Early_blight,Tomato__Tomato_mosaic_virus,Cà chua,0,85.7141
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\3a634ad7-1119-4ea1-9268-bedc8308fdc8___RS_Erly.B 7841.JPG,Cà chua,Tomato_Early_blight,Tomato_Septoria_leaf_spot,Cà chua,0,67.1915
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\3d8e1f90-be34-4da7-b124-a98eddb346d1___RS_Erly.B 7414.JPG,Cà chua,Tomato_Early_blight,Potato___Late_blight,Khoai tây,0,44.7413
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\3e9af11d-b43d-4bfd-9cdf-1b0d847d3bf6___RS_Erly.B 7739.JPG,Cà chua,Tomato_Early_blight,Potato___Late_blight,Khoai tây,0,52.2583
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\4803a0a5-ac23-431f-b792-d60a25a268bd___RS_Erly.B 9508.JPG,Cà chua,Tomato_Early_blight,Tomato_Late_blight,Cà chua,0,53.2137
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\5688c1fd-cd1f-4fb5-9e0b-d12c0c095023___RS_Erly.B 9511.JPG,Cà chua,Tomato_Early_blight,Tomato_Late_blight,Cà chua,0,85.901
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\591ec786-c9bb-4054-be3a-055f0dbecbd2___RS_Erly.B 7416.JPG,Cà chua,Tomato_Early_blight,Potato___Late_blight,Khoai tây,0,99.8324
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\59dbd132-6e6c-4127-a218-b7602cbee670___RS_Erly.B 9449.JPG,Cà chua,Tomato_Early_blight,Tomato_Late_blight,Cà chua,0,73.4933
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\5adb20df-006b-4a5d-a1c4-c8284eee9e20___RS_Erly.B 9484.JPG,Cà chua,Tomato_Early_blight,Tomato_Late_blight,Cà chua,0,57.5063
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\64d0749a-a83f-41da-a321-b03d61167454___RS_Erly.B 7846.JPG,Cà chua,Tomato_Early_blight,Tomato__Target_Spot,Cà chua,0,76.5312
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\654d7c11-664e-47c0-a6aa-c5c45a07e386___RS_Erly.B 7799.JPG,Cà chua,Tomato_Early_blight,Tomato__Tomato_mosaic_virus,Cà chua,0,73.8296
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\77b824b4-8d93-44cf-8e8d-b6433fea90b7___RS_Erly.B 6459.JPG,Cà chua,Tomato_Early_blight,Tomato_Leaf_Mold,Cà chua,0,93.7587
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\7fe26a53-b4d8-4069-bb0a-1c6d19cbc4e1___RS_Erly.B 7810.JPG,Cà chua,Tomato_Early_blight,Tomato__Tomato_mosaic_virus,Cà chua,0,51.4979
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\90c69e4c-c526-4f72-b0b0-4127fc6acb0a___RS_Erly.B 7782.JPG,Cà chua,Tomato_Early_blight,Tomato__Tomato_mosaic_virus,Cà chua,0,60.3489
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\9305f21d-4558-49ae-b831-a7a1a4d399c2___RS_Erly.B 7417.JPG,Cà chua,Tomato_Early_blight,Potato___Late_blight,Khoai tây,0,69.8389
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\b4d37218-1f10-4232-8eeb-dd4106f0f1af___RS_Erly.B 7702.JPG,Cà chua,Tomato_Early_blight,Tomato_Late_blight,Cà chua,0,62.4312
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\b58d7a66-097f-4167-abae-92f865407d90___RS_Erly.B 7845.JPG,Cà chua,Tomato_Early_blight,Tomato__Target_Spot,Cà chua,0,88.4027
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\ba19f779-d0cf-4bc7-88df-96e6080fdc96___RS_Erly.B 7599.JPG,Cà chua,Tomato_Early_blight,Tomato_Late_blight,Cà chua,0,71.6568
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\bde8917a-9b0c-4a7b-8ff1-26f31609d6d7___RS_Erly.B 7750.JPG,Cà chua,Tomato_Early_blight,Tomato__Tomato_mosaic_virus,Cà chua,0,96.1526
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\cd76ee4d-d516-4189-b40b-12959dc02f91___RS_Erly.B 7798.JPG,Cà chua,Tomato_Early_blight,Tomato__Tomato_mosaic_virus,Cà chua,0,86.4349
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\d3ebceea-8021-4168-85a4-27ef48cdaacb___RS_Erly.B 7857.JPG,Cà chua,Tomato_Early_blight,Tomato__Target_Spot,Cà chua,0,53.931
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\d5bddab9-06bd-488f-a844-97bd75c6b061___RS_Erly.B 6662.JPG,Cà chua,Tomato_Early_blight,Tomato_Late_blight,Cà chua,0,55.227
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\eb2537b2-d6fa-4c70-b919-f90bbe2c65f2___RS_Erly.B 7605.JPG,Cà chua,Tomato_Early_blight,Tomato__Tomato_mosaic_virus,Cà chua,0,53.0523
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\f63f3650-9f84-45f9-898b-a6adef0294a3___RS_Erly.B 8419.JPG,Cà chua,Tomato_Early_blight,Tomato_Late_blight,Cà chua,0,67.6727
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\f64da90c-b9ca-4453-896f-4cd9e358c24a___RS_Erly.B 8223.JPG,Cà chua,Tomato_Early_blight,Tomato_Late_blight,Cà chua,0,86.6732
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\fc38942e-e609-41a2-970c-cc1a67b16fe2___RS_Erly.B 7793.JPG,Cà chua,Tomato_Early_blight,Tomato__Target_Spot,Cà chua,0,96.788
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\0ba7d3d8-5c4c-4365-ba0c-69f61e96a36e___RS_Late.B 5312.JPG,Cà chua,Tomato_Late_blight,Potato___Late_blight,Khoai tây,0,86.6222
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\1627cb48-dc80-46a1-bda0-b677c32fbf56___RS_Late.B 5066.JPG,Cà chua,Tomato_Late_blight,Tomato_Early_blight,Cà chua,0,55.2003
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\1d6d043a-9df9-49ec-9b0f-e40a8e7f409f___RS_Late.B 5287.JPG,Cà chua,Tomato_Late_blight,Potato___Late_blight,Khoai tây,0,71.6459
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\21f3629a-8126-4f23-85c5-05636ff87644___RS_Late.B 6906.JPG,Cà chua,Tomato_Late_blight,Potato___Late_blight,Khoai tây,0,55.8325
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\2c2326e9-eb07-45c1-8296-116df4108c03___RS_Late.B 4834.JPG,Cà chua,Tomato_Late_blight,Potato___Late_blight,Khoai tây,0,79.9739
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\455a88bf-102d-4eeb-bea9-f0e648a3ad31___RS_Late.B 6903.JPG,Cà chua,Tomato_Late_blight,Potato___Late_blight,Khoai tây,0,68.2625
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\47a38705-6d43-429c-b3f6-54c01f3b08e8___GHLB2 Leaf 8718.JPG,Cà chua,Tomato_Late_blight,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,98.7814
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\9a298d6c-723d-483c-bec6-c64f99065677___RS_Late.B 6956.JPG,Cà chua,Tomato_Late_blight,Tomato_Early_blight,Cà chua,0,60.879
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\9adeaa24-183e-4403-b899-6fdce79ed524___RS_Late.B 6023.JPG,Cà chua,Tomato_Late_blight,Tomato_Leaf_Mold,Cà chua,0,55.5837
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\ae581c9f-2be2-4ca8-b27d-5a333d15012c___RS_Late.B 5170.JPG,Cà chua,Tomato_Late_blight,Potato___Late_blight,Khoai tây,0,96.3706
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\b6457b32-7732-4caf-a316-74021b265359___GHLB2 Leaf 9054.JPG,Cà chua,Tomato_Late_blight,Tomato_healthy,Cà chua,0,62.9175
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\c18f749d-9774-43f6-9c27-ff3d532f551a___RS_Late.B 7100.JPG,Cà chua,Tomato_Late_blight,Potato___Late_blight,Khoai tây,0,69.1637
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\cb3bd866-dd84-4f7e-9226-b4a2a2c7f2ae___GH_HL Leaf 173.2.JPG,Cà chua,Tomato_Late_blight,Tomato_healthy,Cà chua,0,99.8144
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\cec774a0-92f4-4446-af6a-f0743e667461___RS_Late.B 5171.JPG,Cà chua,Tomato_Late_blight,Potato___Late_blight,Khoai tây,0,81.9164
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\d67013bf-2462-4626-a4fa-e352e7d3008b___GHLB2ES Leaf 139.1.JPG,Cà chua,Tomato_Late_blight,Tomato_healthy,Cà chua,0,99.9535
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\d674cbf6-0cdc-407a-97ea-c3f53f2c51e4___GH_HL Leaf 170.JPG,Cà chua,Tomato_Late_blight,Tomato_healthy,Cà chua,0,99.9829
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\da45101e-9448-4e0c-a735-91c558e60c8f___RS_Late.B 5290.JPG,Cà chua,Tomato_Late_blight,Potato___Late_blight,Khoai tây,0,64.7921
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\de7adfd4-221a-4564-8937-6ae593891fbd___RS_Late.B 5219.JPG,Cà chua,Tomato_Late_blight,Tomato_Early_blight,Cà chua,0,67.1216
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\df7775b2-73f3-4708-86d5-a56e2bbb3337___RS_Late.B 5378.JPG,Cà chua,Tomato_Late_blight,Tomato__Target_Spot,Cà chua,0,43.5315
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\ecacf5db-abcf-408c-b41a-93e339fbfc0c___RS_Late.B 6405.JPG,Cà chua,Tomato_Late_blight,Potato___Late_blight,Khoai tây,0,87.1426
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\ee0c6d7f-7728-406b-b715-67ba31384954___RS_Late.B 5293.JPG,Cà chua,Tomato_Late_blight,Potato___Late_blight,Khoai tây,0,64.7587
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\099a68fb-a30b-48b6-99ae-908449e48950___JR_Sept.L.S 2691.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato__Tomato_mosaic_virus,Cà chua,0,95.1243
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\15d71360-3708-4fef-bdee-fa01345478c8___JR_Sept.L.S 2478.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Leaf_Mold,Cà chua,0,85.5008
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\53587f20-0646-4ba9-9124-c2ccbd6e31e6___JR_Sept.L.S 2555.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Leaf_Mold,Cà chua,0,72.696
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\5c1e834e-f555-4ca5-b67b-330027937e1d___Matt.S_CG 1405.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,45.1175
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\62983399-98ab-4972-905b-85582d226b03___Matt.S_CG 7823.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Early_blight,Cà chua,0,58.3847
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\6c4377ee-cf37-4ca9-a377-4e4cf7a221da___Matt.S_CG 7412.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Late_blight,Cà chua,0,40.8562
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\6e179382-44e9-4032-b6cb-81c631134922___JR_Sept.L.S 8359.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Leaf_Mold,Cà chua,0,83.8713
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\77c5b76c-3b81-4174-892d-640c97ba7f48___JR_Sept.L.S 2714.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato__Target_Spot,Cà chua,0,64.6926
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\7bf7886a-7ec1-4f4a-92be-5d18b6450ee1___JR_Sept.L.S 8362.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Early_blight,Cà chua,0,62.5439
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\7cf8bfef-e8d7-406b-b27c-e5e545096545___JR_Sept.L.S 8427.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Leaf_Mold,Cà chua,0,52.6184
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\7e3a2a59-c4ed-47da-9176-6996ad3170df___JR_Sept.L.S 2556.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato__Tomato_mosaic_virus,Cà chua,0,89.3144
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\8fe7631a-a0b5-4658-99a6-9cebcdb0e7f1___Matt.S_CG 1671.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Early_blight,Cà chua,0,64.7058
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\94af2c43-753b-459f-8767-da8cee61bfe1___JR_Sept.L.S 2496.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato__Tomato_mosaic_virus,Cà chua,0,50.9396
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\abb40b01-9ffd-4dd8-b46a-371a115110ea___JR_Sept.L.S 8358.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato__Target_Spot,Cà chua,0,47.1494
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\adf85c8b-07e2-4f8c-a04a-8a71094b97e6___Matt.S_CG 7530.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Late_blight,Cà chua,0,50.8303
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\b6176eb3-1480-4d4e-b1d7-2d23e3e825c3___JR_Sept.L.S 8384.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Early_blight,Cà chua,0,44.4264
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\b70775c5-59bc-4204-af05-a420ef373667___JR_Sept.L.S 2693.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato__Tomato_mosaic_virus,Cà chua,0,88.9389
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\e6d9f6dd-1349-4d66-8bae-7be416b48d15___JR_Sept.L.S 8360.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Leaf_Mold,Cà chua,0,87.9299
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\f2be0eb5-213e-44f1-b618-4d329e04b6a4___JR_Sept.L.S 8494.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato__Tomato_mosaic_virus,Cà chua,0,70.7106
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\f4e9db97-3802-4b3c-8474-17aeaa385bb3___Matt.S_CG 1399.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Bacterial_spot,Cà chua,0,64.9481
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\0ac9558f-1e02-4498-9584-887627587bc0___Com.G_SpM_FL 1148.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_healthy,Cà chua,0,75.0067
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\2f577458-6085-4b56-9291-56a902c577d4___Com.G_SpM_FL 1466.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato__Target_Spot,Cà chua,0,92.6193
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\33e59828-c8c1-40f8-a684-dc16fdfcd280___Com.G_SpM_FL 9510.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato__Tomato_mosaic_virus,Cà chua,0,64.9829
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\3893e563-9bd6-4df6-a8e5-1488a680bb8b___Com.G_SpM_FL 1572.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato__Target_Spot,Cà chua,0,70.0633
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\80ff79e7-97eb-40f5-9fc9-cab73a4741e1___Com.G_SpM_FL 9418.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato__Tomato_mosaic_virus,Cà chua,0,53.5547
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\8b4b9281-cf1e-407e-acf7-5ead938e57d1___Com.G_SpM_FL 9597.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato__Tomato_mosaic_virus,Cà chua,0,52.8324
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\98916e40-9711-49d6-af8b-77c10be459e2___Com.G_SpM_FL 8551.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato__Target_Spot,Cà chua,0,43.2045
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\9d9c09bb-3998-4e4d-be42-ac5ff1742a74___Com.G_SpM_FL 8463.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,0,84.1857
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\be3326b5-c152-464d-8803-21ca7149e6db___Com.G_SpM_FL 1663.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato__Target_Spot,Cà chua,0,58.2641
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\dbf92257-e88c-45b3-b5c4-0731bab518e3___Com.G_SpM_FL 1297.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato__Tomato_mosaic_virus,Cà chua,0,86.955
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\fd665d64-3079-45da-b719-0e45b9a65a84___Com.G_SpM_FL 1255.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato__Target_Spot,Cà chua,0,62.1309
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\ff0f33d2-9e9f-4b74-861d-a7e0fdf8d248___Com.G_SpM_FL 8511.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,0,88.1426
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\0fe7d644-dc8b-49f7-9a41-33ec029f6437___Com.G_TgS_FL 8274.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,65.3348
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\11d94c10-2699-48ee-b3fb-27d4ac60aeaf___Com.G_TgS_FL 9894.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,71.9583
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\16717301-b559-40aa-94ce-d6a9f6e3f656___Com.G_TgS_FL 9886.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,72.7534
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\1840e451-4049-49de-a7ee-9f305e85d3c3___Com.G_TgS_FL 9966.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,54.0734
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\1a8e252e-a75b-4d39-9dfb-e09434029183___Com.G_TgS_FL 0711.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,71.1755
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\1c980f09-7e37-4e57-96e5-d18783691134___Com.G_TgS_FL 9908.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,58.6353
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\1cc31c92-0fbd-488a-b0a2-ef25f985bf13___Com.G_TgS_FL 9840.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,92.9488
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\2761adc9-bf8f-4362-87a6-7619ecf0dbbe___Com.G_TgS_FL 9681.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,86.9363
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\3217392a-7b5c-456e-980a-f89aab458a15___Com.G_TgS_FL 8327.JPG,Cà chua,Tomato__Target_Spot,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,0,61.5277
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\41bb6805-695e-4c35-854c-ce4ed54388b3___Com.G_TgS_FL 9907.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,64.0713
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\41f2bcea-5197-46c0-9cae-73724af3a5b8___Com.G_TgS_FL 9812.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,94.3954
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\4b5b48f8-7d82-400a-af7a-43f7804896c6___Com.G_TgS_FL 9762.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,73.6219
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\613ecdcf-3895-498b-b095-76eab9dacb58___Com.G_TgS_FL 0698.JPG,Cà chua,Tomato__Target_Spot,Tomato_healthy,Cà chua,0,60.9212
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\63e1a2ad-a44f-4c4d-b123-417920259975___Com.G_TgS_FL 1035.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,53.532
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\6681f454-b2c1-4209-9a2f-f09b4aeace5d___Com.G_TgS_FL 0006.JPG,Cà chua,Tomato__Target_Spot,Potato___Late_blight,Khoai tây,0,85.0371
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\70ff96c1-499a-4e6e-b5ef-5ad0e40c18d5___Com.G_TgS_FL 0665.JPG,Cà chua,Tomato__Target_Spot,Tomato_Septoria_leaf_spot,Cà chua,0,55.7107
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\80f9cd5f-bcfe-4543-8535-3e3c3196752c___Com.G_TgS_FL 9813.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,55.4309
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\988132c4-574d-471e-9c51-d9b14ab2e45e___Com.G_TgS_FL 9909.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,39.1451
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\a4d3047a-8db1-42b6-9fe0-943a65159116___Com.G_TgS_FL 9975.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,79.8697
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\a900dc26-f4fa-462f-9611-cd3d0464c44e___Com.G_TgS_FL 9668.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,60.2654
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\ad49cc13-6cea-41cf-a3c1-2a5c55db56dd___Com.G_TgS_FL 9893.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,98.95
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\af120bd7-a1ad-44e4-bfc5-ddd53f1ef792___Com.G_TgS_FL 8240.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,85.9563
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\b27fa37a-981c-4189-944a-f2cb1cc0d9ea___Com.G_TgS_FL 0786.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,89.1735
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\b43bda6d-5066-4143-884b-533c0aedf6e7___Com.G_TgS_FL 9942.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,72.8206
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\c400f472-f08a-4924-b6bf-86d8f59e306b___Com.G_TgS_FL 9927.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,52.1855
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\c696d345-948b-4d5e-8185-13ec8c2b42fa___Com.G_TgS_FL 1037.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,55.9254
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\c9ab967a-4bf7-4a19-bab0-8b5a616be23c___Com.G_TgS_FL 9914.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,84.2488
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\ca2def38-d29a-47d7-995a-96459b532fc9___Com.G_TgS_FL 8174.JPG,Cà chua,Tomato__Target_Spot,Tomato_Early_blight,Cà chua,0,52.2684
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\d218823b-77aa-4de0-a51c-66670f00c8f3___Com.G_TgS_FL 7874.JPG,Cà chua,Tomato__Target_Spot,Tomato_Early_blight,Cà chua,0,91.8141
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\d43b9fb3-b824-456d-a386-b861689ae922___Com.G_TgS_FL 8286.JPG,Cà chua,Tomato__Target_Spot,Tomato_healthy,Cà chua,0,73.6345
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\da0e1f6d-8daa-4ca4-9776-08ce115d3d04___Com.G_TgS_FL 9680.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,88.6469
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\dd4d1232-9a04-417d-9551-16bc8aeca9b8___Com.G_TgS_FL 8292.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,65.3021
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\dee5ddd4-730e-429a-a25f-e555a609786a___Com.G_TgS_FL 0828.JPG,Cà chua,Tomato__Target_Spot,Tomato_healthy,Cà chua,0,48.5501
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\e475a5f4-8166-4b18-9f29-8a7ccb541bbb___Com.G_TgS_FL 9878.JPG,Cà chua,Tomato__Target_Spot,Tomato__Tomato_mosaic_virus,Cà chua,0,80.6105
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\e6b9cd22-8c2a-4c5c-ad75-a018cf7cc450___Com.G_TgS_FL 9720.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,98.3861
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\e73de810-4d8a-4d24-8025-85d66e8a6445___Com.G_TgS_FL 7867.JPG,Cà chua,Tomato__Target_Spot,Tomato_Early_blight,Cà chua,0,81.8545
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\f4ec991a-6296-4b84-ba9b-4abdbffcb4e9___Com.G_TgS_FL 9804.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,49.9894
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\f5cd5835-88bb-40e0-bfc5-920ba1f65674___Com.G_TgS_FL 8350.JPG,Cà chua,Tomato__Target_Spot,Tomato_Early_blight,Cà chua,0,81.0872
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\733e5236-e8c7-4f8a-ac55-e58effc3fdc2___YLCV_NREC 2516.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_mosaic_virus,Cà chua,0,67.5987
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\8f673fbe-f75c-44b3-aa36-2bdfe5992350___UF.GRC_YLCV_Lab 08573.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato_Bacterial_spot,Cà chua,0,67.1381
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_mosaic_virus\d0c853a7-0f78-4c80-b2d4-74a84adb1d91___PSU_CG 2153.JPG,Cà chua,Tomato__Tomato_mosaic_virus,Tomato_Leaf_Mold,Cà chua,0,55.7066
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\07776423-f0af-455c-a7c1-36215c7e7097___RS_HL 0321.JPG,Cà chua,Tomato_healthy,Tomato__Target_Spot,Cà chua,0,55.9922
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\7de93009-6180-4027-8779-76947cda3e2f___2700323949_95aa2eaa01_o.jpg,Cà chua,Tomato_healthy,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,89.1977
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\92c06519-cec4-4091-9ae1-5ea8b56c89cd___GH_HL Leaf 525.JPG,Cà chua,Tomato_healthy,Tomato__Tomato_mosaic_virus,Cà chua,0,62.3546
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\fde29807-8223-4fc5-a06b-7cc93101a6d1___GH_HL Leaf 174.JPG,Cà chua,Tomato_healthy,Tomato_Late_blight,Cà chua,0,76.0541

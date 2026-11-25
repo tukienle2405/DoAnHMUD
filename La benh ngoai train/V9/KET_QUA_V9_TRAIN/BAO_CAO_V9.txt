@@ -1,0 +1,21 @@
+V9 / READ ONLY / TRAIN AUDIT
+
+97-class rows: 125228; classes: 97
+Old classes without unflagged TRAIN: 11
+ - Banana___healthy
+ - Guava___Dot
+ - Papaya___Anthracnose
+ - Papaya___Bacterial_spot
+ - Papaya___Curl
+ - Papaya___Mealybug
+ - Papaya___Mite_damage
+ - Papaya___Mosaic
+ - Papaya___Ringspot
+ - Papaya___healthy
+ - Sugarcane___Sett_rot
+
+Field TRAIN source-labeled: 601, unverified: 88
+TRAIN sample images: 196, opened 196, missing 0, low res 7
+
+Important: NO label changes, NO training, NO test/val image opened. Not all NO flags prove verified labels.
+Next: expert/source verification for suspicious TRAIN labels, collect new independent holdout for all 18 crops / 97 classes.

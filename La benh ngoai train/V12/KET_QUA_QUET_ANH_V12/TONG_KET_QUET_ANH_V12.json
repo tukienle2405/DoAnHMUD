@@ -1,0 +1,118 @@
+{
+  "mode": "AUTO_SCAN_LOCAL_OLD_IMAGES_NOT_INDEPENDENT_TEST",
+  "base_dir": "D:\\DoanHMvUD\\La benh ngoai train",
+  "reference_files": [
+    "D:\\DoanHMvUD\\La benh ngoai train\\V10\\dataset_manifest_SPLIT_DU_KIEN(1).csv",
+    "D:\\DoanHMvUD\\La benh ngoai train\\V10\\EXTERNAL_SPLIT_LOCKED.csv"
+  ],
+  "reference_rows": [
+    125228,
+    1194
+  ],
+  "reference_unique_paths": 126422,
+  "reference_local_files_missing": 0,
+  "source_crop_folders": [
+    {
+      "crop": "Tomato",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Ca chua"
+    },
+    {
+      "crop": "Coffee",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Ca phe"
+    },
+    {
+      "crop": "Rubber",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Cao su"
+    },
+    {
+      "crop": "Lemon",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Chanh"
+    },
+    {
+      "crop": "Tea",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Che"
+    },
+    {
+      "crop": "Banana",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Chuoi"
+    },
+    {
+      "crop": "Cashew",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Dieu"
+    },
+    {
+      "crop": "Papaya",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\du du"
+    },
+    {
+      "crop": "Potato",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\khoai tay"
+    },
+    {
+      "crop": "Rice",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Lua nuoc"
+    },
+    {
+      "crop": "Sugarcane",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Mia"
+    },
+    {
+      "crop": "Jackfruit",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Mit"
+    },
+    {
+      "crop": "Corn",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Ngo"
+    },
+    {
+      "crop": "Guava",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Oi"
+    },
+    {
+      "crop": "Chili",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Ot cay"
+    },
+    {
+      "crop": "Pepper__bell",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Ot chuong"
+    },
+    {
+      "crop": "Durian",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Sau rieng"
+    },
+    {
+      "crop": "Mango",
+      "folder": "D:\\DoanHMvUD\\La benh ngoai train\\Xoai"
+    }
+  ],
+  "crop_folders_found": 18,
+  "images_scanned": 132,
+  "images_with_paths_absent_from_old_csv": 132,
+  "already_listed_in_old_metadata": 0,
+  "images_selected": 40,
+  "selected_by_crop": {
+    "Tomato": 10,
+    "Coffee": 10,
+    "Lemon": 10,
+    "Banana": 10
+  },
+  "copied": true,
+  "bytes_selected": 5693368,
+  "known_old_files_sha_checked": 9,
+  "selected_phash_unavailable": 0,
+  "skipped_selection": {
+    "DO_PHAN_GIAI_THAP": 2
+  },
+  "number_small_preview_images": 8,
+  "no_training": true,
+  "no_original_images_modified": true,
+  "not_independent_holdout": true,
+  "auto_labels_verified": false,
+  "limitations": [
+    "Anh tu folder cu khong phai tap test doc lap du da chua co path trong manifest.",
+    "SHA256 doi chieu noi dung VOI file cu cung dung luong co the doc duoc, khong bao gom file cu thieu tren may.",
+    "pHash so sanh voi PlantDoc khoa va giua anh duoc chon; khong bao phu toan bo 125k anh cu.",
+    "Ten folder chi la goi y loai cay; KHONG duoc tu coi la nhan benh da xac minh.",
+    "Anh trong thu muc ten train/test/val/validation duoc bo qua de tranh dung nham."
+  ]
+}

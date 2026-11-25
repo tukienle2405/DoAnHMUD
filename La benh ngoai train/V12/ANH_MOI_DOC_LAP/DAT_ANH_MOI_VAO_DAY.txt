@@ -1,0 +1,2 @@
+Dat cac anh hoan toan moi, khong nam trong Train/Val/Test cu, vao day.
+Moi anh can nguon va nhan benh dung duoc xac minh doc lap.

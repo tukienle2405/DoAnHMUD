@@ -1,0 +1,20 @@
+{
+  "nguon": "DU_DOAN_TUNG_ANH.csv, du lieu co san, khong suy dien ket qua model moi",
+  "tong_anh": 238,
+  "anh_co_nhan_benh": 208,
+  "anh_chua_xac_minh": 30,
+  "crop_top1_correct": 152,
+  "crop_top1_accuracy_pct": 63.87,
+  "crop_top3_recall": 215,
+  "crop_top3_recall_pct": 90.34,
+  "crop_top3_recall_labeled": 186,
+  "crop_top3_recall_labeled_pct": 89.42,
+  "joint_old_correct": 56,
+  "joint_old_accuracy_pct": 26.92,
+  "disease_true_crop_correct": 80,
+  "disease_true_crop_accuracy_pct": 38.46,
+  "upper_bound_top3_with_fixed_disease_model": 74,
+  "upper_bound_top3_pct": 35.58,
+  "maximum_extra_correct_if_choosing_true_top3_crop": 18,
+  "NOTE": "Gioi han Top3 dung nhan that (oracle), KHONG PHAI ket qua cua thuat toan Top3 moi."
+}

@@ -1,0 +1,42 @@
+﻿crop,class,total,correct,incorrect,accuracy_percent
+Ớt cay,Chili___Bacterial_spot,1629,1612,17,98.96
+Ớt cay,Chili___Cercospora_leaf_spot,1898,1881,17,99.1
+Ớt cay,Chili___Curl_virus,1590,1567,23,98.55
+Ớt cay,Chili___healthy,1647,1625,22,98.66
+Cà phê,Coffee___Phoma,1110,1061,49,95.59
+Cà phê,Coffee___Rust,1031,919,112,89.14
+Cà phê,Coffee___healthy,1079,1074,5,99.54
+Ngô,Corn___Blight,1146,1087,59,94.85
+Ngô,Corn___Common_rust,1306,1290,16,98.77
+Ngô,Corn___Gray_leaf_spot,574,516,58,89.9
+Ngô,Corn___healthy,1162,1162,0,100.0
+Xoài,Mango___Anthracnose,2075,2058,17,99.18
+Xoài,Mango___Bacterial_canker,2894,2872,22,99.24
+Xoài,Mango___Cutting_weevil,1890,1872,18,99.05
+Xoài,Mango___Die_back,1600,1599,1,99.94
+Xoài,Mango___Gall_midge,2552,2549,3,99.88
+Xoài,Mango___Powdery_mildew,981,981,0,100.0
+Xoài,Mango___Sooty_mould,1590,1550,40,97.48
+Xoài,Mango___healthy,1500,1500,0,100.0
+Ớt chuông,Pepper__bell___Bacterial_spot,997,991,6,99.4
+Ớt chuông,Pepper__bell___healthy,1478,1475,3,99.8
+Khoai tây,Potato___Early_blight,1000,1000,0,100.0
+Khoai tây,Potato___Late_blight,1000,999,1,99.9
+Khoai tây,Potato___healthy,152,151,1,99.34
+Lúa nước,Rice___Bacterial_leaf_blight,40,40,0,100.0
+Lúa nước,Rice___Brown_spot,40,37,3,92.5
+Lúa nước,Rice___Leaf_smut,40,33,7,82.5
+Cao su,Rubber___Anthracnose,300,300,0,100.0
+Cao su,Rubber___Dry_leaf,450,450,0,100.0
+Cao su,Rubber___Leaf_spot,484,484,0,100.0
+Cao su,Rubber___healthy,506,506,0,100.0
+Cà chua,Tomato_Bacterial_spot,2127,2112,15,99.29
+Cà chua,Tomato_Early_blight,1000,971,29,97.1
+Cà chua,Tomato_Late_blight,1909,1888,21,98.9
+Cà chua,Tomato_Leaf_Mold,952,952,0,100.0
+Cà chua,Tomato_Septoria_leaf_spot,1771,1751,20,98.87
+Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,1676,1664,12,99.28
+Cà chua,Tomato__Target_Spot,1404,1366,38,97.29
+Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,3208,3206,2,99.94
+Cà chua,Tomato__Tomato_mosaic_virus,373,372,1,99.73
+Cà chua,Tomato_healthy,1591,1587,4,99.75

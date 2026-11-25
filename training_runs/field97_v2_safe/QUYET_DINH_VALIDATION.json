@@ -1,0 +1,32 @@
+{
+  "approved_for_locked_test": true,
+  "baseline_field_val": {
+    "total": 205,
+    "crop_correct": 121,
+    "crop_pct": 59.02,
+    "joint_correct": 63,
+    "joint_pct": 30.73,
+    "given_true_crop_correct": 92,
+    "given_true_crop_pct": 44.88,
+    "free_97_correct": 23,
+    "free_97_pct": 11.22
+  },
+  "baseline_old_val": {
+    "correct": 495,
+    "total": 516,
+    "pct": 95.93
+  },
+  "best_validation": {
+    "epoch": 1,
+    "stage": "head",
+    "train_loss": 2.59511,
+    "train_acc_pct": 58.83,
+    "field_val_joint_pct": 36.59,
+    "field_val_given_crop_pct": 54.15,
+    "old_val_acc_pct": 96.12,
+    "retention_ok": true
+  },
+  "rule": "Joint gain >= 1.0pp, disease given crop non-decreasing, original old val drop <= 8.0pp",
+  "candidate_path": "D:\\DoanHMvUD\\training_runs\\field97_v2_safe\\field97_best_candidate.pth",
+  "no_auto_deploy": true
+}

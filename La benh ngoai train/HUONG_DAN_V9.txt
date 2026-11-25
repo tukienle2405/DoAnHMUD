@@ -1,0 +1,30 @@
+V9 - KIEM TRA DU LIEU TRAIN, KHONG HUAN LUYEN LAI
+
+A. GIAI NEN
+- Tai BO_RASOAT_DU_LIEU_TRAIN_V9.zip
+- Giai nen tat ca vao: D:\DoanHMvUD\La benh ngoai train\V9
+- Sau khi giai nen, thu muc V9 phai co:
+  rasoat_train_v9.py
+  CHAY_V9.bat
+  dataset_manifest_SPLIT_DU_KIEN(1).csv
+  EXTERNAL_SPLIT_LOCKED.csv
+  BANG_BAO_PHU_97_LOP_V8.csv
+
+B. CHAY
+- Mo PowerShell, dan:
+  cd "D:\DoanHMvUD\La benh ngoai train\V9"
+  py -3 -u rasoat_train_v9.py
+- Hoac nhan dup CHAY_V9.bat
+
+C. GUI LAI DUNG 3 FILE TRONG THU MUC
+D:\DoanHMvUD\La benh ngoai train\V9\KET_QUA_V9_TRAIN
+  TONG_KET_V9.json
+  BAO_PHU_97_LOP_V9.csv
+  MAU_CAN_XAC_MINH_TRAIN_V9.csv
+- Neu can xem hinh, gui them XEM_ANH_TRAIN_V9.html (co nhung anh co the nhung truc tiep).
+
+D. AN TOAN DU LIEU
+- Chi mo anh TRAIN duoc lay mau, khong mo anh Validation/Test.
+- Khong tu sua nhan, khong doi du lieu goc, khong overwrite checkpoint.
+- needs_label_review=NO khong co nghia la chuyen gia da xac minh nhan.
+- Tiep theo: xac minh nhan Train nghi van, bo sung anh con thieu, sau do dung holdout doc lap moi.

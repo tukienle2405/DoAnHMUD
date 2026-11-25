@@ -1,0 +1,23 @@
+{
+  "old_train_count": 100536,
+  "field_v10_safe": 590,
+  "field_excluded_original_source_test_folder": 50,
+  "field_pilot_train": 540,
+  "old_validation_sample": 258,
+  "field_validation_sample": 205,
+  "field_pilot_classes": 13,
+  "missing_provisional_train_classes": [
+    "Banana___healthy",
+    "Guava___Dot",
+    "Papaya___Anthracnose",
+    "Papaya___Bacterial_spot",
+    "Papaya___Curl",
+    "Papaya___Mealybug",
+    "Papaya___Mite_damage",
+    "Papaya___Mosaic",
+    "Papaya___Ringspot",
+    "Papaya___healthy",
+    "Sugarcane___Sett_rot"
+  ],
+  "warning": "11 class labels in V10 quarantine, NOT cleared for supervised training."
+}

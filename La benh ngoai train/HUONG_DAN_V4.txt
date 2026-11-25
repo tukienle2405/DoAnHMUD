@@ -1,0 +1,50 @@
+BO DANH GIA V4 - KHONG HUAN LUYEN, KHONG SUA APP
+
+I. MUC DICH
+- Doi chieu 2 bien the tren CUNG TAP anh:
+  A. Crop18 cu + Disease97 V2 (baseline)
+  B. Crop18 V3 + Disease97 V2 (candidate)
+- Bao cao do chinh xac cay tren toan bo anh duoc danh gia.
+- Bao cao dung DONG THOI CAY + BENH tren anh co nhan benh duoc xac minh.
+- Ghi du doan tung anh, theo tung cay; thong ke bao phu cay/benh.
+
+II. CAI DAT
+- Giai nen V4, copy DANH_GIA_V3_V4.py va MAU_HOLDOUT_97_LOP.csv
+  vao D:\DoanHMvUD\La benh ngoai train\V3
+- Trong V3 da can co nang_cap_benh_97_thuc_dia.py, model_architecture.py,
+  EXTERNAL_SPLIT_LOCKED.csv va dataset_manifest_SPLIT_DU_KIEN(1).csv.
+- Khong ghi de checkpoint cu, khong sua Streamlit.
+
+III. CHAY CHAN DOAN TREN TEST PLANTDOC DA DUNG O V2
+  cd "D:\DoanHMvUD\La benh ngoai train\V3"
+  py -3 -u DANH_GIA_V3_V4.py --mode locked-test --batch_size 8
+
+ LUU Y: Tap Test nay da duoc xem o V2, khong con la blind/unseen holdout.
+ Chi su dung de SO SANH THAM KHAO; TUYET DOI khong tune V3 theo ket qua nay.
+
+IV. DANH GIA DOC LAP THUC SU (BAT BUOC TRUOC KHI CONG BO)
+- Tao mot bo anh MOI chua tung dung train/val/test hoac test thu,
+  co nguon goc ro rang, da co nguoi xac minh loai cay va ten benh.
+- Trong MAU_HOLDOUT_97_LOP.csv, dien path Windows tuyet doi den anh.
+  De verified=YES chi khi crop/disease duoc xac minh; ghi source ro rang.
+  Neu chua biet benh thi de disease rong: chi duoc tinh vao metric crop.
+  Cac dong khong co path hoac verified=NO se duoc bo qua.
+- De chung minh tat ca 18 cay / 97 lop can anh da xac minh tu tung nhom,
+  uu tien >=5 anh doc lap cho moi lop (toan bo 97 lop = >=485 anh).
+  Neu thieu lop, script se liet ke nhung lop chua duoc chung nhan.
+- Chay:
+  py -3 -u DANH_GIA_V3_V4.py --mode holdout --holdout_csv "MAU_HOLDOUT_97_LOP.csv" --batch_size 8
+
+ V4 tu dong chan cac anh trung DUONG DAN voi bo du lieu cu va bo PlantDoc locked,
+ phat hien trung SHA256 ben trong holdout. Chua kiem tra duoc trung anh gan giong
+ hoac cung noi dung da crop/resize trong bo du lieu cu; can kiem tra them.
+
+V. KET QUA
+ Duoi D:\DoanHMvUD\training_runs\field97_v4_external_verification\
+ - LOCKED_TEST_THAM_KHAO\KET_QUA_V4.json
+ - LOCKED_TEST_THAM_KHAO\DU_DOAN_CHI_TIET_V4.csv
+ - HOLDOUT_MOI\KET_QUA_V4.json
+ - HOLDOUT_MOI\DU_DOAN_CHI_TIET_V4.csv
+
+ KHONG coi ket qua Test cu la chung nhan do chinh xac cho 18 cay 97 benh.
+ KHONG mo hinh moi vao Streamlit cho den khi qua holdout doc lap.

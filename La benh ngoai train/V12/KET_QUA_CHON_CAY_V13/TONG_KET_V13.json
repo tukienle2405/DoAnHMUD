@@ -1,0 +1,56 @@
+{
+  "mode": "V13_EXPLORATORY_SELECT_CROP_FROM_OLD_FOLDER_NOT_GROUND_TRUTH",
+  "images": 40,
+  "different_crop_from_folder": 22,
+  "v2_disease_prediction_changed_when_forcing_folder_crop": 22,
+  "v11_disease_prediction_changed_when_forcing_folder_crop": 22,
+  "v2_v11_disease_disagreement_under_folder_crop": 1,
+  "preview_images": 24,
+  "breakdown": [
+    {
+      "crop": "Banana",
+      "total": 10,
+      "v3_khac_folder": 3,
+      "v2_changes_when_select": 3,
+      "v11_changes_when_select": 3
+    },
+    {
+      "crop": "Coffee",
+      "total": 10,
+      "v3_khac_folder": 9,
+      "v2_changes_when_select": 9,
+      "v11_changes_when_select": 9
+    },
+    {
+      "crop": "Lemon",
+      "total": 10,
+      "v3_khac_folder": 10,
+      "v2_changes_when_select": 10,
+      "v11_changes_when_select": 10
+    },
+    {
+      "crop": "Tomato",
+      "total": 10,
+      "v3_khac_folder": 0,
+      "v2_changes_when_select": 0,
+      "v11_changes_when_select": 0
+    }
+  ],
+  "verified_crop_labels": 0,
+  "verified_disease_labels": 0,
+  "accuracy_calculated": false,
+  "training_performed": false,
+  "checkpoints_overwritten": false,
+  "streamlit_modified": false,
+  "warnings": [
+    "Ten thu muc khong phai nhan da xac minh. Chung minh hoa cach cho phep nguoi dung CHON CAY, khong chung minh mo hinh tot hon.",
+    "Phai hoi nguoi dung xac nhan loai cay truoc khi suy luan benh theo cay da chon.",
+    "Softmax gioi han trong cay KHONG phai do tin cay da hieu chuan.",
+    "V13 khong phai tap test doc lap; khong su dung de bao cao Accuracy."
+  ],
+  "files_to_send": [
+    "TONG_KET_V13.json",
+    "SO_SANH_CHON_CAY_V13.csv",
+    "ANH_CAN_XEM_V13.zip"
+  ]
+}

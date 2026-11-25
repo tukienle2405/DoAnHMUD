@@ -1,0 +1,9 @@
+V12B - TU DONG LAY ANH TU THU MUC CAY (KHONG PHAI TEST DOC LAP)
+
+Quet 18 thu muc cay, 132 anh.
+Path chua co trong metadata cu: 132.
+Chon 40 anh ung vien, dung luong 5.4 MB.
+Da so sanh SHA256 voi 9 file cu co cung kich thuoc de doc.
+Khong auto doi nhan, khong tinh Accuracy, khong mo test doc lap moi.
+
+GUI CHATGPT: TONG_KET_QUET_ANH_V12.json, DANH_SACH_UNG_VIEN_V12.csv, ANH_MAU_GUI_CHATGPT_V12.zip.

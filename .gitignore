@@ -1,0 +1,63 @@
+
+# Dataset goc
+/PlantVillage/
+
+# Du lieu thuc dia
+/external_field_pool_v2/CO_NHAN_THEO_NGUON/
+/external_field_pool_v2/UNG_VIEN_CHUA_XAC_MINH/
+/external_field_pool_v2/PlantDoc_nguon/
+/external_field_pool_v2/PlantDoc_ung_vien/
+/external_field_pool_v2/PlantDoc_khong_trung_SHA256/
+/external_field_pool_v2/_cache/
+/external_test/
+
+# Anh du lieu thu nghiem
+/La benh ngoai train/**/*.[jJ][pP][gG]
+/La benh ngoai train/**/*.[jJ][pP][eE][gG]
+/La benh ngoai train/**/*.[pP][nN][gG]
+/La benh ngoai train/**/*.webp
+/La benh ngoai train/**/*.avif
+
+# Cache
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Moi truong ao
+.venv/
+venv/
+env/
+node_modules/
+
+# File nen
+*.zip
+*.rar
+*.7z
+*.7z.*
+
+# Bao mat
+.env
+.env.*
+secrets.toml
+credentials.json
+token.json
+*.pem
+*.key
+
+# File kiem tra va don dep
+TOAN_BO_DO_AN.txt
+BAO_CAO_O_D.txt
+quet_toan_bo_do_an.py
+kiem_tra_o_D.py
+don_dep_do_an.py
+nen_chia_nho_do_an.py
+
+# File tam
+*.tmp
+*.log
+Thumbs.db
+.DS_Store

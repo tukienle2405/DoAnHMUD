@@ -1,0 +1,36 @@
+V11 - THU NGHIEM TINH CHINH RIENG HEAD 97 LOP - KHONG TREN TEST
+
+1. GIAI NEN:
+D:\DoanHMvUD\La benh ngoai train\V11
+Truc tiep, sao cho trong V11 co file train_v11_97_safe.py
+
+2. KIEM TRA TRUOC (KHONG HUAN LUYEN):
+cd "D:\DoanHMvUD\La benh ngoai train\V11"
+py -3 -u train_v11_97_safe.py --mode check
+
+3. NEU KIEM TRA THANH CONG, CHAY THU NGHIEM:
+py -3 -u train_v11_97_safe.py --mode train --epochs 2 --batch_size 8
+
+4. GUI LAI:
+V11\KET_QUA_V11\KIEM_TRA_DAU_VAO_V11.json
+V11\KET_QUA_V11\LICH_SU_V11.csv
+V11\KET_QUA_V11\TONG_KET_V11.json
+Neu gap loi, gui anh man hinh terminal hoac toan bo error text.
+Khong gui .pth: file model lon va CHUA duoc phep thay model dang chay.
+
+DIEU KIEN:
+- Da giai nen V10 va co V10\KET_QUA_V10\TRAIN_CANDIDATE_V10.csv,
+  V10\KET_QUA_V10\TRAIN_FIELD_SAFE_V10.csv,
+  V10\KET_QUA_V10\BAO_PHU_97_LOP_V10.csv,
+  V10\EXTERNAL_SPLIT_LOCKED.csv va V10\dataset_manifest_SPLIT_DU_KIEN(1).csv.
+- Cac checkpoint V2 va V3 van o thu muc D:\DoanHMvUD\training_runs.
+- Can Python voi torch, torchvision, Pillow tren may. Neu torch la CPU build thi script tu chay CPU.
+
+GIOI HAN / AN TOAN:
+- V10 co 11 lop khong co anh Train qua bo loc: V11 giu nguyen 84 output rows
+  khong thuoc 13 benh dang thu nghiem, va toan bo backbone. 11 lop KHONG duoc chung
+  minh da bao toan hoat dong bang viec giu weight (logit tuong doi van co the doi).
+- Loai tam 50 anh trong nguon folder ten 'test', du LOCKED split ghi train.
+- Chon diem chi tren Validation CU da duoc dung nhieu lan, KET QUA CHI THAM KHAO.
+- Khong mo anh Test, khong sua nhan, khong ghi de checkpoint, khong sua Streamlit.
+- Khong tu dong dua model V11 vao ung dung. Can bo Test doc lap moi + bao phu 18 cay/97 lop.

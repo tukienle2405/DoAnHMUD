@@ -1,0 +1,20 @@
+{
+  "field": {
+    "total": 205,
+    "crop_correct": 121,
+    "crop_pct": 59.02,
+    "joint_correct": 63,
+    "joint_pct": 30.73,
+    "given_true_crop_correct": 92,
+    "given_true_crop_pct": 44.88,
+    "free_97_correct": 23,
+    "free_97_pct": 11.22
+  },
+  "old": {
+    "correct": 495,
+    "total": 516,
+    "pct": 95.93
+  },
+  "model18": "D:\\DoanHMvUD\\training_runs\\crop18_field_pilot_20261125_123457\\best_field_candidate.pth",
+  "model97": "D:\\DoanHMvUD\\training_runs\\plant97_full_20261118_064241\\best_plant_model.pth"
+}

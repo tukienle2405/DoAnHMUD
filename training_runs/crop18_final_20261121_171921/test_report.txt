@@ -1,0 +1,24 @@
+              precision    recall  f1-score   support
+
+      Banana       0.99      1.00      1.00       270
+      Cashew       1.00      1.00      1.00        74
+       Chili       1.00      1.00      1.00       919
+      Coffee       1.00      1.00      1.00       275
+        Corn       1.00      0.99      0.99       631
+      Durian       0.99      0.99      0.99       389
+       Guava       1.00      1.00      1.00       311
+   Jackfruit       1.00      1.00      1.00       275
+       Lemon       0.99      1.00      1.00       213
+       Mango       1.00      1.00      1.00      2259
+      Papaya       1.00      1.00      1.00       235
+Pepper__bell       1.00      1.00      1.00       374
+      Potato       0.98      1.00      0.99       325
+        Rice       0.95      1.00      0.97        18
+      Rubber       1.00      1.00      1.00       246
+   Sugarcane       1.00      1.00      1.00       841
+         Tea       1.00      1.00      1.00      1350
+      Tomato       1.00      1.00      1.00      2409
+
+    accuracy                           1.00     11414
+   macro avg       0.99      1.00      1.00     11414
+weighted avg       1.00      1.00      1.00     11414

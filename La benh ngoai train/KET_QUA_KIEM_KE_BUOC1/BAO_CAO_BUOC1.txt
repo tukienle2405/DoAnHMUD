@@ -1,0 +1,38 @@
+﻿BƯỚC 1 - KIỂM KÊ ẢNH CÂY/BỆNH. ĐÂY KHÔNG PHẢI PHẦN MỀM NHẬN DIỆN BỆNH.
+
+Gốc dự án: D:\DoanHMvUD\La benh ngoai train
+Manifest 97 lớp: D:\DoanHMvUD\La benh ngoai train\V10\dataset_manifest_SPLIT_DU_KIEN(1).csv
+File PlantDoc khóa: D:\DoanHMvUD\La benh ngoai train\V10\EXTERNAL_SPLIT_LOCKED.csv
+Số thư mục cây tìm thấy: 18/18
+Số ảnh thực tế quét được (không trùng đường dẫn): 213,267
+Số ảnh trong 18 thư mục cây riêng: 132
+Số dòng metadata duy nhất: 126,422
+Số ảnh theo metadata thuộc Train: 103,266
+Số ảnh theo metadata ngoài Train: 23,156
+Số ảnh thực tế tìm thấy thuộc nhóm ngoài Train theo CSV: 23,156
+Số ảnh thực tế tìm thấy thuộc nhóm Train theo CSV: 103,266
+Số ảnh vật lý ngoài danh sách CSV cũ: 86,845
+TỔNG đường dẫn ngoài Train theo CSV + chưa có trong CSV cũ: 110,001
+Số metadata chưa thấy khi quét các gốc chỉ định: 0
+
+CẢNH BÁO: số ảnh ngoài Train bao gồm ảnh Validation/Test cũ, KHÔNG phải tập Test độc lập mới.
+CẢNH BÁO: bệnh được liệt kê theo nhãn nguồn/thư mục, CHƯA được AI phân tích hình ảnh hay chuyên gia xác minh.
+CẢNH BÁO: số dòng CSV metadata và số ảnh thực tế là hai chỉ số khác nhau.
+CẢNH BÁO: split=train trong CSV không chứng minh ảnh đã được dùng trong một epoch huấn luyện cụ thể.
+
+KẾT QUẢ CHI TIẾT:
+- TONG_KET_BUOC1.json
+- THONG_KE_18_LOAI_CAY.csv
+- THONG_KE_97_NHAN_BENH.csv
+- THONG_KE_THU_MUC_BENH_NGUON.csv
+- DANH_SACH_ANH_NGOAI_TRAIN.csv
+- ANH_CHUA_CO_TRONG_DANH_SACH_CU.csv
+- ANH_CO_NHAN_CAN_RA_SOAT.csv
+- DANH_MUC_97_NHAN_TIENG_VIET.csv
+
+GỬI CHATGPT 4 FILE:
+  1. TONG_KET_BUOC1.json
+  2. THONG_KE_18_LOAI_CAY.csv
+  3. THONG_KE_97_NHAN_BENH.csv
+  4. THONG_KE_THU_MUC_BENH_NGUON.csv
+Nếu có cảnh báo về metadata thiếu, gửi thêm BAO_CAO_BUOC1.txt.

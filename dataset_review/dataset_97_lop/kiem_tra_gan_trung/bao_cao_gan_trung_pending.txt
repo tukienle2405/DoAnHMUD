@@ -1,0 +1,22 @@
+BAO CAO KIEM TRA ANH GAN TRUNG - PENDING 97 LOP
+==========================================================
+So anh trong manifest: 125,228
+Pending: 63,705
+Anh pending tinh hash thanh cong: 63,705
+Anh loi: 0
+So nhom ung vien cung nhan: 61,964
+Nhom co >=2 anh: 1,041
+Anh nam trong nhom >=2: 2,782
+Cap gan trung cung nhan: 2,666
+So dong cap da ghi CSV: 2,666
+Nhom lon >=20 anh: 0
+File gap bucket qua dong: 0
+Anh nghi gan trung KHAC NHAN (pHash+dHash deu bang nhau): 4
+
+LUU Y QUAN TRONG:
+1. CHUA chia train/val/test cho pending.
+2. Nhung nhom nay CHI la goi y dua tren hash, KHONG chac chan cung la goc.
+3. Hash khong phat hien day du anh xoay/lat va cac kieu augmentation khac.
+4. Neu co bucket qua dong, viec phat hien co the bi bo sot.
+5. Chua xac minh nhan Papaya, Guava Dot, Sugarcane Sett_rot.
+6. Khong sua/xoa/di chuyen anh goc; split Tea va Durian giu nguyen.

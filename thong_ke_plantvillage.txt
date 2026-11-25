@@ -1,0 +1,371 @@
+﻿=================================================================
+THỐNG KÊ TOÀN BỘ PLANTVILLAGE
+=================================================================
+Tổng số thư mục cấp 1: 17
+Tổng số ảnh: 207,799
+Tổng số file: 207,801
+
+DANH SÁCH THƯ MỤC:
+
+- PlantVillage | 207,799 ảnh | 207,801 file | 17 thư mục con
+    - A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda | 3,322 ảnh | 3,322 file | 1 thư mục con
+        - coffee dataset | 3,322 ảnh | 3,322 file | 3 thư mục con
+            - Health leaves | 1,179 ảnh | 1,179 file | 0 thư mục con
+                Ảnh trực tiếp: 1,179
+            - leaf rust | 1,033 ảnh | 1,033 file | 0 thư mục con
+                Ảnh trực tiếp: 1,033
+            - phoma | 1,110 ảnh | 1,110 file | 0 thư mục con
+                Ảnh trực tiếp: 1,110
+    - Banana Leaf Image Dataset for Classification of Si | 1,773 ảnh | 1,773 file | 3 thư mục con
+        - cordana | 505 ảnh | 505 file | 0 thư mục con
+            Ảnh trực tiếp: 505
+        - sanas | 544 ảnh | 544 file | 0 thư mục con
+            Ảnh trực tiếp: 544
+        - sigatoka | 724 ảnh | 724 file | 0 thư mục con
+            Ảnh trực tiếp: 724
+    - Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture | 10,354 ảnh | 10,354 file | 2 thư mục con
+        - Aumented Dataset | 9,000 ảnh | 9,000 file | 9 thư mục con
+            - Anthracnose | 1,000 ảnh | 1,000 file | 0 thư mục con
+                Ảnh trực tiếp: 1,000
+            - Bacterial Blight | 1,000 ảnh | 1,000 file | 0 thư mục con
+                Ảnh trực tiếp: 1,000
+            - Citrus Canker | 1,000 ảnh | 1,000 file | 0 thư mục con
+                Ảnh trực tiếp: 1,000
+            - Curl Virus | 1,000 ảnh | 1,000 file | 0 thư mục con
+                Ảnh trực tiếp: 1,000
+            - Deficiency Leaf | 1,000 ảnh | 1,000 file | 0 thư mục con
+                Ảnh trực tiếp: 1,000
+            - Dry Leaf | 1,000 ảnh | 1,000 file | 0 thư mục con
+                Ảnh trực tiếp: 1,000
+            - Healthy Leaf | 1,000 ảnh | 1,000 file | 0 thư mục con
+                Ảnh trực tiếp: 1,000
+            - Sooty Mould | 1,000 ảnh | 1,000 file | 0 thư mục con
+                Ảnh trực tiếp: 1,000
+            - Spider Mites | 1,000 ảnh | 1,000 file | 0 thư mục con
+                Ảnh trực tiếp: 1,000
+        - Original Dataset | 1,354 ảnh | 1,354 file | 9 thư mục con
+            - Anthracnose | 100 ảnh | 100 file | 0 thư mục con
+                Ảnh trực tiếp: 100
+            - Bacterial Blight | 105 ảnh | 105 file | 0 thư mục con
+                Ảnh trực tiếp: 105
+            - Citrus Canker | 178 ảnh | 178 file | 0 thư mục con
+                Ảnh trực tiếp: 178
+            - Curl Virus | 115 ảnh | 115 file | 0 thư mục con
+                Ảnh trực tiếp: 115
+            - Deficiency Leaf | 193 ảnh | 193 file | 0 thư mục con
+                Ảnh trực tiếp: 193
+            - Dry Leaf | 186 ảnh | 186 file | 0 thư mục con
+                Ảnh trực tiếp: 186
+            - Healthy Leaf | 210 ảnh | 210 file | 0 thư mục con
+                Ảnh trực tiếp: 210
+            - Sooty Mould | 153 ảnh | 153 file | 0 thư mục con
+                Ảnh trực tiếp: 153
+            - Spider Mites | 114 ảnh | 114 file | 0 thư mục con
+                Ảnh trực tiếp: 114
+    - Durian_Leaf_Diseases_Release_20261017_v2 | 2,595 ảnh | 2,595 file | 3 thư mục con
+        - test | 389 ảnh | 389 file | 6 thư mục con
+            - Leaf_Algal | 67 ảnh | 67 file | 0 thư mục con
+                Ảnh trực tiếp: 67
+            - Leaf_Blight | 66 ảnh | 66 file | 0 thư mục con
+                Ảnh trực tiếp: 66
+            - Leaf_Colletotrichum | 59 ảnh | 59 file | 0 thư mục con
+                Ảnh trực tiếp: 59
+            - Leaf_Healthy | 73 ảnh | 73 file | 0 thư mục con
+                Ảnh trực tiếp: 73
+            - Leaf_Phomopsis | 63 ảnh | 63 file | 0 thư mục con
+                Ảnh trực tiếp: 63
+            - Leaf_Rhizoctonia | 61 ảnh | 61 file | 0 thư mục con
+                Ảnh trực tiếp: 61
+        - train | 1,827 ảnh | 1,827 file | 6 thư mục con
+            - Leaf_Algal | 330 ảnh | 330 file | 0 thư mục con
+                Ảnh trực tiếp: 330
+            - Leaf_Blight | 309 ảnh | 309 file | 0 thư mục con
+                Ảnh trực tiếp: 309
+            - Leaf_Colletotrichum | 281 ảnh | 281 file | 0 thư mục con
+                Ảnh trực tiếp: 281
+            - Leaf_Healthy | 342 ảnh | 342 file | 0 thư mục con
+                Ảnh trực tiếp: 342
+            - Leaf_Phomopsis | 287 ảnh | 287 file | 0 thư mục con
+                Ảnh trực tiếp: 287
+            - Leaf_Rhizoctonia | 278 ảnh | 278 file | 0 thư mục con
+                Ảnh trực tiếp: 278
+        - val | 379 ảnh | 379 file | 6 thư mục con
+            - Leaf_Algal | 65 ảnh | 65 file | 0 thư mục con
+                Ảnh trực tiếp: 65
+            - Leaf_Blight | 64 ảnh | 64 file | 0 thư mục con
+                Ảnh trực tiếp: 64
+            - Leaf_Colletotrichum | 61 ảnh | 61 file | 0 thư mục con
+                Ảnh trực tiếp: 61
+            - Leaf_Healthy | 69 ảnh | 69 file | 0 thư mục con
+                Ảnh trực tiếp: 69
+            - Leaf_Phomopsis | 61 ảnh | 61 file | 0 thư mục con
+                Ảnh trực tiếp: 61
+            - Leaf_Rhizoctonia | 59 ảnh | 59 file | 0 thư mục con
+                Ảnh trực tiếp: 59
+    - Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves | 23,393 ảnh | 23,393 file | 1 thư mục con
+        - Guava Fruits_Dataset | 23,393 ảnh | 23,393 file | 2 thư mục con
+            - Augmented | 20,344 ảnh | 20,344 file | 2 thư mục con
+                - Guava_fruit | 10,145 ảnh | 10,145 file | 2 thư mục con
+                    - Disease | 5,915 ảnh | 5,915 file | 3 thư mục con
+                        - Anthracnose | 2,367 ảnh | 2,367 file | 0 thư mục con
+                            Ảnh trực tiếp: 2,367
+                        - Scab | 1,190 ảnh | 1,190 file | 0 thư mục con
+                            Ảnh trực tiếp: 1,190
+                        - Styler end root | 2,358 ảnh | 2,358 file | 0 thư mục con
+                            Ảnh trực tiếp: 2,358
+                    - Healthy | 4,230 ảnh | 4,230 file | 0 thư mục con
+                        Ảnh trực tiếp: 4,230
+                - Guava_leaf | 10,199 ảnh | 10,199 file | 2 thư mục con
+                    - Disease | 5,705 ảnh | 5,705 file | 4 thư mục con
+                        - Anthracnose | 1,659 ảnh | 1,659 file | 0 thư mục con
+                            Ảnh trực tiếp: 1,659
+                        - Canker | 1,344 ảnh | 1,344 file | 0 thư mục con
+                            Ảnh trực tiếp: 1,344
+                        - Dot | 1,533 ảnh | 1,533 file | 0 thư mục con
+                            Ảnh trực tiếp: 1,533
+                        - Rust | 1,169 ảnh | 1,169 file | 0 thư mục con
+                            Ảnh trực tiếp: 1,169
+                    - Helathy | 4,494 ảnh | 4,494 file | 0 thư mục con
+                        Ảnh trực tiếp: 4,494
+            - ORGINAL | 3,049 ảnh | 3,049 file | 1 thư mục con
+                - Guava Fruits and leaves Dataset | 3,049 ảnh | 3,049 file | 2 thư mục con
+                    - Guava_Fruit | 986 ảnh | 986 file | 2 thư mục con
+                        - Disease | 644 ảnh | 644 file | 3 thư mục con
+                            - Anthracnose | 263 ảnh | 263 file | 0 thư mục con
+                                Ảnh trực tiếp: 263
+                            - Scab | 119 ảnh | 119 file | 0 thư mục con
+                                Ảnh trực tiếp: 119
+                            - Styler end root | 262 ảnh | 262 file | 0 thư mục con
+                                Ảnh trực tiếp: 262
+                        - Healthy | 342 ảnh | 342 file | 0 thư mục con
+                            Ảnh trực tiếp: 342
+                    - Guava_Leaf | 2,063 ảnh | 2,063 file | 2 thư mục con
+                        - Disease | 815 ảnh | 815 file | 4 thư mục con
+                            - Anthracnose | 237 ảnh | 237 file | 0 thư mục con
+                                Ảnh trực tiếp: 237
+                            - Canker | 192 ảnh | 192 file | 0 thư mục con
+                                Ảnh trực tiếp: 192
+                            - Dot | 219 ảnh | 219 file | 0 thư mục con
+                                Ảnh trực tiếp: 219
+                            - Rust | 167 ảnh | 167 file | 0 thư mục con
+                                Ảnh trực tiếp: 167
+                        - Healthy | 1,248 ảnh | 1,248 file | 0 thư mục con
+                            Ảnh trực tiếp: 1,248
+    - Papaya Leaf Disease Image Dataset | 21,756 ảnh | 21,756 file | 2 thư mục con
+        - augmented | 18,130 ảnh | 18,130 file | 8 thư mục con
+            - Anthracnose | 1,150 ảnh | 1,150 file | 0 thư mục con
+                Ảnh trực tiếp: 1,150
+            - BacterialSpot | 1,070 ảnh | 1,070 file | 0 thư mục con
+                Ảnh trực tiếp: 1,070
+            - Curl | 3,890 ảnh | 3,890 file | 0 thư mục con
+                Ảnh trực tiếp: 3,890
+            - Healthy | 2,970 ảnh | 2,970 file | 0 thư mục con
+                Ảnh trực tiếp: 2,970
+            - Mealybug | 910 ảnh | 910 file | 0 thư mục con
+                Ảnh trực tiếp: 910
+            - Mite disease | 2,760 ảnh | 2,760 file | 0 thư mục con
+                Ảnh trực tiếp: 2,760
+            - Mosaic | 2,730 ảnh | 2,730 file | 0 thư mục con
+                Ảnh trực tiếp: 2,730
+            - Ringspot | 2,650 ảnh | 2,650 file | 0 thư mục con
+                Ảnh trực tiếp: 2,650
+        - new | 3,626 ảnh | 3,626 file | 8 thư mục con
+            - Anthracnose | 230 ảnh | 230 file | 0 thư mục con
+                Ảnh trực tiếp: 230
+            - BacterialSpot | 214 ảnh | 214 file | 0 thư mục con
+                Ảnh trực tiếp: 214
+            - Curl | 778 ảnh | 778 file | 0 thư mục con
+                Ảnh trực tiếp: 778
+            - Healthy | 594 ảnh | 594 file | 0 thư mục con
+                Ảnh trực tiếp: 594
+            - Mealybug | 182 ảnh | 182 file | 0 thư mục con
+                Ảnh trực tiếp: 182
+            - Mite disease | 552 ảnh | 552 file | 0 thư mục con
+                Ảnh trực tiếp: 552
+            - Mosaic | 546 ảnh | 546 file | 0 thư mục con
+                Ảnh trực tiếp: 546
+            - Ringspot | 530 ảnh | 530 file | 0 thư mục con
+                Ảnh trực tiếp: 530
+    - Rubber_Leaf_Dataset | 3,481 ảnh | 3,481 file | 2 thư mục con
+        - Raw_Dataset | 1,740 ảnh | 1,740 file | 4 thư mục con
+            - Anthracnose | 300 ảnh | 300 file | 0 thư mục con
+                Ảnh trực tiếp: 300
+            - Dry_Leaf | 450 ảnh | 450 file | 0 thư mục con
+                Ảnh trực tiếp: 450
+            - Healthy | 506 ảnh | 506 file | 0 thư mục con
+                Ảnh trực tiếp: 506
+            - Leaf_Spot | 484 ảnh | 484 file | 0 thư mục con
+                Ảnh trực tiếp: 484
+        - rubber_Compressed_Dataset | 1,741 ảnh | 1,741 file | 4 thư mục con
+            - Anthracnose | 301 ảnh | 301 file | 0 thư mục con
+                Ảnh trực tiếp: 301
+            - Dry_Leaf | 450 ảnh | 450 file | 0 thư mục con
+                Ảnh trực tiếp: 450
+            - Healthy | 506 ảnh | 506 file | 0 thư mục con
+                Ảnh trực tiếp: 506
+            - Leaf_Spot | 484 ảnh | 484 file | 0 thư mục con
+                Ảnh trực tiếp: 484
+    - Sugarcane Leaf Image Dataset | 6,748 ảnh | 6,748 file | 3 thư mục con
+        - Diseases | 5,975 ảnh | 5,975 file | 9 thư mục con
+            - Banded Chlorosis | 471 ảnh | 471 file | 0 thư mục con
+                Ảnh trực tiếp: 471
+            - Brown Spot | 1,722 ảnh | 1,722 file | 0 thư mục con
+                Ảnh trực tiếp: 1,722
+            - BrownRust | 314 ảnh | 314 file | 0 thư mục con
+                Ảnh trực tiếp: 314
+            - Grassy shoot | 346 ảnh | 346 file | 0 thư mục con
+                Ảnh trực tiếp: 346
+            - Pokkah Boeng | 297 ảnh | 297 file | 0 thư mục con
+                Ảnh trực tiếp: 297
+            - Sett Rot | 652 ảnh | 652 file | 0 thư mục con
+                Ảnh trực tiếp: 652
+            - Viral Disease | 663 ảnh | 663 file | 0 thư mục con
+                Ảnh trực tiếp: 663
+            - Yellow Leaf | 1,194 ảnh | 1,194 file | 0 thư mục con
+                Ảnh trực tiếp: 1,194
+            - smut | 316 ảnh | 316 file | 0 thư mục con
+                Ảnh trực tiếp: 316
+        - Dried Leaves | 343 ảnh | 343 file | 0 thư mục con
+            Ảnh trực tiếp: 343
+        - Healthy Leaves | 430 ảnh | 430 file | 0 thư mục con
+            Ảnh trực tiếp: 430
+    - Tea Leaf Dataset | 80,329 ảnh | 80,329 file | 1 thư mục con
+        - Tea Leaf Dataset | 80,329 ảnh | 80,329 file | 2 thư mục con
+            - Diseased Leaves | 67,500 ảnh | 67,500 file | 5 thư mục con
+                - Blister_Blight | 13,500 ảnh | 13,500 file | 0 thư mục con
+                    Ảnh trực tiếp: 13,500
+                - Brown_Blight | 13,500 ảnh | 13,500 file | 0 thư mục con
+                    Ảnh trực tiếp: 13,500
+                - Leaf_Red_Rust | 13,500 ảnh | 13,500 file | 0 thư mục con
+                    Ảnh trực tiếp: 13,500
+                - Red_Spider_Mite | 13,500 ảnh | 13,500 file | 0 thư mục con
+                    Ảnh trực tiếp: 13,500
+                - Tea_Mosquito_Bug | 13,500 ảnh | 13,500 file | 0 thư mục con
+                    Ảnh trực tiếp: 13,500
+            - Healthy Leaves | 12,829 ảnh | 12,829 file | 1 thư mục con
+                - Healthy_leaves | 12,829 ảnh | 12,829 file | 0 thư mục con
+                    Ảnh trực tiếp: 12,829
+    - cashew and jackfruit | 2,343 ảnh | 2,343 file | 2 thư mục con
+        - cashew leaf | 500 ảnh | 500 file | 2 thư mục con
+            - cashew fungal infection | 250 ảnh | 250 file | 0 thư mục con
+                Ảnh trực tiếp: 250
+            - cashew healthy | 250 ảnh | 250 file | 0 thư mục con
+                Ảnh trực tiếp: 250
+        - jackfruit leaf | 1,843 ảnh | 1,843 file | 6 thư mục con
+            - jackfruit algal | 245 ảnh | 245 file | 0 thư mục con
+                Ảnh trực tiếp: 245
+            - jackfruit anthracnose | 349 ảnh | 349 file | 0 thư mục con
+                Ảnh trực tiếp: 349
+            - jackfruit healthy | 316 ảnh | 316 file | 0 thư mục con
+                Ảnh trực tiếp: 316
+            - jackfruit leaf spot | 368 ảnh | 368 file | 0 thư mục con
+                Ảnh trực tiếp: 368
+            - jackfruit phyllosticta | 345 ảnh | 345 file | 0 thư mục con
+                Ảnh trực tiếp: 345
+            - jackfruit sooty mold | 220 ảnh | 220 file | 0 thư mục con
+                Ảnh trực tiếp: 220
+    - chileleaf | 6,764 ảnh | 6,764 file | 4 thư mục con
+        - Bacterial_Spot | 1,629 ảnh | 1,629 file | 0 thư mục con
+            Ảnh trực tiếp: 1,629
+        - Cercospora_Leaf_Spot | 1,898 ảnh | 1,898 file | 0 thư mục con
+            Ảnh trực tiếp: 1,898
+        - Curl_Virus | 1,590 ảnh | 1,590 file | 0 thư mục con
+            Ảnh trực tiếp: 1,590
+        - Healthy_Leaf | 1,647 ảnh | 1,647 file | 0 thư mục con
+            Ảnh trực tiếp: 1,647
+    - corndisease | 4,188 ảnh | 4,188 file | 4 thư mục con
+        - Blight | 1,146 ảnh | 1,146 file | 0 thư mục con
+            Ảnh trực tiếp: 1,146
+        - Common_Rust | 1,306 ảnh | 1,306 file | 0 thư mục con
+            Ảnh trực tiếp: 1,306
+        - Gray_Leaf_Spot | 574 ảnh | 574 file | 0 thư mục con
+            Ảnh trực tiếp: 574
+        - Healthy | 1,162 ảnh | 1,162 file | 0 thư mục con
+            Ảnh trực tiếp: 1,162
+    - mago | 17,792 ảnh | 17,793 file | 3 thư mục con
+        - Mango Dataset | 15,082 ảnh | 15,083 file | 8 thư mục con
+            - Anthracnose | 2,075 ảnh | 2,075 file | 0 thư mục con
+                Ảnh trực tiếp: 2,075
+            - Bacterial Canker | 2,894 ảnh | 2,894 file | 0 thư mục con
+                Ảnh trực tiếp: 2,894
+            - Cutting Weevil | 1,890 ảnh | 1,890 file | 0 thư mục con
+                Ảnh trực tiếp: 1,890
+            - Gall Midge | 2,552 ảnh | 2,552 file | 0 thư mục con
+                Ảnh trực tiếp: 2,552
+            - Healthy | 1,500 ảnh | 1,500 file | 0 thư mục con
+                Ảnh trực tiếp: 1,500
+            - Powdery Mildew | 981 ảnh | 982 file | 0 thư mục con
+                Ảnh trực tiếp: 981
+            - Sooty Mould | 1,590 ảnh | 1,590 file | 0 thư mục con
+                Ảnh trực tiếp: 1,590
+            - die back | 1,600 ảnh | 1,600 file | 0 thư mục con
+                Ảnh trực tiếp: 1,600
+        - external_test | 1 ảnh | 1 file | 0 thư mục con
+            Ảnh trực tiếp: 1
+        - mango leaf | 2,709 ảnh | 2,709 file | 6 thư mục con
+            - mango anthracnose | 500 ảnh | 500 file | 0 thư mục con
+                Ảnh trực tiếp: 500
+            - mango die back | 500 ảnh | 500 file | 0 thư mục con
+                Ảnh trực tiếp: 500
+            - mango gall midge | 500 ảnh | 500 file | 0 thư mục con
+                Ảnh trực tiếp: 500
+            - mango healthy | 500 ảnh | 500 file | 0 thư mục con
+                Ảnh trực tiếp: 500
+            - mango powdery mildew | 500 ảnh | 500 file | 0 thư mục con
+                Ảnh trực tiếp: 500
+            - mango sooty mould | 209 ảnh | 209 file | 0 thư mục con
+                Ảnh trực tiếp: 209
+    - pepper | 2,475 ảnh | 2,475 file | 2 thư mục con
+        - Pepper__bell___Bacterial_spot | 997 ảnh | 997 file | 0 thư mục con
+            Ảnh trực tiếp: 997
+        - Pepper__bell___healthy | 1,478 ảnh | 1,478 file | 0 thư mục con
+            Ảnh trực tiếp: 1,478
+    - potato | 2,152 ảnh | 2,152 file | 3 thư mục con
+        - Potato___Early_blight | 1,000 ảnh | 1,000 file | 0 thư mục con
+            Ảnh trực tiếp: 1,000
+        - Potato___Late_blight | 1,000 ảnh | 1,000 file | 0 thư mục con
+            Ảnh trực tiếp: 1,000
+        - Potato___healthy | 152 ảnh | 152 file | 0 thư mục con
+            Ảnh trực tiếp: 152
+    - rice_leaf_diseases | 120 ảnh | 120 file | 3 thư mục con
+        - Bacterial leaf blight | 40 ảnh | 40 file | 0 thư mục con
+            Ảnh trực tiếp: 40
+        - Brown spot | 40 ảnh | 40 file | 0 thư mục con
+            Ảnh trực tiếp: 40
+        - Leaf smut | 40 ảnh | 40 file | 0 thư mục con
+            Ảnh trực tiếp: 40
+    - tomato | 18,214 ảnh | 18,215 file | 17 thư mục con
+        - Tomato_Bacterial_spot | 2,127 ảnh | 2,127 file | 0 thư mục con
+            Ảnh trực tiếp: 2,127
+        - Tomato_Early_blight | 1,000 ảnh | 1,000 file | 0 thư mục con
+            Ảnh trực tiếp: 1,000
+        - Tomato_Late_blight | 1,909 ảnh | 1,909 file | 0 thư mục con
+            Ảnh trực tiếp: 1,909
+        - Tomato_Leaf_Mold | 952 ảnh | 952 file | 0 thư mục con
+            Ảnh trực tiếp: 952
+        - Tomato_Septoria_leaf_spot | 1,771 ảnh | 1,771 file | 0 thư mục con
+            Ảnh trực tiếp: 1,771
+        - Tomato_Spider_mites_Two_spotted_spider_mite | 1,676 ảnh | 1,676 file | 0 thư mục con
+            Ảnh trực tiếp: 1,676
+        - Tomato__Target_Spot | 1,404 ảnh | 1,404 file | 0 thư mục con
+            Ảnh trực tiếp: 1,404
+        - Tomato__Tomato_YellowLeaf__Curl_Virus | 3,208 ảnh | 3,209 file | 0 thư mục con
+            Ảnh trực tiếp: 3,208
+        - Tomato__Tomato_mosaic_virus | 373 ảnh | 373 file | 0 thư mục con
+            Ảnh trực tiếp: 373
+        - Tomato_healthy | 1,591 ảnh | 1,591 file | 0 thư mục con
+            Ảnh trực tiếp: 1,591
+        - tomato bacterial spot | 376 ảnh | 376 file | 0 thư mục con
+            Ảnh trực tiếp: 376
+        - tomato blight | 290 ảnh | 290 file | 0 thư mục con
+            Ảnh trực tiếp: 290
+        - tomato curl virus | 394 ảnh | 394 file | 0 thư mục con
+            Ảnh trực tiếp: 394
+        - tomato healthy | 278 ảnh | 278 file | 0 thư mục con
+            Ảnh trực tiếp: 278
+        - tomato insect damage | 336 ảnh | 336 file | 0 thư mục con
+            Ảnh trực tiếp: 336
+        - tomato leaf mold | 222 ảnh | 222 file | 0 thư mục con
+            Ảnh trực tiếp: 222
+        - tomato spider mites | 307 ảnh | 307 file | 0 thư mục con
+            Ảnh trực tiếp: 307

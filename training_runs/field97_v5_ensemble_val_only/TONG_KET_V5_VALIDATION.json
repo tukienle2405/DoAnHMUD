@@ -1,0 +1,88 @@
+{
+  "mode": "VALIDATION_ONLY_NO_TEST_INFERENCE",
+  "warning": "VALIDATION DA DUOC DUNG CHON V2/V3; day chi la phep thu noi bo. KHONG tuyen bo do chinh xac tren anh moi.",
+  "v3_baseline": {
+    "alpha_v3": 1.0,
+    "field_val_crop_correct": 173,
+    "field_val_crop_pct": 74.25,
+    "field_val_joint_correct": 81,
+    "field_val_joint_pct": 39.51,
+    "old_val_crop_correct": 271,
+    "old_val_crop_pct": 99.63,
+    "passes_validation_rules": false,
+    "per_crop_guard_ok": true
+  },
+  "all_alphas": [
+    {
+      "alpha_v3": 0.0,
+      "field_val_crop_correct": 142,
+      "field_val_crop_pct": 60.94,
+      "field_val_joint_correct": 75,
+      "field_val_joint_pct": 36.59,
+      "old_val_crop_correct": 269,
+      "old_val_crop_pct": 98.9,
+      "passes_validation_rules": false,
+      "per_crop_guard_ok": false
+    },
+    {
+      "alpha_v3": 0.25,
+      "field_val_crop_correct": 149,
+      "field_val_crop_pct": 63.95,
+      "field_val_joint_correct": 75,
+      "field_val_joint_pct": 36.59,
+      "old_val_crop_correct": 270,
+      "old_val_crop_pct": 99.26,
+      "passes_validation_rules": false,
+      "per_crop_guard_ok": false
+    },
+    {
+      "alpha_v3": 0.5,
+      "field_val_crop_correct": 162,
+      "field_val_crop_pct": 69.53,
+      "field_val_joint_correct": 78,
+      "field_val_joint_pct": 38.05,
+      "old_val_crop_correct": 271,
+      "old_val_crop_pct": 99.63,
+      "passes_validation_rules": false,
+      "per_crop_guard_ok": false
+    },
+    {
+      "alpha_v3": 0.75,
+      "field_val_crop_correct": 171,
+      "field_val_crop_pct": 73.39,
+      "field_val_joint_correct": 80,
+      "field_val_joint_pct": 39.02,
+      "old_val_crop_correct": 271,
+      "old_val_crop_pct": 99.63,
+      "passes_validation_rules": false,
+      "per_crop_guard_ok": false
+    },
+    {
+      "alpha_v3": 1.0,
+      "field_val_crop_correct": 173,
+      "field_val_crop_pct": 74.25,
+      "field_val_joint_correct": 81,
+      "field_val_joint_pct": 39.51,
+      "old_val_crop_correct": 271,
+      "old_val_crop_pct": 99.63,
+      "passes_validation_rules": false,
+      "per_crop_guard_ok": true
+    }
+  ],
+  "chosen_ensemble": null,
+  "decision": "KEEP_V3_BASELINE",
+  "field_val_images": 233,
+  "field_val_disease_labeled": 205,
+  "old_val_images": 272,
+  "old_val_missing_crops": [
+    "Papaya"
+  ],
+  "models": {
+    "old18": "D:\\DoanHMvUD\\training_runs\\crop18_field_pilot_20261125_123457\\best_field_candidate.pth",
+    "v3_18": "D:\\DoanHMvUD\\training_runs\\field18_v3_safe\\field18_best_candidate_v3.pth",
+    "v2_97": "D:\\DoanHMvUD\\training_runs\\field97_v2_safe\\field97_best_candidate.pth"
+  },
+  "no_test_images_opened": true,
+  "checkpoints_untouched": true,
+  "streamlit_untouched": true
+}

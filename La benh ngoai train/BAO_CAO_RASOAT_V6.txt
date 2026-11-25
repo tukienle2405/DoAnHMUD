@@ -1,0 +1,17 @@
+BÁO CÁO RÀ SOÁT V6 (CHỈ TỪ FILE NGƯỜI DÙNG CUNG CẤP)
+
+- 233 ảnh Validation; 205 có nhãn bệnh, 28 chưa xác minh.
+- 81/205 đúng cả cây và bệnh (39.51%), 124 ảnh sai: 55 sai cây, 69 đúng cây nhưng sai bệnh.
+- 60/124 ảnh sai có điểm đầu ra từ 0.80 trở lên. Không coi điểm này là xác suất đúng đã hiệu chuẩn.
+- HTML gốc chứa 124 trường hợp sai; 120 ảnh nhúng trực tiếp, 4 ảnh thiếu (#4 #14 #16 #107).
+- Mẫu lặp gần giống trong tập 124 ảnh sai: #74-#76, #78-#79, #101-#108. Đây là ứng viên gần trùng theo dHash, chưa chứng minh trùng train/test.
+- Nghi vấn nhãn: #9 ghi bacterial speck trong ảnh/tên file nhưng CSV gán bacterial spot; #91 tên file đề cập ToBRFV nhưng CSV gán tomato mosaic virus; không sửa nhãn khi chưa đối chiếu nguồn.
+- Cần xem lại các ảnh gán healthy nhưng lá có điểm đáng ngờ: #52, #59.
+- Ảnh có chữ, chú thích, ghép nhiều bệnh: #47, #85, #102, #109; đưa vào danh sách cần phân loại nguồn riêng.
+- Kết quả vẫn chỉ là Validation đã được tái sử dụng qua nhiều phiên, không phải kiểm định khách quan cho đủ 18 cây/97 bệnh.
+
+ĐỀ XUẤT:
+- Khóa lại dataset và không tự sửa nhãn dựa trên dự đoán.
+- Rà soát các ảnh nghi ngờ với nguồn ảnh gốc/chuyên gia; loại bản trùng chỉ trên train/validation khi được xác minh và tạo split theo nhóm nguồn.
+- Đảm bảo ảnh thực địa mới, không trùng train/val/test, có nhãn cây + bệnh được xác minh, cho tất cả nhóm cần triển khai.
+- Khi xây mô hình mới, giảm học đường tắt từ chữ, watermark, phông nền; chỉ dùng ảnh lá đã lọc để huấn luyện.

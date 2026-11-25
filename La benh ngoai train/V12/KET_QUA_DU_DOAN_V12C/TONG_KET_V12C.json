@@ -1,0 +1,35 @@
+{
+  "mode": "V12C_OLD_LOCAL_IMAGES_PREDICTION_ONLY_NOT_HOLDOUT",
+  "total_images": 40,
+  "crop_folders": {
+    "Tomato": 10,
+    "Coffee": 10,
+    "Lemon": 10,
+    "Banana": 10
+  },
+  "crop_v3_agrees_with_folder_hint": 18,
+  "v2_v11_disease_prediction_disagreement": 1,
+  "priority_images": 29,
+  "preview_images": 24,
+  "models": {
+    "crop_v3": "D:\\DoanHMvUD\\training_runs\\field18_v3_safe\\field18_best_candidate_v3.pth",
+    "disease_v2": "D:\\DoanHMvUD\\training_runs\\field97_v2_safe\\field97_best_candidate.pth",
+    "disease_v11": "D:\\DoanHMvUD\\La benh ngoai train\\V11\\KET_QUA_V11\\V11_CANDIDATE_ONLY_NOT_DEPLOY.pth"
+  },
+  "labels_verified": 0,
+  "accuracy_calculated": false,
+  "is_independent_test": false,
+  "no_training": true,
+  "checkpoints_unchanged": true,
+  "warnings": [
+    "Du lieu lay tu thu muc cu, khong phai TEST doc lap.",
+    "Ten thu muc chi la goi y, KHONG phai ground truth; ti le khop thu muc KHONG phai Accuracy.",
+    "Softmax chua hieu chuan, khong la do tin cay lam sang.",
+    "Khong tu dong sua nhan hoac dua checkpoint V11 vao Streamlit."
+  ],
+  "files_to_send": [
+    "TONG_KET_V12C.json",
+    "DU_DOAN_ANH_V12C.csv",
+    "ANH_CAN_XEM_V12C.zip"
+  ]
+}

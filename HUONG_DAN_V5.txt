@@ -1,0 +1,39 @@
+V5 - THU GHEP 2 MO HINH NHAN DIEN CAY, CHI TREN VALIDATION
+============================================================
+
+KET QUA V4 (da xem tren TEST cu, KHONG dung de chon tham so):
+- Dung ca cay va benh: 80/208 = 38,46%, so voi 67/208 = 32,21% cua V2.
+- Cay: 186/238 = 78,15% (V3), 152/238 = 63,87% (cu).
+- Tren 208 anh co nhan: 46 anh sai cay, 82 anh dung cay nhung sai benh.
+- V3 cuu 18 anh dung ca cay+benh ma model cu sai; nhung lam mat 5 anh model cu dung.
+- Tap Test chi co 4/18 cay va 14/97 nhan benh; KHONG du chung nhan 18 cay/97 benh.
+
+MUC DICH:
+- Thu ket hop xac suat: P(cay) = (1-alpha)*P_old18 + alpha*P_v3_18
+- Dung checkpoint benh V2 co dinh, chon benh trong cay duoc du doan.
+- Chon alpha chi bang Validation, dong thoi kiem tra replay du lieu cu.
+- KHONG dung Test de chon alpha, KHONG train, KHONG thay checkpoint/Streamlit.
+
+CAI VA CHAY:
+1) Mo ZIP V5, copy file 'kiem_tra_ensemble_cay_v5.py' vao thu muc
+   D:\DoanHMvUD\La benh ngoai train\V3
+   (cung cap voi nang_cap_benh_97_thuc_dia.py,
+    kiem_tra_fusion_validation_v3.py, model_architecture.py).
+2) Trong PowerShell:
+   cd "D:\DoanHMvUD\La benh ngoai train\V3"
+   py -3 -u kiem_tra_ensemble_cay_v5.py --batch_size 8
+3) Thu muc ket qua:
+   D:\DoanHMvUD\training_runs\field97_v5_ensemble_val_only
+4) Doc file TONG_KET_V5_VALIDATION.json va SO_SANH_TRONG_SO_V5.csv.
+
+QUYET DINH:
+- decision = KEEP_V3_BASELINE: KHONG thay gi ca.
+- decision = VALIDATION_CANDIDATE_ONLY_REQUIRE_INDEPENDENT_HOLDOUT:
+  co ung vien can kiem chung tren anh HOAN TOAN MOI, chua trien khai.
+- Validation da duoc dung de chon V2 va V3 truoc day. Vi vay V5 chi
+  la tham do va chua phai ket qua doc lap de tuyen bo mo hinh hoan thanh.
+
+LUU Y:
+- Khong co file checkpoint trong ZIP (phai dung model dang co tren may).
+- Replay du lieu cu chua bao phu cay du du (Papaya), can anh moi co nhan xac minh.
+- Nhieu benh chua co mau test; can bo holdout moi du 18 cay/97 lop.

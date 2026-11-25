@@ -1,0 +1,26 @@
+V10 - CHI TAO DANH SACH TRAIN AN TOAN THEO THONG TIN NGUON (KHONG TRAIN)
+
+GIAI NEN TOAN BO ZIP TAI:
+D:\DoanHMvUD\La benh ngoai train\V10
+
+THUC HIEN:
+Mo PowerShell, copy:
+cd "D:\DoanHMvUD\La benh ngoai train\V10"
+py -3 -u tao_train_an_toan_v10.py
+
+HOAC nhap dup CHAY_V10.bat
+
+KET QUA TAI:
+D:\DoanHMvUD\La benh ngoai train\V10\KET_QUA_V10
+
+GUI LAI 3 FILE:
+TONG_KET_V10.json
+TRAIN_FIELD_CAN_XAC_MINH_V10.csv
+BAO_PHU_97_LOP_V10.csv
+
+CHU Y:
+- KHONG TU DONG SUA NHAN HAY HUAN LUYEN.
+- KHONG dung Validation/Test de sua nhan hay hoc.
+- TRAIN_CANDIDATE_V10.csv la ung vien so bo, KHONG phai nhan duoc chuyen gia xac nhan.
+- 11 lop chua co Train khong bi gan co can nguon xac minh truoc khi tuyen bo bao phu 97 lop.
+- Sau khi co nhan nguon duoc xac minh, moi duoc dieu chinh huan luyen.

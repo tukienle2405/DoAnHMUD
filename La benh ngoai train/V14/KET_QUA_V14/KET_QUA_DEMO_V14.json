@@ -1,0 +1,54 @@
+{
+  "mode": "V14_DEMO_READ_ONLY",
+  "time_local": "2026-11-25T17:06:30.686542+07:00",
+  "filename": "Ảnh chụp màn hình 2026-11-22 142933.png",
+  "sha256_image": "99c84998994771f91599dc54dd002ee5b5fe8e0871445ba08cea36e7d159c2b9",
+  "crop_suggested_v3": [
+    {
+      "crop": "Tomato",
+      "score": 0.8374
+    },
+    {
+      "crop": "Potato",
+      "score": 0.1229
+    },
+    {
+      "crop": "Pepper__bell",
+      "score": 0.022
+    }
+  ],
+  "crop_confirmed_by_user": "Tomato",
+  "user_selected_out_of_scope": false,
+  "disease_v2_on_auto_crop": [
+    {
+      "label": "Tomato_healthy",
+      "relative_score": 0.3727
+    },
+    {
+      "label": "Tomato_Early_blight",
+      "relative_score": 0.3173
+    },
+    {
+      "label": "Tomato_Septoria_leaf_spot",
+      "relative_score": 0.1581
+    }
+  ],
+  "disease_v2_on_confirmed_crop": [
+    {
+      "label": "Tomato_healthy",
+      "relative_score": 0.3727
+    },
+    {
+      "label": "Tomato_Early_blight",
+      "relative_score": 0.3173
+    },
+    {
+      "label": "Tomato_Septoria_leaf_spot",
+      "relative_score": 0.1581
+    }
+  ],
+  "labels_verified_by_external_expert": false,
+  "independent_test": false,
+  "accuracy_calculated": false,
+  "warning": "Day la demo, nhan benh chua duoc xac minh; score khong phai xac suat chan doan."
+}

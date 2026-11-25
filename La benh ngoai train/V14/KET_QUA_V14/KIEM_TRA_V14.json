@@ -1,0 +1,14 @@
+{
+  "mode": "V14_DEMO_READ_ONLY_CHECK",
+  "crop_model": "D:\\DoanHMvUD\\training_runs\\field18_v3_safe\\field18_best_candidate_v3.pth",
+  "disease_model": "D:\\DoanHMvUD\\training_runs\\field97_v2_safe\\field97_best_candidate.pth",
+  "crop_model_exists": true,
+  "disease_model_exists": true,
+  "models_unchanged": true,
+  "old_streamlit_unchanged": true,
+  "warning": "V14 la demo, khong phai phep danh gia Accuracy.",
+  "ready_for_demo": true,
+  "crop_classes": 18,
+  "disease_classes": 97,
+  "cuda_available": true
+}

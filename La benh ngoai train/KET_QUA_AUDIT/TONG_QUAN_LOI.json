@@ -1,0 +1,12 @@
+{
+  "total": 238,
+  "labeled": 208,
+  "correct_joint": 56,
+  "tomato_total": 151,
+  "tomato_labeled": 136,
+  "tomato_predictions_as_early_or_late_when_given_true_crop": 119,
+  "tomato_correct_given_true_crop": 31,
+  "tomato_correct_joint": 14,
+  "suspicious_filename_count": 1,
+  "warning": "Filename suspicions are for manual review only; they do not prove annotation errors."
+}

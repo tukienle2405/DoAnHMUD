@@ -1,0 +1,57 @@
+[
+  {
+    "class": "Banana___healthy",
+    "needs_label_review": 544,
+    "verified_images": 0
+  },
+  {
+    "class": "Guava___Dot",
+    "needs_label_review": 209,
+    "verified_images": 0
+  },
+  {
+    "class": "Papaya___Anthracnose",
+    "needs_label_review": 45,
+    "verified_images": 0
+  },
+  {
+    "class": "Papaya___Bacterial_spot",
+    "needs_label_review": 100,
+    "verified_images": 0
+  },
+  {
+    "class": "Papaya___Curl",
+    "needs_label_review": 325,
+    "verified_images": 0
+  },
+  {
+    "class": "Papaya___Mealybug",
+    "needs_label_review": 91,
+    "verified_images": 0
+  },
+  {
+    "class": "Papaya___Mite_damage",
+    "needs_label_review": 245,
+    "verified_images": 0
+  },
+  {
+    "class": "Papaya___Mosaic",
+    "needs_label_review": 235,
+    "verified_images": 0
+  },
+  {
+    "class": "Papaya___Ringspot",
+    "needs_label_review": 245,
+    "verified_images": 0
+  },
+  {
+    "class": "Papaya___healthy",
+    "needs_label_review": 225,
+    "verified_images": 0
+  },
+  {
+    "class": "Sugarcane___Sett_rot",
+    "needs_label_review": 652,
+    "verified_images": 0
+  }
+]

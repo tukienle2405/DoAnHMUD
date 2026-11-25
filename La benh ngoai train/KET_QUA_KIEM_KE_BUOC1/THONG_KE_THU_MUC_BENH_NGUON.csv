@@ -1,0 +1,343 @@
+﻿ma_cay_goi_y,ten_cay_viet,ten_thu_muc_benh_goi_y,nguon_thu_muc,so_anh_thuc_te
+(không có cây gợi ý),,A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda / coffee dataset / Health leaves,PLANTVILLAGE,1179
+(không có cây gợi ý),,A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda / coffee dataset / leaf rust,PLANTVILLAGE,1033
+(không có cây gợi ý),,A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda / coffee dataset / phoma,PLANTVILLAGE,1110
+(không có cây gợi ý),,Banana Leaf Image Dataset for Classification of Si / cordana,PLANTVILLAGE,505
+(không có cây gợi ý),,Banana Leaf Image Dataset for Classification of Si / sanas,PLANTVILLAGE,544
+(không có cây gợi ý),,Banana Leaf Image Dataset for Classification of Si / sigatoka,PLANTVILLAGE,724
+(không có cây gợi ý),,CO_NHAN_THEO_NGUON / Chili / Chili___Cercospora_leaf_spot,PLANTDOC,1
+(không có cây gợi ý),,CO_NHAN_THEO_NGUON / Corn / Corn___Common_rust,PLANTDOC,1
+(không có cây gợi ý),,CO_NHAN_THEO_NGUON / Jackfruit / Jackfruit___Leaf_spot,PLANTDOC,1
+(không có cây gợi ý),,CO_NHAN_THEO_NGUON / Mango / Mango___Bacterial_canker,PLANTDOC,1
+(không có cây gợi ý),,CO_NHAN_THEO_NGUON / Mango / Mango___Powdery_mildew,PLANTDOC,1
+(không có cây gợi ý),,CO_NHAN_THEO_NGUON / Tomato / Tomato_Early_blight,PLANTDOC,3
+(không có cây gợi ý),,CO_NHAN_THEO_NGUON / Tomato / Tomato_Late_blight,PLANTDOC,1
+(không có cây gợi ý),,CO_NHAN_THEO_NGUON / Tomato / Tomato_Leaf_Mold,PLANTDOC,1
+(không có cây gợi ý),,CO_NHAN_THEO_NGUON / Tomato / Tomato_Septoria_leaf_spot,PLANTDOC,2
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Aumented Dataset / Anthracnose,PLANTVILLAGE,1000
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Aumented Dataset / Bacterial Blight,PLANTVILLAGE,1000
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Aumented Dataset / Citrus Canker,PLANTVILLAGE,1000
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Aumented Dataset / Curl Virus,PLANTVILLAGE,1000
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Aumented Dataset / Deficiency Leaf,PLANTVILLAGE,1000
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Aumented Dataset / Dry Leaf,PLANTVILLAGE,1000
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Aumented Dataset / Healthy Leaf,PLANTVILLAGE,1000
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Aumented Dataset / Sooty Mould,PLANTVILLAGE,1000
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Aumented Dataset / Spider Mites,PLANTVILLAGE,1000
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Original Dataset / Anthracnose,PLANTVILLAGE,100
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Original Dataset / Bacterial Blight,PLANTVILLAGE,105
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Original Dataset / Citrus Canker,PLANTVILLAGE,178
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Original Dataset / Curl Virus,PLANTVILLAGE,115
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Original Dataset / Deficiency Leaf,PLANTVILLAGE,193
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Original Dataset / Dry Leaf,PLANTVILLAGE,186
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Original Dataset / Healthy Leaf,PLANTVILLAGE,210
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Original Dataset / Sooty Mould,PLANTVILLAGE,153
+(không có cây gợi ý),,Comprehensive Lemon Leaf Disease Dataset for Advanced Detection and Sustainable Agriculture / Original Dataset / Spider Mites,PLANTVILLAGE,114
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / test / Leaf_Algal,PLANTVILLAGE,67
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / test / Leaf_Blight,PLANTVILLAGE,66
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / test / Leaf_Colletotrichum,PLANTVILLAGE,59
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / test / Leaf_Healthy,PLANTVILLAGE,73
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / test / Leaf_Phomopsis,PLANTVILLAGE,63
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / test / Leaf_Rhizoctonia,PLANTVILLAGE,61
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / train / Leaf_Algal,PLANTVILLAGE,330
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / train / Leaf_Blight,PLANTVILLAGE,309
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / train / Leaf_Colletotrichum,PLANTVILLAGE,281
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / train / Leaf_Healthy,PLANTVILLAGE,342
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / train / Leaf_Phomopsis,PLANTVILLAGE,287
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / train / Leaf_Rhizoctonia,PLANTVILLAGE,278
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / val / Leaf_Algal,PLANTVILLAGE,65
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / val / Leaf_Blight,PLANTVILLAGE,64
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / val / Leaf_Colletotrichum,PLANTVILLAGE,61
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / val / Leaf_Healthy,PLANTVILLAGE,69
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / val / Leaf_Phomopsis,PLANTVILLAGE,61
+(không có cây gợi ý),,Durian_Leaf_Diseases_Release_20261017_v2 / val / Leaf_Rhizoctonia,PLANTVILLAGE,59
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / Augmented / Guava_fruit / Disease / Anthracnose,PLANTVILLAGE,2367
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / Augmented / Guava_fruit / Disease / Scab,PLANTVILLAGE,1190
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / Augmented / Guava_fruit / Disease / Styler end root,PLANTVILLAGE,2358
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / Augmented / Guava_fruit / Healthy,PLANTVILLAGE,4230
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / Augmented / Guava_leaf / Disease / Anthracnose,PLANTVILLAGE,1659
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / Augmented / Guava_leaf / Disease / Canker,PLANTVILLAGE,1344
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / Augmented / Guava_leaf / Disease / Dot,PLANTVILLAGE,1533
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / Augmented / Guava_leaf / Disease / Rust,PLANTVILLAGE,1169
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / Augmented / Guava_leaf / Helathy,PLANTVILLAGE,4494
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / ORGINAL / Guava Fruits and leaves Dataset / Guava_Fruit / Disease / Anthracnose,PLANTVILLAGE,263
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / ORGINAL / Guava Fruits and leaves Dataset / Guava_Fruit / Disease / Scab,PLANTVILLAGE,119
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / ORGINAL / Guava Fruits and leaves Dataset / Guava_Fruit / Disease / Styler end root,PLANTVILLAGE,262
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / ORGINAL / Guava Fruits and leaves Dataset / Guava_Fruit / Healthy,PLANTVILLAGE,342
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / ORGINAL / Guava Fruits and leaves Dataset / Guava_Leaf / Disease / Anthracnose,PLANTVILLAGE,237
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / ORGINAL / Guava Fruits and leaves Dataset / Guava_Leaf / Disease / Canker,PLANTVILLAGE,192
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / ORGINAL / Guava Fruits and leaves Dataset / Guava_Leaf / Disease / Dot,PLANTVILLAGE,219
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / ORGINAL / Guava Fruits and leaves Dataset / Guava_Leaf / Disease / Rust,PLANTVILLAGE,167
+(không có cây gợi ý),,Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves / Guava Fruits_Dataset / ORGINAL / Guava Fruits and leaves Dataset / Guava_Leaf / Healthy,PLANTVILLAGE,1248
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / augmented / Anthracnose,PLANTVILLAGE,1150
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / augmented / BacterialSpot,PLANTVILLAGE,1070
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / augmented / Curl,PLANTVILLAGE,3890
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / augmented / Healthy,PLANTVILLAGE,2970
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / augmented / Mealybug,PLANTVILLAGE,910
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / augmented / Mite disease,PLANTVILLAGE,2760
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / augmented / Mosaic,PLANTVILLAGE,2730
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / augmented / Ringspot,PLANTVILLAGE,2650
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / new / Anthracnose,PLANTVILLAGE,230
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / new / BacterialSpot,PLANTVILLAGE,214
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / new / Curl,PLANTVILLAGE,778
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / new / Healthy,PLANTVILLAGE,594
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / new / Mealybug,PLANTVILLAGE,182
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / new / Mite disease,PLANTVILLAGE,552
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / new / Mosaic,PLANTVILLAGE,546
+(không có cây gợi ý),,Papaya Leaf Disease Image Dataset / new / Ringspot,PLANTVILLAGE,530
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / test / Bell_pepper leaf,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / test / Bell_pepper leaf spot,PLANTDOC,9
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / test / Potato leaf early blight,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / test / Potato leaf late blight,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / test / Tomato Early blight leaf,PLANTDOC,9
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / test / Tomato Septoria leaf spot,PLANTDOC,11
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / test / Tomato leaf,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / test / Tomato leaf bacterial spot,PLANTDOC,9
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / test / Tomato leaf late blight,PLANTDOC,10
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / test / Tomato leaf mosaic virus,PLANTDOC,10
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / test / Tomato leaf yellow virus,PLANTDOC,6
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / test / Tomato mold leaf,PLANTDOC,6
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Bell_pepper leaf,PLANTDOC,53
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Bell_pepper leaf spot,PLANTDOC,62
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Corn Gray leaf spot,PLANTDOC,13
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Corn leaf blight,PLANTDOC,60
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Corn rust leaf,PLANTDOC,22
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Potato leaf early blight,PLANTDOC,108
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Potato leaf late blight,PLANTDOC,97
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Tomato Early blight leaf,PLANTDOC,79
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Tomato Septoria leaf spot,PLANTDOC,140
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Tomato leaf,PLANTDOC,55
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Tomato leaf bacterial spot,PLANTDOC,101
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Tomato leaf late blight,PLANTDOC,101
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Tomato leaf mosaic virus,PLANTDOC,44
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Tomato leaf yellow virus,PLANTDOC,70
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Tomato mold leaf,PLANTDOC,85
+(không có cây gợi ý),,PlantDoc_khong_trung_SHA256 / train / Tomato two spotted spider mites leaf,PLANTDOC,2
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master,PLANTDOC,1
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Apple Scab Leaf,PLANTDOC,10
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Apple leaf,PLANTDOC,9
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Apple rust leaf,PLANTDOC,10
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Bell_pepper leaf,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Bell_pepper leaf spot,PLANTDOC,9
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Blueberry leaf,PLANTDOC,11
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Cherry leaf,PLANTDOC,10
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Corn Gray leaf spot,PLANTDOC,4
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Corn leaf blight,PLANTDOC,12
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Corn rust leaf,PLANTDOC,10
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Peach leaf,PLANTDOC,9
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Potato leaf early blight,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Potato leaf late blight,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Raspberry leaf,PLANTDOC,7
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Soyabean leaf,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Squash Powdery mildew leaf,PLANTDOC,6
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Strawberry leaf,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Tomato Early blight leaf,PLANTDOC,9
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Tomato Septoria leaf spot,PLANTDOC,11
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Tomato leaf,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Tomato leaf bacterial spot,PLANTDOC,9
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Tomato leaf late blight,PLANTDOC,10
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Tomato leaf mosaic virus,PLANTDOC,10
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Tomato leaf yellow virus,PLANTDOC,6
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / Tomato mold leaf,PLANTDOC,6
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / grape leaf,PLANTDOC,12
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / test / grape leaf black rot,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Apple Scab Leaf,PLANTDOC,83
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Apple leaf,PLANTDOC,82
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Apple rust leaf,PLANTDOC,78
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Bell_pepper leaf,PLANTDOC,53
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Bell_pepper leaf spot,PLANTDOC,62
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Blueberry leaf,PLANTDOC,104
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Cherry leaf,PLANTDOC,47
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Corn Gray leaf spot,PLANTDOC,64
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Corn leaf blight,PLANTDOC,179
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Corn rust leaf,PLANTDOC,106
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Peach leaf,PLANTDOC,102
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Potato leaf early blight,PLANTDOC,108
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Potato leaf late blight,PLANTDOC,97
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Raspberry leaf,PLANTDOC,112
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Soyabean leaf,PLANTDOC,57
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Squash Powdery mildew leaf,PLANTDOC,124
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Strawberry leaf,PLANTDOC,88
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Tomato Early blight leaf,PLANTDOC,79
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Tomato Septoria leaf spot,PLANTDOC,140
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Tomato leaf,PLANTDOC,55
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Tomato leaf bacterial spot,PLANTDOC,101
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Tomato leaf late blight,PLANTDOC,101
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Tomato leaf mosaic virus,PLANTDOC,44
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Tomato leaf yellow virus,PLANTDOC,70
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Tomato mold leaf,PLANTDOC,85
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / Tomato two spotted spider mites leaf,PLANTDOC,2
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / grape leaf,PLANTDOC,57
+(không có cây gợi ý),,PlantDoc_nguon / PlantDoc-Dataset-master / train / grape leaf black rot,PLANTDOC,56
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Bell_pepper leaf,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Bell_pepper leaf spot,PLANTDOC,9
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Corn Gray leaf spot,PLANTDOC,4
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Corn leaf blight,PLANTDOC,12
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Corn rust leaf,PLANTDOC,10
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Potato leaf early blight,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Potato leaf late blight,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Tomato Early blight leaf,PLANTDOC,9
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Tomato Septoria leaf spot,PLANTDOC,11
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Tomato leaf,PLANTDOC,8
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Tomato leaf bacterial spot,PLANTDOC,9
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Tomato leaf late blight,PLANTDOC,10
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Tomato leaf mosaic virus,PLANTDOC,10
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Tomato leaf yellow virus,PLANTDOC,6
+(không có cây gợi ý),,PlantDoc_ung_vien / test / Tomato mold leaf,PLANTDOC,6
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Bell_pepper leaf,PLANTDOC,53
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Bell_pepper leaf spot,PLANTDOC,62
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Corn Gray leaf spot,PLANTDOC,64
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Corn leaf blight,PLANTDOC,179
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Corn rust leaf,PLANTDOC,106
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Potato leaf early blight,PLANTDOC,108
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Potato leaf late blight,PLANTDOC,97
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Tomato Early blight leaf,PLANTDOC,79
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Tomato Septoria leaf spot,PLANTDOC,140
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Tomato leaf,PLANTDOC,55
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Tomato leaf bacterial spot,PLANTDOC,101
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Tomato leaf late blight,PLANTDOC,101
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Tomato leaf mosaic virus,PLANTDOC,44
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Tomato leaf yellow virus,PLANTDOC,70
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Tomato mold leaf,PLANTDOC,85
+(không có cây gợi ý),,PlantDoc_ung_vien / train / Tomato two spotted spider mites leaf,PLANTDOC,2
+(không có cây gợi ý),,Rubber_Leaf_Dataset / Raw_Dataset / Anthracnose,PLANTVILLAGE,300
+(không có cây gợi ý),,Rubber_Leaf_Dataset / Raw_Dataset / Dry_Leaf,PLANTVILLAGE,450
+(không có cây gợi ý),,Rubber_Leaf_Dataset / Raw_Dataset / Healthy,PLANTVILLAGE,506
+(không có cây gợi ý),,Rubber_Leaf_Dataset / Raw_Dataset / Leaf_Spot,PLANTVILLAGE,484
+(không có cây gợi ý),,Rubber_Leaf_Dataset / rubber_Compressed_Dataset / Anthracnose,PLANTVILLAGE,301
+(không có cây gợi ý),,Rubber_Leaf_Dataset / rubber_Compressed_Dataset / Dry_Leaf,PLANTVILLAGE,450
+(không có cây gợi ý),,Rubber_Leaf_Dataset / rubber_Compressed_Dataset / Healthy,PLANTVILLAGE,506
+(không có cây gợi ý),,Rubber_Leaf_Dataset / rubber_Compressed_Dataset / Leaf_Spot,PLANTVILLAGE,484
+(không có cây gợi ý),,Sugarcane Leaf Image Dataset / Diseases / Banded Chlorosis,PLANTVILLAGE,471
+(không có cây gợi ý),,Sugarcane Leaf Image Dataset / Diseases / Brown Spot,PLANTVILLAGE,1722
+(không có cây gợi ý),,Sugarcane Leaf Image Dataset / Diseases / BrownRust,PLANTVILLAGE,314
+(không có cây gợi ý),,Sugarcane Leaf Image Dataset / Diseases / Grassy shoot,PLANTVILLAGE,346
+(không có cây gợi ý),,Sugarcane Leaf Image Dataset / Diseases / Pokkah Boeng,PLANTVILLAGE,297
+(không có cây gợi ý),,Sugarcane Leaf Image Dataset / Diseases / Sett Rot,PLANTVILLAGE,652
+(không có cây gợi ý),,Sugarcane Leaf Image Dataset / Diseases / Viral Disease,PLANTVILLAGE,663
+(không có cây gợi ý),,Sugarcane Leaf Image Dataset / Diseases / Yellow Leaf,PLANTVILLAGE,1194
+(không có cây gợi ý),,Sugarcane Leaf Image Dataset / Diseases / smut,PLANTVILLAGE,316
+(không có cây gợi ý),,Sugarcane Leaf Image Dataset / Dried Leaves,PLANTVILLAGE,343
+(không có cây gợi ý),,Sugarcane Leaf Image Dataset / Healthy Leaves,PLANTVILLAGE,430
+(không có cây gợi ý),,Tea Leaf Dataset / Tea Leaf Dataset / Diseased Leaves / Blister_Blight,PLANTVILLAGE,13500
+(không có cây gợi ý),,Tea Leaf Dataset / Tea Leaf Dataset / Diseased Leaves / Brown_Blight,PLANTVILLAGE,13500
+(không có cây gợi ý),,Tea Leaf Dataset / Tea Leaf Dataset / Diseased Leaves / Leaf_Red_Rust,PLANTVILLAGE,13500
+(không có cây gợi ý),,Tea Leaf Dataset / Tea Leaf Dataset / Diseased Leaves / Red_Spider_Mite,PLANTVILLAGE,13500
+(không có cây gợi ý),,Tea Leaf Dataset / Tea Leaf Dataset / Diseased Leaves / Tea_Mosquito_Bug,PLANTVILLAGE,13500
+(không có cây gợi ý),,Tea Leaf Dataset / Tea Leaf Dataset / Healthy Leaves / Healthy_leaves,PLANTVILLAGE,12829
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Banana / Banana___Cordana,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Banana / Banana___Sigatoka,PLANTDOC,5
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Banana / Banana___healthy,PLANTDOC,5
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Cashew / Cashew___healthy,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Chili / Chili___healthy,PLANTDOC,2
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Coffee / Coffee___Phoma,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Coffee / Coffee___Rust,PLANTDOC,3
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Corn / Corn___Blight,PLANTDOC,2
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Guava / Guava___Anthracnose,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Guava / Guava___Rust,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Guava / Guava___healthy,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Jackfruit / Jackfruit___Leaf_spot,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Jackfruit / Jackfruit___healthy,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Lemon / Lemon___Deficiency_leaf,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Lemon / Lemon___Dry_leaf,PLANTDOC,5
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Lemon / Lemon___Spider_mites,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Lemon / Lemon___healthy,PLANTDOC,5
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Mango / Mango___Gall_midge,PLANTDOC,2
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Mango / Mango___Powdery_mildew,PLANTDOC,3
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Papaya / Papaya___Mealybug,PLANTDOC,5
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Papaya / Papaya___Mosaic,PLANTDOC,5
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Papaya / Papaya___Ringspot,PLANTDOC,5
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Papaya / Papaya___healthy,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Potato / Potato___Late_blight,PLANTDOC,2
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Potato / Potato___healthy,PLANTDOC,2
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Rice / Rice___Bacterial_leaf_blight,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Sugarcane / Sugarcane___Smut,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Sugarcane / Sugarcane___Yellow_leaf,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Sugarcane / Sugarcane___healthy,PLANTDOC,2
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Tomato / Tomato_Bacterial_spot,PLANTDOC,5
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Tomato / Tomato_Late_blight,PLANTDOC,4
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Tomato / Tomato_Leaf_Mold,PLANTDOC,1
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Tomato / Tomato_Septoria_leaf_spot,PLANTDOC,3
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Tomato / Tomato__Tomato_mosaic_virus,PLANTDOC,2
+(không có cây gợi ý),,UNG_VIEN_CHUA_XAC_MINH / Tomato / Tomato_healthy,PLANTDOC,1
+(không có cây gợi ý),,cashew and jackfruit / cashew leaf / cashew fungal infection,PLANTVILLAGE,250
+(không có cây gợi ý),,cashew and jackfruit / cashew leaf / cashew healthy,PLANTVILLAGE,250
+(không có cây gợi ý),,cashew and jackfruit / jackfruit leaf / jackfruit algal,PLANTVILLAGE,245
+(không có cây gợi ý),,cashew and jackfruit / jackfruit leaf / jackfruit anthracnose,PLANTVILLAGE,349
+(không có cây gợi ý),,cashew and jackfruit / jackfruit leaf / jackfruit healthy,PLANTVILLAGE,316
+(không có cây gợi ý),,cashew and jackfruit / jackfruit leaf / jackfruit leaf spot,PLANTVILLAGE,368
+(không có cây gợi ý),,cashew and jackfruit / jackfruit leaf / jackfruit phyllosticta,PLANTVILLAGE,345
+(không có cây gợi ý),,cashew and jackfruit / jackfruit leaf / jackfruit sooty mold,PLANTVILLAGE,220
+(không có cây gợi ý),,chileleaf / Bacterial_Spot,PLANTVILLAGE,1629
+(không có cây gợi ý),,chileleaf / Cercospora_Leaf_Spot,PLANTVILLAGE,1898
+(không có cây gợi ý),,chileleaf / Curl_Virus,PLANTVILLAGE,1590
+(không có cây gợi ý),,chileleaf / Healthy_Leaf,PLANTVILLAGE,1647
+(không có cây gợi ý),,corndisease / Blight,PLANTVILLAGE,1146
+(không có cây gợi ý),,corndisease / Common_Rust,PLANTVILLAGE,1306
+(không có cây gợi ý),,corndisease / Gray_Leaf_Spot,PLANTVILLAGE,574
+(không có cây gợi ý),,corndisease / Healthy,PLANTVILLAGE,1162
+(không có cây gợi ý),,mago / Mango Dataset / Anthracnose,PLANTVILLAGE,2075
+(không có cây gợi ý),,mago / Mango Dataset / Bacterial Canker,PLANTVILLAGE,2894
+(không có cây gợi ý),,mago / Mango Dataset / Cutting Weevil,PLANTVILLAGE,1890
+(không có cây gợi ý),,mago / Mango Dataset / Gall Midge,PLANTVILLAGE,2552
+(không có cây gợi ý),,mago / Mango Dataset / Healthy,PLANTVILLAGE,1500
+(không có cây gợi ý),,mago / Mango Dataset / Powdery Mildew,PLANTVILLAGE,981
+(không có cây gợi ý),,mago / Mango Dataset / Sooty Mould,PLANTVILLAGE,1590
+(không có cây gợi ý),,mago / Mango Dataset / die back,PLANTVILLAGE,1600
+(không có cây gợi ý),,mago / external_test,PLANTVILLAGE,1
+(không có cây gợi ý),,mago / mango leaf / mango anthracnose,PLANTVILLAGE,500
+(không có cây gợi ý),,mago / mango leaf / mango die back,PLANTVILLAGE,500
+(không có cây gợi ý),,mago / mango leaf / mango gall midge,PLANTVILLAGE,500
+(không có cây gợi ý),,mago / mango leaf / mango healthy,PLANTVILLAGE,500
+(không có cây gợi ý),,mago / mango leaf / mango powdery mildew,PLANTVILLAGE,500
+(không có cây gợi ý),,mago / mango leaf / mango sooty mould,PLANTVILLAGE,209
+(không có cây gợi ý),,pepper / Pepper__bell___Bacterial_spot,PLANTVILLAGE,997
+(không có cây gợi ý),,pepper / Pepper__bell___healthy,PLANTVILLAGE,1478
+(không có cây gợi ý),,potato / Potato___Early_blight,PLANTVILLAGE,1000
+(không có cây gợi ý),,potato / Potato___Late_blight,PLANTVILLAGE,1000
+(không có cây gợi ý),,potato / Potato___healthy,PLANTVILLAGE,152
+(không có cây gợi ý),,rice_leaf_diseases / Bacterial leaf blight,PLANTVILLAGE,40
+(không có cây gợi ý),,rice_leaf_diseases / Brown spot,PLANTVILLAGE,40
+(không có cây gợi ý),,rice_leaf_diseases / Leaf smut,PLANTVILLAGE,40
+(không có cây gợi ý),,tomato / Tomato_Bacterial_spot,PLANTVILLAGE,2127
+(không có cây gợi ý),,tomato / Tomato_Early_blight,PLANTVILLAGE,1000
+(không có cây gợi ý),,tomato / Tomato_Late_blight,PLANTVILLAGE,1909
+(không có cây gợi ý),,tomato / Tomato_Leaf_Mold,PLANTVILLAGE,952
+(không có cây gợi ý),,tomato / Tomato_Septoria_leaf_spot,PLANTVILLAGE,1771
+(không có cây gợi ý),,tomato / Tomato_Spider_mites_Two_spotted_spider_mite,PLANTVILLAGE,1676
+(không có cây gợi ý),,tomato / Tomato__Target_Spot,PLANTVILLAGE,1404
+(không có cây gợi ý),,tomato / Tomato__Tomato_YellowLeaf__Curl_Virus,PLANTVILLAGE,3208
+(không có cây gợi ý),,tomato / Tomato__Tomato_mosaic_virus,PLANTVILLAGE,373
+(không có cây gợi ý),,tomato / Tomato_healthy,PLANTVILLAGE,1591
+(không có cây gợi ý),,tomato / tomato bacterial spot,PLANTVILLAGE,376
+(không có cây gợi ý),,tomato / tomato blight,PLANTVILLAGE,290
+(không có cây gợi ý),,tomato / tomato curl virus,PLANTVILLAGE,394
+(không có cây gợi ý),,tomato / tomato healthy,PLANTVILLAGE,278
+(không có cây gợi ý),,tomato / tomato insect damage,PLANTVILLAGE,336
+(không có cây gợi ý),,tomato / tomato leaf mold,PLANTVILLAGE,222
+(không có cây gợi ý),,tomato / tomato spider mites,PLANTVILLAGE,307
+Banana,Chuối,benh chay la,THU_MUC_18_CAY,6
+Banana,Chuối,benh nam,THU_MUC_18_CAY,4
+Banana,Chuối,la khoe,THU_MUC_18_CAY,3
+Coffee,Cà phê,benh chay dot,THU_MUC_18_CAY,6
+Coffee,Cà phê,benh gi la sat,THU_MUC_18_CAY,6
+Coffee,Cà phê,la khoe,THU_MUC_18_CAY,4
+Lemon,Chanh,benh chay la do vi khuan,THU_MUC_18_CAY,6
+Lemon,Chanh,benh loet vi khuan,THU_MUC_18_CAY,5
+Lemon,Chanh,benh nam bo hong,THU_MUC_18_CAY,6
+Lemon,Chanh,benh than thu,THU_MUC_18_CAY,3
+Lemon,Chanh,benh xoan la,THU_MUC_18_CAY,5
+Lemon,Chanh,la bi kho,THU_MUC_18_CAY,6
+Lemon,Chanh,nhen do hai la,THU_MUC_18_CAY,5
+Lemon,Chanh,thieu dinh duong,THU_MUC_18_CAY,3
+Tomato,Cà chua,Benh dom la do nam o ca chua,THU_MUC_18_CAY,7
+Tomato,Cà chua,benh bac la,THU_MUC_18_CAY,4
+Tomato,Cà chua,benh do nhen do tan cong,THU_MUC_18_CAY,4
+Tomato,Cà chua,benh dom la do vi khuan o ca chua,THU_MUC_18_CAY,7
+Tomato,Cà chua,benh dom mat cua,THU_MUC_18_CAY,7
+Tomato,Cà chua,benh dom moc den,THU_MUC_18_CAY,7
+Tomato,Cà chua,benh dom vang,THU_MUC_18_CAY,7
+Tomato,Cà chua,benh kham la ca chua,THU_MUC_18_CAY,4
+Tomato,Cà chua,benh suong mai,THU_MUC_18_CAY,7
+Tomato,Cà chua,benh xoan la vang,THU_MUC_18_CAY,5
+Tomato,Cà chua,bi pha hoai boi sau bo,THU_MUC_18_CAY,3
+Tomato,Cà chua,la khoe,THU_MUC_18_CAY,2

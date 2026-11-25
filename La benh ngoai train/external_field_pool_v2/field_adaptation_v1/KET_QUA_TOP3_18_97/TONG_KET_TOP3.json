@@ -1,0 +1,25 @@
+{
+  "so_anh": 238,
+  "co_nhan_benh": 208,
+  "chua_xac_minh": 30,
+  "baseline_csv_cu": {
+    "dung": 56,
+    "accuracy_pct": 26.92
+  },
+  "baseline_top1_chay_lai": {
+    "dung": 56,
+    "accuracy_pct": 26.92
+  },
+  "top3_conditional_PRIMARY": {
+    "dung": 55,
+    "accuracy_pct": 26.44
+  },
+  "top3_global_DIAGNOSTIC": {
+    "dung": 30,
+    "accuracy_pct": 14.42
+  },
+  "tang_so_anh_dung_top3_so_voi_top1_chay_lai": -1,
+  "mismatch_crop_so_voi_CSV_cu": 0,
+  "mismatch_benh_top1_so_voi_CSV_cu": 0,
+  "NOTE": "Test chi de bao cao, khong tu dong lua chon/top tuning theo Test. Can validation doc lap truoc khi tich hop vao Streamlit."
+}

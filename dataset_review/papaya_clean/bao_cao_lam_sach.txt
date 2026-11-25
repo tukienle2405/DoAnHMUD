@@ -1,0 +1,20 @@
+BAO CAO LAM SACH PAPAYA
+=============================================
+Tong anh doc thanh cong: 3626
+So anh loi: 0
+
+KET QUA PHAN LOAI:
+BO_BAN_SAO_CUNG_LOP: 122
+CACH_LY_KHAC_NHAN: 103
+CAN_XAC_MINH_NGUON: 1878
+CAN_XEM_GAN_TRUNG: 12
+DE_XUAT_SAU_KIEM_TRA: 1511
+
+So cap anh nghi gan trung: 7
+So anh de xuat: 1511
+
+CHU Y:
+Chua xac nhan nhan benh bang chuyen gia.
+Chua kiem tra day du anh gan trung cung lop.
+Chua chia Train/Validation/Test.
+Khong xoa hay di chuyen anh goc.

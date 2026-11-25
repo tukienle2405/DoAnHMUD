@@ -1,0 +1,57 @@
+V12 - KIEM TRA TREN ANH MOI (KHONG HUAN LUYEN / KHONG DUNG TEST CU)
+==================================================================
+
+1. GIAI NEN TAT CA FILE ZIP TRUC TIEP VAO:
+   D:\DoanHMvUD\La benh ngoai train\V12
+   Can nhin thay V12\danh_gia_v12.py va V12\model_architecture.py
+
+2. MO POWERSHELL, CHAY:
+   cd "D:\DoanHMvUD\La benh ngoai train\V12"
+   py -3 -u danh_gia_v12.py --mode check
+
+3. NEU CHUA CO ANH MOI:
+   Khong duoc dung anh Train, Validation, Test cu hoac anh nhan lai tu bo du lieu da hoc.
+   Chuan bi anh doc lap moi trong thu muc V12\ANH_MOI_DOC_LAP
+   Co the sap xep theo thu muc con, vi du:
+   V12\ANH_MOI_DOC_LAP\Ca_chua\anh01.jpg
+   V12\ANH_MOI_DOC_LAP\Khoai_tay\anh02.jpg
+   - Anh can co nguon goc/nhan dung duoc xac minh TRUOC khi xem du doan AI.
+   - Khong dung nhan du doan AI lam nhan that.
+   - Khong dua anh mau cu trong dataset vao day.
+
+4. KHI DA COPY ANH MOI, CHAY:
+   py -3 -u danh_gia_v12.py --mode scan
+   Se tao MAU_GAN_NHAN_V12.csv. Mo bang Excel va dien:
+     true_class     = ten nhan chinh xac trong DANH_SACH_97_NHAN_V12.csv
+     label_verified = YES (sau khi nhan da duoc xac minh doc lap)
+     source         = nguon anh / nguoi chup / ma bo anh
+     source_id      = ma cay hoac phien chup de kiem tra nguon trung
+     collection_date= YYYY-MM-DD
+   Luu CSV UTF-8; khong can doi duong dan relative_path.
+   Neu chuong trinh chua tao DANH_SACH_97_NHAN_V12.csv, hay chay check voi du checkpoint V11.
+
+5. KHI DA DIEN DAY DU VA CO NGUON NHAN, CHAY:
+   py -3 -u danh_gia_v12.py --mode evaluate --batch_size 8
+
+6. GUI LAI CHO CHATGPT CAC FILE TRONG V12\KET_QUA_V12:
+   - KIEM_TRA_V12.json
+   - TONG_KET_V12.json
+   - DU_DOAN_TUNG_ANH_V12.csv
+   - SO_SANH_THEO_CAY_V12.csv
+   - SO_SANH_THEO_BENH_V12.csv
+   Neu chua co anh moi hoac chua dien nhan: gui KIEM_TRA_V12.json va TONG_KET_CHUAN_BI_V12.json.
+   Neu bi dung: gui LOI_DU_LIEU_V12.json va anh loi terminal.
+
+CHECKPOINT MAC DINH (DA BIET TU V2, V3, V11):
+   V2:  D:\DoanHMvUD\training_runs\field97_v2_safe\field97_best_candidate.pth
+   V3:  D:\DoanHMvUD\training_runs\field18_v3_safe\field18_best_candidate_v3.pth
+   V11: D:\DoanHMvUD\La benh ngoai train\V11\KET_QUA_V11\V11_CANDIDATE_ONLY_NOT_DEPLOY.pth
+Neu checkpoint o vi tri khac, co the them --v2 "..." --v3 "..." --v11 "..." vao lenh.
+
+LUU Y:
+- Ket qua V11 truoc do +1/205 anh tren Validation cu, chua du de thay the V2.
+- V12 khong the tao ket qua chinh xac khi chua co anh moi va nhan that doc lap.
+- V12 chi kiem tra trung DUONG DAN voi old metadata va trung HASH giua anh MOI.
+  Khong tu dong dam bao anh moi khong trung/giong anh cu duoi ten file khac.
+- NEN bat dau bo moi 20-50 anh co nhan chac, nhieu nhom benh kho; sau do mo rong bao phu 18 cay/97 nhan.
+- V12 KHONG sua model, KHONG dung Test cu, KHONG fine-tune, KHONG thay Streamlit.

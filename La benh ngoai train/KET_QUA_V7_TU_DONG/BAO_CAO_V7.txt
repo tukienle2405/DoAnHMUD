@@ -1,0 +1,27 @@
+V7 - BAO CAO TU DONG RA SOAT LOI (KHONG SUA NHAN)
+Anh sai: 124
+Anh doc duoc: 124
+Anh thieu/khong doc duoc: 0
+Cap trung/giong nhau CAN XEM LAI: 3
+
+Nhung co hieu phat hien (co the trung nhau):
+- DUNG_CAY_SAI_BENH: 69
+- DU_DOAN_SAI_DIEM_CAO: 60
+- SAI_LOAI_CAY: 55
+- HAI_MODEL_CAY_BAT_DONG: 35
+- NHAN_HEALTHY_NHUNG_MODEL_BAO_BENH_CAN_XEM: 11
+- ANH_DO_PHAN_GIAI_THAP: 10
+- NGHI_GAN_TRUNG_CAN_XEM: 6
+- TEN_FILE_SPECK_NHAN_SPOT: 2
+- ANH_DO_TUONG_PHAN_THAP: 1
+- CO_THE_MO_HOAC_NHIEU_NEN: 1
+- TEN_FILE_CO_THE_LA_ANH_MINH_HOA: 1
+- TEN_FILE_TOBRFV_NHAN_MOSAIC: 1
+
+QUAN TRONG:
+- Dung ket qua chi de xep hang anh can xem, KHONG tu sua nhan.
+- Anh theo nhan healthy / du doan benh khong co nghia nhan healthy sai.
+- Anh gan trung theo dHash co the la anh khac nhau; phai kiem chung.
+- Test va checkpoint cu khong bi cham toi.
+
+FILE CAN GUI LAI: TONG_KET_V7.json, DANH_SACH_UU_TIEN_V7.csv, NHOM_ANH_GAN_TRUNG_V7.csv

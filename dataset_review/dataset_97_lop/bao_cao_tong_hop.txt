@@ -1,0 +1,33 @@
+BAO CAO DATASET TONG HOP 97 LOP
+==================================================
+So lop mong doi: 97
+So lop tim thay: 97
+So anh ung vien: 129169
+
+TRANG THAI ANH:
+CAN_KIEM_TRA_TRUNG: 67315
+CAN_XAC_MINH_NHAN: 2926
+DA_GOM_NHOM_CAN_KIEM_TRA: 58928
+
+SPLIT HIEN TAI:
+pending: 67646
+test: 1739
+train: 58055
+val: 1729
+
+ANH CHUA DUOC CHON:
+Papaya cach ly: 2115
+Tea bien the Val/Test: 21401
+Thu muc tam bo qua: 55113
+
+So lop bi thieu: 0
+
+So canh bao: 0
+
+CHU Y:
+Manifest nay CHUA SAN SANG de train.
+pending chua duoc chia train/val/test.
+Chua kiem tra trung lap tren toan bo 18 cay.
+Papaya van can xac minh nhan.
+Tea can kiem tra them quan he anh nguon.
+Khong xoa hoac thay doi du lieu goc.

@@ -1,0 +1,3 @@
+﻿epoch,train_loss,field_accuracy,field_macro_recall4,old_macro_f1_18,improves_3_hard_crops,corn_preserved,old_preserved,qualified
+1,0.7305799176199274,0.592274678111588,0.690052381731871,0.9310937099715978,True,True,True,True
+2,0.43957683633800787,0.6094420600858369,0.7399263381895564,0.936702702328738,True,True,True,True

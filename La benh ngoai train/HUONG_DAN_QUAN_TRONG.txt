@@ -1,0 +1,60 @@
+PHUONG AN NANG CAP: 18 CAY + 97 BENH, FINE-TUNE BANG ANH THUC DIA V2
+25/11/2026
+
+KET QUA DA KIEM TRA (KHONG PHAI KET QUA MO HINH MOI)
+- Lock 1.194 anh: 689 TRAIN | 233 VAL | 238 TEST | 34 EXCLUDE
+- Anh co nhan benh duoc chon: TRAIN 601 | VAL 205 | TEST 208
+- 30 anh Test chua xac minh nhan benh, khong dem vao accuracy benh
+- Baseline du doan dung ca cay va benh: 56/208 = 26,92%
+- Top 3 khong hieu qua: 55/208 = 26,44%
+- 11/97 lop co tat ca nhan cu duoc danh dau can xem lai, KHONG dung cac nhan do lam ground truth moi
+- 1 lop thuc dia Tomato_Spider_mites_Two_spotted_spider_mite khong co anh TRAIN, can du lieu nhan moi de cai thien
+- Tu PlantDoc nay chi danh gia 4 cay (ca chua/khoai tay/ngo/ot chuong), chua chung minh duoc moi cay trong 18 cay
+
+CHAY (KHONG CAN SUA DUONG DAN)
+- Giai nen TOAN BO ZIP vao D:\DoanHMvUD\La benh ngoai train\
+  (co the giai nen trong thu muc con; script tu tim project root)
+- Khong can tai / sao chep checkpoint nang
+- Double-click CHAY_NANG_CAP_97_WINDOWS.bat
+- Hoac mo PowerShell tai thu muc vua giai nen, chay:
+
+  py -3 -u nang_cap_benh_97_thuc_dia.py --mode audit
+  py -3 -u nang_cap_benh_97_thuc_dia.py --mode train --epochs 8 --batch_size 4
+
+NHUNG FILE CAN CO TRONG DU AN (SCRIPT SE TU TIM)
+- D:\DoanHMvUD\training_runs\crop18_field_pilot_20261125_123457\best_field_candidate.pth
+- D:\DoanHMvUD\training_runs\plant97_full_20261118_064241\best_plant_model.pth
+- D:\DoanHMvUD\PlantVillage\...  (anh train/val cu duoc lien ket tu manifest)
+- D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\... (anh ngoai Train)
+- ZIP da kem manifest, split lock, model_architecture.py va CSV du doan cu
+
+DIEU SCRIPT SE THUC HIEN
+- Kiem tra split/cluster, chong ro ri, so sanh CSV test voi lock neu co
+- Chi huan luyen tren Field TRAIN (601 anh co nhan) + replay du lieu cu da loc nhan
+- Distillation model 97 cu tren anh replay va fine-tune phan head/4 blocks cuoi
+- GIU NGUYEN checkpoint 18 cay, 97 benh goc
+- Moi epoch danh gia Field VAL va original VAL: dung ca cay+benh va benh khi biet cay
+- Chi phe duyet candidate neu VAL joint tang it nhat 1 diem phan tram,
+  VAL benh khi biet cay khong giam, old VAL khong giam qua 8 diem phan tram
+- Neu khong qua VAL: DUNG, KHONG chay Test va KHONG thay doi app
+- Neu qua VAL: danh gia TEST khoa 238 anh mot lan, khong tuning bang TEST
+- Tuyet doi KHONG tu ghi de app, checkpoint goc, hoac tu khang dinh da dung 100%
+
+FILE KET QUA tren Windows
+D:\DoanHMvUD\training_runs\field97_v2_safe\
+- AUDIT_BO_DU_LIEU.json
+- PHAN_BO_NHAN_THUC_DIA.csv
+- BASELINE_VALIDATION.json
+- LICH_SU_FINE_TUNE.csv
+- QUYET_DINH_VALIDATION.json
+- field97_best_candidate.pth (chi khi co epoch hop le theo quy tac bao ve du lieu cu)
+- TONG_KET_TEST_V2.json (chi neu candidate qua VALIDATION)
+- SO_SANH_TEST_DA_KHOA.csv
+- SO_SANH_BENH_THEO_NHOM_TEST.csv
+
+LUU Y VE DO TIN CAY
+- Chua co checkpoint weights va anh goc tren he thong nay de chay infer/train that.
+- Ket qua CUDA can duoc chay va xac minh tren laptop cua ban.
+- Ngay ca mo hinh fine-tune tot hon khong the dam bao moi anh dung; can tap kiem tra doc lap
+  va tham khao chuyen gia khi can chan doan/chua tri ngoai thuc te.
+- 11 nhan can xem lai VA cac nhom chua xac minh khong the duoc xac nhan bang doan ten.

@@ -1,0 +1,39 @@
+{
+  "baseline": {
+    "total": 208,
+    "crop_correct": 129,
+    "crop_pct": 62.02,
+    "joint_correct": 56,
+    "joint_pct": 26.92,
+    "given_true_crop_correct": 80,
+    "given_true_crop_pct": 38.46,
+    "free_97_correct": 17,
+    "free_97_pct": 8.17
+  },
+  "candidate": {
+    "total": 208,
+    "crop_correct": 129,
+    "crop_pct": 62.02,
+    "joint_correct": 67,
+    "joint_pct": 32.21,
+    "given_true_crop_correct": 97,
+    "given_true_crop_pct": 46.63,
+    "free_97_correct": 59,
+    "free_97_pct": 28.37
+  },
+  "tomato": {
+    "count": 136,
+    "old_correct": 14,
+    "new_correct": 25
+  },
+  "delta_joint_pp": 5.29,
+  "locked_test_count": 238,
+  "labeled_test_count": 208,
+  "unverified_test_count": 30,
+  "model18": "D:\\DoanHMvUD\\training_runs\\crop18_field_pilot_20261125_123457\\best_field_candidate.pth",
+  "model97_original": "D:\\DoanHMvUD\\training_runs\\plant97_full_20261118_064241\\best_plant_model.pth",
+  "model97_candidate": "D:\\DoanHMvUD\\training_runs\\field97_v2_safe\\field97_best_candidate.pth",
+  "note": "Test used only after validation selection. Test result cannot promise 100% accuracy.",
+  "auto_deployed": false,
+  "candidate_better_on_locked_test": true
+}

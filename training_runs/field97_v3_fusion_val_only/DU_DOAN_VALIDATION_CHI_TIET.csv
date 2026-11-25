@@ -1,0 +1,234 @@
+﻿path,crop_true,crop_pred,crop_correct,disease_true,disease_pred,joint_correct
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\test\Bell_pepper leaf spot\00.jpg,Pepper__bell,Pepper__bell,1,CHUA_XAC_MINH,Pepper__bell___healthy,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\test\Bell_pepper leaf spot\CMVpepperLeafShock-copy-50QUALITY-1ge8umw.jpg,Pepper__bell,Pepper__bell,1,CHUA_XAC_MINH,Pepper__bell___healthy,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\test\Bell_pepper leaf spot\H5w92.jpg,Pepper__bell,Pepper__bell,1,CHUA_XAC_MINH,Pepper__bell___healthy,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\test\Bell_pepper leaf spot\pepper_bacterial-spot_03_zoom.jpg,Pepper__bell,Pepper__bell,1,CHUA_XAC_MINH,Pepper__bell___healthy,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\test\Potato leaf early blight\3023.jpg,Potato,Potato,1,Potato___Early_blight,Potato___Early_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\test\Potato leaf early blight\early-blight-alternaria-alternata-leaf-spotting-on-potato-leaf-X91XJE.jpg,Potato,Potato,1,Potato___Early_blight,Potato___Early_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\test\Tomato Early blight leaf\early_blight1-150x150.jpg,Tomato,Tomato,1,Tomato_Early_blight,Tomato_Early_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\test\Tomato leaf\DSCN1015.JPG.jpg,Tomato,Pepper__bell,0,Tomato_healthy,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\test\Tomato leaf late blight\late_blight_tomato_leaf_spore1x1200.jpg,Tomato,Tomato,1,Tomato_Late_blight,Tomato_Septoria_leaf_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\test\Tomato leaf mosaic virus\9511.img.jpg,Tomato,Tomato,1,Tomato__Tomato_mosaic_virus,Tomato_Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\test\Tomato leaf mosaic virus\ill-tomato-of-tomato-mosaic-virus-DBE17N.jpg,Tomato,Tomato,1,Tomato__Tomato_mosaic_virus,Tomato_Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\test\Tomato leaf yellow virus\fwa2013313115151.jpg,Tomato,Tomato,1,CHUA_XAC_MINH,Tomato__Tomato_mosaic_virus,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\test\Tomato Septoria leaf spot\early-blight-septoria-ls-fig-3.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\test\Tomato Septoria leaf spot\sept4disease-019.jpg,Tomato,Potato,0,Tomato_Septoria_leaf_spot,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf\004-10.jpg,Pepper__bell,Tomato,0,Pepper__bell___healthy,Tomato__Tomato_mosaic_virus,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf\2477703364_0c94646b48.jpg,Pepper__bell,Pepper__bell,1,Pepper__bell___healthy,Pepper__bell___healthy,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf\387502.jpg,Pepper__bell,Pepper__bell,1,Pepper__bell___healthy,Pepper__bell___healthy,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf\e8199bb0e4a7edf94351ca07a5aadc06.jpg,Pepper__bell,Pepper__bell,1,Pepper__bell___healthy,Pepper__bell___healthy,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf\file.php_id=18598&t=1.jpg,Pepper__bell,Pepper__bell,1,Pepper__bell___healthy,Pepper__bell___healthy,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf\IMG_1495.JPG.jpg,Pepper__bell,Tomato,0,Pepper__bell___healthy,Tomato__Tomato_mosaic_virus,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf\IMG_2855-1.jpg,Pepper__bell,Pepper__bell,1,Pepper__bell___healthy,Pepper__bell___healthy,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf\october-bell-peppers.jpg,Pepper__bell,Pepper__bell,1,Pepper__bell___healthy,Pepper__bell___healthy,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf\pepper.jpg,Pepper__bell,Pepper__bell,1,Pepper__bell___healthy,Pepper__bell___healthy,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf\seeding-peppers-a-1024x768.jpg,Pepper__bell,Potato,0,Pepper__bell___healthy,Potato___Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf\shutterstock_443115826.jpg,Pepper__bell,Pepper__bell,1,Pepper__bell___healthy,Pepper__bell___healthy,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf\xKh6iInh.jpg,Pepper__bell,Pepper__bell,1,Pepper__bell___healthy,Pepper__bell___healthy,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf spot\0000.jpg,Pepper__bell,Durian,0,CHUA_XAC_MINH,Durian___Rhizoctonia,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf spot\BacterialSpot08.jpg,Pepper__bell,Pepper__bell,1,CHUA_XAC_MINH,Pepper__bell___healthy,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf spot\BacterialSpot10.jpg,Pepper__bell,Pepper__bell,1,CHUA_XAC_MINH,Pepper__bell___healthy,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf spot\file.php_id=5336&t=1.jpg,Pepper__bell,Chili,0,CHUA_XAC_MINH,Chili___Bacterial_spot,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf spot\image_300x300%2523.jpeg_1472603886.jpg,Pepper__bell,Pepper__bell,1,CHUA_XAC_MINH,Pepper__bell___healthy,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf spot\IMG_0945.jpg,Pepper__bell,Pepper__bell,1,CHUA_XAC_MINH,Pepper__bell___healthy,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf spot\pepper-plant-leaves-holes-in-pepper-plant-leaves-holes-in-pepper-plant-leaves-small-holes-in-pepper-plant-leaves-pepper-plant-leaves-eaten.jpg,Pepper__bell,Pepper__bell,1,CHUA_XAC_MINH,Pepper__bell___Bacterial_spot,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf spot\Pepper-problem.jpg,Pepper__bell,Tomato,0,CHUA_XAC_MINH,Tomato_Leaf_Mold,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Bell_pepper leaf spot\pepper_V5a.jpg,Pepper__bell,Pepper__bell,1,CHUA_XAC_MINH,Pepper__bell___Bacterial_spot,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn Gray leaf spot\22-broders-CR-Gray-leaf-spot-corn.jpg,Corn,Corn,1,Corn___Gray_leaf_spot,Corn___Gray_leaf_spot,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn Gray leaf spot\Figure%201%20Gray%20leaf%20spot%20and%20Northern%20corn%20leaf%20blight.jpg,Corn,Corn,1,Corn___Gray_leaf_spot,Corn___Blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn Gray leaf spot\gray_leaf_spot__1-14B8612C8B60CDBC8E2.jpg,Corn,Corn,1,Corn___Gray_leaf_spot,Corn___Blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn leaf blight\011.jpg,Corn,Corn,1,Corn___Blight,Corn___Blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn leaf blight\05c.jpg,Corn,Corn,1,Corn___Blight,Corn___Blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn leaf blight\203725159.jpg,Corn,Corn,1,Corn___Blight,Corn___Blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn leaf blight\80102321.jpg,Corn,Corn,1,Corn___Blight,Corn___Blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn leaf blight\agriculture-crop-disease-northern-corn-leaf-blight-fungus-exserohilum-FRA00E.jpg,Corn,Corn,1,Corn___Blight,Corn___Blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn leaf blight\bacterial-leaf-streak-of-corn.jpg,Corn,Corn,1,Corn___Blight,Corn___Blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn leaf blight\corn-fig-2.jpg,Corn,Corn,1,Corn___Blight,Corn___Blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn leaf blight\GLSvsNCLB.jpg,Corn,Corn,1,Corn___Blight,Corn___Blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn leaf blight\northern-corn-leaf-blight-exserohilum-turcicum-lesions-on-a-maize-leaf-south-africa-xe3a7j.jpg,Corn,Corn,1,Corn___Blight,Corn___Blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn leaf blight\Slide1.preview.jpg,Corn,Corn,1,Corn___Blight,Corn___Blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn leaf blight\stock-photo-northern-corn-leaf-blight-nclb-is-a-foliar-disease-of-corn-maize-caused-by-exserohilum-turcicum-592778870.jpg,Corn,Corn,1,Corn___Blight,Corn___Blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn rust leaf\Common-rust-east-central-Indiana.jpg,Corn,Corn,1,Corn___Common_rust,Corn___Blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn rust leaf\corn-leaf-rust.jpg,Corn,Corn,1,Corn___Common_rust,Corn___Common_rust,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn rust leaf\Southern-Rust4-300x200.jpg,Corn,Corn,1,Corn___Common_rust,Corn___Common_rust,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Corn rust leaf\southernrust-seminole-june1.jpg,Corn,Corn,1,Corn___Common_rust,Corn___Common_rust,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\18028_1.jpg,Potato,Potato,1,Potato___Early_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\500px-Tomato_Early_Blight_Leaf.jpg,Potato,Potato,1,Potato___Early_blight,Potato___Early_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\a_solani.jpg,Potato,Corn,0,Potato___Early_blight,Corn___Common_rust,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\B2650214-Potato_leaf_blight-SPL.jpg,Potato,Potato,1,Potato___Early_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\cq5dam.web.16-9.8.jpg,Potato,Potato,1,Potato___Early_blight,Potato___Early_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\early%20blight.tom_.jpg,Potato,Tomato,0,Potato___Early_blight,Tomato_Septoria_leaf_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\early-blight-potatoes.jpg,Potato,Potato,1,Potato___Early_blight,Potato___Early_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\Early_Blight_of_Tomato177.jpg,Potato,Potato,1,Potato___Early_blight,Potato___Early_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\earlyblight21.jpg,Potato,Potato,1,Potato___Early_blight,Potato___Early_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\EB%20lesions1_opt.jpeg.jpg,Potato,Pepper__bell,0,Potato___Early_blight,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\home-design.jpg,Potato,Tomato,0,Potato___Early_blight,Tomato_Septoria_leaf_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\pe-mi-lateblightleaf.jpg,Potato,Tomato,0,Potato___Early_blight,Tomato_Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\PHYTIN23.img.jpg,Potato,Potato,1,Potato___Early_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\potato-early-blight-alternaria-alternata-lesion-on-a-potato-leaf-X96EFD.jpg,Potato,Potato,1,Potato___Early_blight,Potato___Early_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\potato-early-blight-alternaria-alternata-lesions-on-potato-leaf-XDF64E.jpg,Potato,Potato,1,Potato___Early_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\potato_alternaria_03_zoom.jpg,Potato,Tomato,0,Potato___Early_blight,Tomato_Bacterial_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\potato_early-blight_01_zoom.jpg,Potato,Potato,1,Potato___Early_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\potato_early-blight_06_zoom.jpg,Potato,Pepper__bell,0,Potato___Early_blight,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf early blight\potatoearlyblight.jpg,Potato,Potato,1,Potato___Early_blight,Potato___Early_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\22-late%20blight-advanced%20symptoms%20potato.jpg,Potato,Potato,1,Potato___Late_blight,Potato___Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\24064_1.jpg,Potato,Potato,1,Potato___Late_blight,Potato___Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\286_1600.jpg,Potato,Potato,1,Potato___Late_blight,Potato___Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\2976_1600.jpg,Potato,Potato,1,Potato___Late_blight,Potato___Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\3782849713_398f3a1086_b.jpg,Potato,Pepper__bell,0,Potato___Late_blight,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\4442_1600.jpg,Potato,Potato,1,Potato___Late_blight,Potato___Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\B2750121-Potato_late_blight-SPL.jpg,Potato,Potato,1,Potato___Late_blight,Potato___Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\IMG_5358.jpg,Potato,Tomato,0,Potato___Late_blight,Tomato_Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\IMG_5390.jpg,Potato,Potato,1,Potato___Late_blight,Potato___Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\Late-blight-infected-potato-plants_2.jpg,Potato,Pepper__bell,0,Potato___Late_blight,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\late-blight-leaf.jpg,Potato,Durian,0,Potato___Late_blight,Durian___Blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\Late-blight-leaves_261x240.jpg,Potato,Potato,1,Potato___Late_blight,Potato___Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\Late_blight_on_potato_leaf.jpg,Potato,Tomato,0,Potato___Late_blight,Tomato_Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\late_blight_potato_leaf_500.jpg,Potato,Tomato,0,Potato___Late_blight,Tomato_Leaf_Mold,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\LB_potato_leaf_topside.jpg,Potato,Potato,1,Potato___Late_blight,Potato___Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\phytophthora-infestans-late-blight-or-potato-blight-on-the-haulm-of-EHW1RD.jpg,Potato,Potato,1,Potato___Late_blight,Potato___Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\potato_late-blight_08_zoom.jpg,Potato,Potato,1,Potato___Late_blight,Potato___Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\potato_ocw_botrytis-lateblight.jpg,Potato,Potato,1,Potato___Late_blight,Potato___Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\potatolb_upper_leafcux1200.jpg,Potato,Potato,1,Potato___Late_blight,Potato___Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Potato leaf late blight\White-mould-potato-blight.jpg,Potato,Potato,1,Potato___Late_blight,Potato___Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\12July_mwnews_3-C.jpg,Tomato,Tomato,1,Tomato_Early_blight,Tomato_Bacterial_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\1576389-early%20blight%20symptoms.jpg,Tomato,Tomato,1,Tomato_Early_blight,Tomato_Early_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\3606630.jpg,Tomato,Potato,0,Tomato_Early_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\8950022d45978228d5e44a35183efdb9--tomatoes-dyi.jpg,Tomato,Pepper__bell,0,Tomato_Early_blight,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\august-11-early-leaf-blight-single-leaf.jpg,Tomato,Tomato,1,Tomato_Early_blight,Tomato_Septoria_leaf_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\ealryblight.jpg,Tomato,Tomato,1,Tomato_Early_blight,Tomato_Bacterial_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\early-blight-in-tomatoes.jpg,Tomato,Potato,0,Tomato_Early_blight,Potato___Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\early-blight-pp-labeled_orig.jpg,Tomato,Potato,0,Tomato_Early_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\early_blight_spots_l.jpg,Tomato,Tomato,1,Tomato_Early_blight,Tomato_Septoria_leaf_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\early_blight_tomato.jpg,Tomato,Pepper__bell,0,Tomato_Early_blight,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\ebleafb.jpg,Tomato,Potato,0,Tomato_Early_blight,Potato___Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\Original_e-blight.JPG.rend.hgtvcom.966.725.jpeg.jpg,Tomato,Tomato,1,Tomato_Early_blight,Tomato_Early_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\tomato-blight-soil-treatment-early-tomato-blight-in-a-microcosm-lower-leaves-curl-up-and-die-bulls-eye-lesions-tomato-fungus-soil-treatment.jpg,Tomato,Corn,0,Tomato_Early_blight,Corn___Blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\Tomato-early-blight_1_1-12wmver.jpg,Tomato,Tomato,1,Tomato_Early_blight,Tomato_Early_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\tomato_blight_early.jpg,Tomato,Potato,0,Tomato_Early_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Early blight leaf\web1_copy_early-blight-6-_0.jpg,Tomato,Potato,0,Tomato_Early_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf\100_8283.jpg,Tomato,Tomato,1,Tomato_healthy,Tomato_healthy,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf\2013-08-20-03.jpg,Tomato,Pepper__bell,0,Tomato_healthy,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf\DSCN1016.JPG.jpg,Tomato,Pepper__bell,0,Tomato_healthy,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf\happier-inside.jpg,Tomato,Pepper__bell,0,Tomato_healthy,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf\img_1028.jpg,Tomato,Tomato,1,Tomato_healthy,Tomato__Tomato_mosaic_virus,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf\late_blight_tomato_leaf4x1200.jpg,Tomato,Pepper__bell,0,Tomato_healthy,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf\mortgage-lifter-yellow-leaves-2.jpg,Tomato,Pepper__bell,0,Tomato_healthy,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf\russian-2-319-dt-2010-leaves-high-tunnel-9-29-2014-c.jpg,Tomato,Pepper__bell,0,Tomato_healthy,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf\tomato-leaf-6291945.jpg,Tomato,Papaya,0,Tomato_healthy,Papaya___Mealybug,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf\tomato-leaf-6424287.jpg,Tomato,Papaya,0,Tomato_healthy,Papaya___Ringspot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf\tomato-leaf.jpg,Tomato,Tomato,1,Tomato_healthy,Tomato_Leaf_Mold,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf\tomato-leaves.jpg,Tomato,Tomato,1,Tomato_healthy,Tomato__Tomato_mosaic_virus,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\266914753eb19d87b80567baed1a0f66.jpg,Tomato,Tomato,1,Tomato_Bacterial_spot,Tomato_Septoria_leaf_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\3bacterial-canker1.jpg,Tomato,Pepper__bell,0,Tomato_Bacterial_spot,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\59380.jpg,Tomato,Tomato,1,Tomato_Bacterial_spot,Tomato_Bacterial_spot,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\a3fb24f84fe70e5d37352d13106531d6.jpg,Tomato,Pepper__bell,0,Tomato_Bacterial_spot,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\bac.jpg,Tomato,Pepper__bell,0,Tomato_Bacterial_spot,Pepper__bell___Bacterial_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\Bacterial+Spot+-+Tomatoes.jpg,Tomato,Tomato,1,Tomato_Bacterial_spot,Tomato__Tomato_YellowLeaf__Curl_Virus,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\Bacterial-speck-tomato-leaves.jpg,Tomato,Tomato,1,Tomato_Bacterial_spot,Tomato_Septoria_leaf_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\bacterial-speck-tomato1x2400-275mmny.jpg,Tomato,Pepper__bell,0,Tomato_Bacterial_spot,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\bacterial-spot-of-tomato-6-638.jpg,Tomato,Guava,0,Tomato_Bacterial_spot,Guava___Canker,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\Bacterial-spot-on-tomato-leaves.jpg,Tomato,Tomato,1,Tomato_Bacterial_spot,Tomato_Septoria_leaf_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\Bacterial_spots1300.jpg,Tomato,Potato,0,Tomato_Bacterial_spot,Potato___Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\Bacterial_spots2276.jpg,Tomato,Potato,0,Tomato_Bacterial_spot,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\Bacterial_spots586.jpg,Tomato,Pepper__bell,0,Tomato_Bacterial_spot,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\BacterialSpot06.jpg,Tomato,Corn,0,Tomato_Bacterial_spot,Corn___Blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\bacterialspottomato2.jpg,Tomato,Tomato,1,Tomato_Bacterial_spot,Tomato_Bacterial_spot,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\bc34aec4ea7f60a64e380fda44c2f380.jpg,Tomato,Tomato,1,Tomato_Bacterial_spot,Tomato_Bacterial_spot,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\FS547-4-big.jpg,Tomato,Pepper__bell,0,Tomato_Bacterial_spot,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\leaf-spot3-big.jpg,Tomato,Potato,0,Tomato_Bacterial_spot,Potato___Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\Leaf-spots-on-tomato-leaves-Credits-Hank-Dankers_Q320.jpg,Tomato,Pepper__bell,0,Tomato_Bacterial_spot,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\LyraEDISServlet.jpg,Tomato,Tomato,1,Tomato_Bacterial_spot,Tomato_Bacterial_spot,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\pddl-highlights-fig-1-bact-spot.jpg,Tomato,Tomato,1,Tomato_Bacterial_spot,Tomato_Septoria_leaf_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf bacterial spot\Tomato%20greenhouse%20phythotoxicity03F.JPG.jpg,Tomato,Potato,0,Tomato_Bacterial_spot,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\20150619d.jpg,Tomato,Potato,0,Tomato_Late_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\5816170621_e1cce08736_z.jpg,Tomato,Potato,0,Tomato_Late_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\600.jpg,Tomato,Potato,0,Tomato_Late_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\7262-drought.jpg,Tomato,Pepper__bell,0,Tomato_Late_blight,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\IMG_5360.jpg,Tomato,Potato,0,Tomato_Late_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\Late%20blight%20tomato1.jpg,Tomato,Tomato,1,Tomato_Late_blight,Tomato_Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\Late-Blight-A.jpg,Tomato,Tomato,1,Tomato_Late_blight,Tomato_Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\Late-blight-foliar-leasion-on-tomato.jpg,Tomato,Potato,0,Tomato_Late_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\late-blight-tom-leaf.jpg,Tomato,Papaya,0,Tomato_Late_blight,Papaya___Curl,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\late-blight-TomC2-10.jpg,Tomato,Tomato,1,Tomato_Late_blight,Tomato_Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\late_blight_drought_leavescuux1200.jpg,Tomato,Tomato,1,Tomato_Late_blight,Tomato_Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\LateBlt09_05.jpg,Tomato,Pepper__bell,0,Tomato_Late_blight,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\lb2.jpg,Tomato,Potato,0,Tomato_Late_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\photo-2.jpg,Tomato,Pepper__bell,0,Tomato_Late_blight,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\symptoms_of_late_blight.jpg2__0.jpg,Tomato,Potato,0,Tomato_Late_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\tomato-blight-phytophthora-infestans-close-up-of-infected-leaf-b5n95x.jpg,Tomato,Potato,0,Tomato_Late_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\tomato-late-blight-conn-2015-137c.jpg,Tomato,Tomato,1,Tomato_Late_blight,Tomato_Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\tomato-late-blight-leaf-61-3x32.jpg,Tomato,Tomato,1,Tomato_Late_blight,Tomato_Late_blight,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\tomato-late-blight-phytophthora-infestans-necrosis-sporulation-on-a-tomato-leaf-underside-X5YDDP.jpg,Tomato,Potato,0,Tomato_Late_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\tomato-late-blight-phytophthora-infestans-necrosis-sporulation-on-a-tomato-leaf-underside-XA233C.jpg,Tomato,Potato,0,Tomato_Late_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf late blight\TomatoLateBlight-3-Underside-2ebj05b-300x225.jpg,Tomato,Potato,0,Tomato_Late_blight,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf mosaic virus\1422_0.jpeg.jpg,Tomato,Tomato,1,Tomato__Tomato_mosaic_virus,Tomato_healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf mosaic virus\5Tomato+Mosaic+Virus.jpg,Tomato,Tomato,1,Tomato__Tomato_mosaic_virus,Tomato__Tomato_YellowLeaf__Curl_Virus,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf mosaic virus\DSC02246.JPG.jpg,Tomato,Tomato,1,Tomato__Tomato_mosaic_virus,Tomato_Leaf_Mold,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf mosaic virus\dummen-tmv.jpg,Tomato,Tomato,1,Tomato__Tomato_mosaic_virus,Tomato__Tomato_YellowLeaf__Curl_Virus,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf mosaic virus\fig2-2k11-1-12.jpg,Tomato,Tomato,1,Tomato__Tomato_mosaic_virus,Tomato_Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf mosaic virus\TMV-3.jpg,Tomato,Tomato,1,Tomato__Tomato_mosaic_virus,Tomato__Tomato_mosaic_virus,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf mosaic virus\Tomato-brown-rugose-fruit-virus-ToBRFV-infected-tomato-Solanum-lycopersicum-plants_Q320.jpg,Tomato,Durian,0,Tomato__Tomato_mosaic_virus,Durian___Rhizoctonia,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf mosaic virus\tomato-mosaic-virus-disease-on-260nw-625499780.jpg,Tomato,Tomato,1,Tomato__Tomato_mosaic_virus,Tomato__Tomato_mosaic_virus,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf mosaic virus\tomato_virus_06_zoom.jpg,Tomato,Mango,0,Tomato__Tomato_mosaic_virus,Mango___Cutting_weevil,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf yellow virus\2.--Virused-tomato-leaves-versus.jpg,Tomato,Corn,0,CHUA_XAC_MINH,Corn___Blight,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf yellow virus\28619919393_7ef44acccc_b.jpg,Tomato,Tomato,1,CHUA_XAC_MINH,Tomato_Bacterial_spot,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf yellow virus\8e60bae9f613f360403943f108a03083.jpg,Tomato,Tomato,1,CHUA_XAC_MINH,Tomato_Early_blight,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf yellow virus\DSC02006.JPG.jpg,Tomato,Tomato,1,CHUA_XAC_MINH,Tomato_healthy,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf yellow virus\dscn1652cropped.jpg,Tomato,Tomato,1,CHUA_XAC_MINH,Tomato_healthy,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf yellow virus\leaves-curling-on-tomato-plant-characteristic-symptoms-tomato-plants-leaves-curling-down-on-tomato-plant.jpg,Tomato,Pepper__bell,0,CHUA_XAC_MINH,Pepper__bell___healthy,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf yellow virus\role-of-whitefly-in-plant-virus-transmission-by-pmanikandan-13-638.jpg,Tomato,Tomato,1,CHUA_XAC_MINH,Tomato_Leaf_Mold,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf yellow virus\s-prasanth-kumar-young-scientist-awarded-presentation-2-728.jpg,Tomato,Potato,0,CHUA_XAC_MINH,Potato___Late_blight,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf yellow virus\tlcv-tomato-leaf-curl-virus-symptoms-on-a-glasshouse-tomato-plant-ACGAG6.jpg,Tomato,Pepper__bell,0,CHUA_XAC_MINH,Pepper__bell___healthy,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf yellow virus\tomato-yellow-closeup-2.jpg,Tomato,Tomato,1,CHUA_XAC_MINH,Tomato_healthy,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf yellow virus\tomato-yellow-leaf-curl-virus-tomato-1.jpg,Tomato,Tomato,1,CHUA_XAC_MINH,Tomato_Leaf_Mold,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf yellow virus\tomato_leaf_roll.JPG.jpg,Tomato,Tomato,1,CHUA_XAC_MINH,Tomato_Leaf_Mold,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf yellow virus\TYLCV-tomate-DB-445-171.jpg,Tomato,Tomato,1,CHUA_XAC_MINH,Tomato__Tomato_mosaic_virus,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato leaf yellow virus\virus2.jpg,Tomato,Tomato,1,CHUA_XAC_MINH,Tomato_Septoria_leaf_spot,
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\119B_Tom_Mold.jpg,Tomato,Potato,0,Tomato_Leaf_Mold,Potato___Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\23601051_1572608349449262_2029169498_o.jpg,Tomato,Tomato,1,Tomato_Leaf_Mold,Tomato_healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\DSCN2697.jpg,Tomato,Tomato,1,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\GIVXB.jpg,Tomato,Pepper__bell,0,Tomato_Leaf_Mold,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\gray-mold-on-tomato-leaf.jpg,Tomato,Tomato,1,Tomato_Leaf_Mold,Tomato_Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\grey-mould-botrytis-cinerea-on-bottom-of-a-tomato-leaf-late-in-the-AFRDAN.jpg,Tomato,Tomato,1,Tomato_Leaf_Mold,Tomato_Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\IMG_7442%20resized_0.preview.jpg,Tomato,Corn,0,Tomato_Leaf_Mold,Corn___Blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\Leaf+Mold+lower+leaf+surface+spores+%28conidia%29.jpg,Tomato,Potato,0,Tomato_Leaf_Mold,Potato___Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\Leaf-mold-caused-by-the-fungal-pathogen-Passalore-fulva-in-tomatoes.jpg,Tomato,Tomato,1,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\leaf_mold1.jpg,Tomato,Potato,0,Tomato_Leaf_Mold,Potato___Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\leaf_mold_tomato1x1200.jpg,Tomato,Tomato,1,Tomato_Leaf_Mold,Tomato_Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\leaf_mold_tomato2x1200.jpg,Tomato,Tomato,1,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\leaf_mold_tomato5x1200.jpg,Tomato,Potato,0,Tomato_Leaf_Mold,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\pm3.jpg,Tomato,Pepper__bell,0,Tomato_Leaf_Mold,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\tomato-leaf-2.jpg,Tomato,Tomato,1,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\tomato-leaf-mold-infection-on-a-leaf-top-and-underside-picture-id81781575_s=612x612.jpg,Tomato,Tomato,1,Tomato_Leaf_Mold,Tomato_Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\tomato_leaf-mold_04_zoom.jpg,Tomato,Potato,0,Tomato_Leaf_Mold,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato mold leaf\tomato_Leaf-roll-physiological-7059-SLoewen_thm.jpg,Tomato,Tomato,1,Tomato_Leaf_Mold,Tomato__Tomato_YellowLeaf__Curl_Virus,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\128110613-56a6d3633df78cf7729070ad.jpg,Tomato,Pepper__bell,0,Tomato_Septoria_leaf_spot,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\1c421500ddd390c90596ad2cf12d5429.jpg,Tomato,Potato,0,Tomato_Septoria_leaf_spot,Potato___Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\2014-08-27%2B-%2BCloser%2BView%2Bof%2BSeptoria%2BLeaf%2BSpot.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Leaf_Mold,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\4853086777_bc41d29801.jpg,Tomato,Pepper__bell,0,Tomato_Septoria_leaf_spot,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\5008922249_880e15c21f.jpg,Tomato,Potato,0,Tomato_Septoria_leaf_spot,Potato___Late_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\5315825271570432-600x272.jpeg.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\5315825271570432.jpeg.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato__Tomato_mosaic_virus,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\b6ca3f80-cc10-4d4f-be0d-771deb9a4969.jpeg.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Leaf_Mold,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\confused-early-blight-septoria-zoom.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\early-blight-septoria-ls-fig-3.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\img_6564.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Bacterial_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\Sept9-300x225.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\septoria+leaf+spota.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\septoria-leaf-spot-2.jpg,Tomato,Potato,0,Tomato_Septoria_leaf_spot,Potato___Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\Septoria-leaf-spot-on-tomato-FOR-WEB.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Bacterial_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\septoria-leaf-spot-treatment-leaf-spot-septoria-leaf-spot-soil-treatment-septoria-leaf-spot-tomato-organic-treatment.jpg,Tomato,Durian,0,Tomato_Septoria_leaf_spot,Durian___Algal,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\septoria_tomato.jpg,Tomato,Potato,0,Tomato_Septoria_leaf_spot,Potato___Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\septorialycopersici_small.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\sls1.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\tomato%2Bseptoria%2Bleaf%2Bspot2.JPG.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\tomato-disease-septoria-leaf-spot-d7e1x9.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\tomato-septoria-3-500x384.jpg,Tomato,Pepper__bell,0,Tomato_Septoria_leaf_spot,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\tomato-septoria-3.jpg,Tomato,Pepper__bell,0,Tomato_Septoria_leaf_spot,Pepper__bell___healthy,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\tomato-septoria-5-500x384.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,1
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\tomato-septoria-leaf-spot-.jpg,Tomato,Corn,0,Tomato_Septoria_leaf_spot,Corn___Blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\tomato-septoria-leaf-spot-600.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Early_blight,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\tomato_leaf_spots_1500x1500%253E.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato__Tomato_mosaic_virus,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato Septoria leaf spot\tomatoseptorialeafspotjpg-788d20798a3c74e7.jpg,Tomato,Tomato,1,Tomato_Septoria_leaf_spot,Tomato_Bacterial_spot,0
+D:\DoanHMvUD\external_field_pool_v2\PlantDoc_khong_trung_SHA256\train\Tomato two spotted spider mites leaf\comparing-diseases-4-canker-tomato-1y51ejs.jpg,Tomato,Pepper__bell,0,Tomato_Spider_mites_Two_spotted_spider_mite,Pepper__bell___healthy,0

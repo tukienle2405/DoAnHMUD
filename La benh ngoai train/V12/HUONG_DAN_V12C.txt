@@ -1,0 +1,26 @@
+V12C - TU DONG SO SANH DU DOAN V2 VA V11 TREN ANH UNG VIEN V12B
+
+1) GIAI NEN
+Giai nen cac file trong ZIP truc tiep vao:
+D:\DoanHMvUD\La benh ngoai train\V12
+Sau giai nen phai thay file so_sanh_du_doan_v12c.py NGAY trong V12 (cung thu muc voi danh_gia_v12.py).
+
+2) DU LIEU CO SAN
+KHONG can sao chep anh thu cong. V12C tu tim:
+D:\DoanHMvUD\La benh ngoai train\V12\KET_QUA_QUET_ANH_V12\DANH_SACH_UNG_VIEN_V12.csv
+va thu muc anh:
+D:\DoanHMvUD\La benh ngoai train\V12\KET_QUA_QUET_ANH_V12\ANH_UNG_VIEN_TU_DU_LIEU_CU
+V12B da sao chep 40 anh vao day. File zip ANH_MAU_GUI_CHATGPT_V12.zip chi co 8 anh xem truoc.
+
+3) LENH POWERSHELL
+cd "D:\DoanHMvUD\La benh ngoai train\V12"
+py -3 -u so_sanh_du_doan_v12c.py --mode check
+py -3 -u so_sanh_du_doan_v12c.py --mode predict --batch_size 4
+
+4) GUI LAI CHATGPT 3 FILE
+D:\DoanHMvUD\La benh ngoai train\V12\KET_QUA_DU_DOAN_V12C\TONG_KET_V12C.json
+D:\DoanHMvUD\La benh ngoai train\V12\KET_QUA_DU_DOAN_V12C\DU_DOAN_ANH_V12C.csv
+D:\DoanHMvUD\La benh ngoai train\V12\KET_QUA_DU_DOAN_V12C\ANH_CAN_XEM_V12C.zip
+
+NEU BAO THIEU FILE HOAC CHECKPOINT: gui KIEM_TRA_V12C.json va anh loi PowerShell.
+V12C chi so sanh DU DOAN. KHONG tinh Accuracy, KHONG sua nhan, KHONG cham vao Test/Validation, KHONG thay Streamlit.

@@ -1,0 +1,18 @@
+{
+  "mode": "CHECK_V13_READ_ONLY",
+  "input_csv": "D:\\DoanHMvUD\\La benh ngoai train\\V12\\KET_QUA_QUET_ANH_V12\\DANH_SACH_UNG_VIEN_V12.csv",
+  "previous_predictions_csv": "D:\\DoanHMvUD\\La benh ngoai train\\V12\\KET_QUA_DU_DOAN_V12C\\DU_DOAN_ANH_V12C.csv",
+  "checkpoint_v2_exists": true,
+  "checkpoint_v11_exists": true,
+  "old_folder_labels_verified": false,
+  "no_accuracy_calculated": true,
+  "no_original_images_modified": true,
+  "no_training": true,
+  "image_rows": 40,
+  "images_found": 40,
+  "image_errors": [],
+  "previous_prediction_rows": 40,
+  "matched_image_keys": 40,
+  "duplicate_previous_keys": 0,
+  "ready_for_compare": true
+}

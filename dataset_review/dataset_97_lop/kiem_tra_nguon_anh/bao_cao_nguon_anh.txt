@@ -1,0 +1,43 @@
+BAO CAO KIEM TRA NGUON ANH 97 LOP
+================================================
+Tong anh pending: 63705
+Nhom ten dang so_so: 10
+Nhom ten co >= 2 anh: 9
+Bang anh theo ten da tao: 8
+Nhom nghi khac nhan: 2
+Bang anh khac nhan: 2
+
+SO NHOM TEN FILE THEO CAY:
+Banana: 1773 anh pending, 2 nhom ten >=2 anh
+Cashew: 475 anh pending, 2 nhom ten >=2 anh
+Chili: 6026 anh pending, 0 nhom ten >=2 anh
+Coffee: 1808 anh pending, 3 nhom ten >=2 anh
+Corn: 4184 anh pending, 0 nhom ten >=2 anh
+Guava: 2043 anh pending, 0 nhom ten >=2 anh
+Jackfruit: 1785 anh pending, 0 nhom ten >=2 anh
+Lemon: 1351 anh pending, 0 nhom ten >=2 anh
+Mango: 15008 anh pending, 2 nhom ten >=2 anh
+Papaya: 1511 anh pending, 0 nhom ten >=2 anh
+Pepper: 2475 anh pending, 0 nhom ten >=2 anh
+Potato: 2152 anh pending, 0 nhom ten >=2 anh
+Rice: 120 anh pending, 0 nhom ten >=2 anh
+Rubber: 1608 anh pending, 0 nhom ten >=2 anh
+Sugarcane: 5389 anh pending, 0 nhom ten >=2 anh
+Tomato: 15997 anh pending, 0 nhom ten >=2 anh
+
+NHOM TEN FILE LON NHAT:
+Coffee / Coffee___healthy / prefix=1 / images=739 / near_groups=738
+Coffee / Coffee___Rust / prefix=1200 / images=616 / near_groups=606
+Coffee / Coffee___Phoma / prefix=2300 / images=453 / near_groups=453
+Cashew / Cashew___healthy / prefix=20251217 / images=167 / near_groups=166
+Cashew / Cashew___Fungal_infection / prefix=20251217 / images=115 / near_groups=115
+Mango / Mango___Bacterial_canker / prefix=20241028 / images=92 / near_groups=92
+Banana / Banana___Cordana / prefix=20250621 / images=21 / near_groups=21
+Banana / Banana___healthy / prefix=20250621 / images=16 / near_groups=16
+Mango / Mango___Cutting_weevil / prefix=20241027 / images=6 / near_groups=6
+
+CHU Y:
+Trung tien to ten file khong chung minh cung mot anh nguon.
+Can xem bang anh truoc khi gom nhom.
+Chua thay doi train/val/test.
+Khong xoa hoac di chuyen anh goc.

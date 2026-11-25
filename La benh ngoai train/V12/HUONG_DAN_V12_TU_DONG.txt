@@ -1,0 +1,40 @@
+V12B: TU DONG LAY ANH TU CAC THU MUC CAY CU
+
+1. Giai nen cac file TRUC TIEP vao:
+   D:\DoanHMvUD\La benh ngoai train\V12
+   (Khong de them cap thu muc con khi giai nen.)
+
+2. Mo PowerShell:
+   cd "D:\DoanHMvUD\La benh ngoai train\V12"
+   py -3 -u quet_anh_cu_cho_v12.py
+   HOAC bam dup CHAY_QUET_V12.bat
+
+3. Tu dong quet thu muc cay nhu Ca chua, Ca phe, Cao su, Chuoi, Ngo, Ot chuong...
+   tai D:\DoanHMvUD\La benh ngoai train
+   DOi chieu cac file:
+   V10\dataset_manifest_SPLIT_DU_KIEN(1).csv
+   V10\EXTERNAL_SPLIT_LOCKED.csv
+   Neu V10 khong co, script su dung snapshot DU_LIEU_DOI_CHIEU trong ZIP.
+
+4. Ket qua:
+   V12\KET_QUA_QUET_ANH_V12\
+   - TONG_KET_QUET_ANH_V12.json
+   - DANH_SACH_UNG_VIEN_V12.csv
+   - SO_LUONG_THEO_CAY_V12.csv
+   - ANH_MAU_GUI_CHATGPT_V12.zip
+   - XEM_ANH_UNG_VIEN_V12.html
+   - ANH_UNG_VIEN_TU_DU_LIEU_CU\ (anh sao chep; anh goc khong doi)
+
+5. GUI LAI CHATGPT DUNG 3 FILE:
+   TONG_KET_QUET_ANH_V12.json
+   DANH_SACH_UNG_VIEN_V12.csv
+   ANH_MAU_GUI_CHATGPT_V12.zip
+
+CANH BAO:
+Anh lay tu thu muc cu CHI LA ANH UNG VIEN DE RA SOAT / THU DEMO;
+KHONG DUOC GOI LA TEST MOI DOC LAP, KHONG TU DIEN nhan true_class hay label_verified=YES.
+De tinh Accuracy V2-V11 trong V12, van can anh va nhan benh xac minh tu nguon doc lap.
+Script TU CHOI xuat ung vien neu thieu metadata so sanh va KHONG ghi de file goc/checkpoint.
+
+Tuy chon so anh moi cay (mac dinh 10):
+ py -3 -u quet_anh_cu_cho_v12.py --max-per-crop 5

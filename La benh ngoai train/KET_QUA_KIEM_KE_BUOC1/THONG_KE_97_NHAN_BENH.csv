@@ -1,0 +1,98 @@
+﻿nhan_tieng_anh,ten_cay_tieng_viet,benh_tieng_viet,nguyen_nhan_goi_y,metadata_train,metadata_val,metadata_test,metadata_exclude_review,metadata_tong,anh_thuc_te_duoc_quet_trong_metadata,train_v10_ung_vien,train_v10_cach_ly
+Banana___Cordana,Chuối,Đốm lá Cordana,Nấm,353,75,77,0,505,505,353,0
+Banana___Sigatoka,Chuối,Bệnh đốm lá Sigatoka,Nấm,506,108,110,0,724,724,506,0
+Banana___healthy,Chuối,Lá khỏe mạnh,Không có bệnh theo nhãn,380,81,83,0,544,544,0,380
+Cashew___Fungal_infection,Điều,Nhiễm nấm trên lá,Nấm (chưa rõ loài),161,34,35,0,230,230,161,0
+Cashew___healthy,Điều,Lá khỏe mạnh,Không có bệnh theo nhãn,170,36,39,0,245,245,170,0
+Chili___Bacterial_spot,Ớt cay,Đốm lá do vi khuẩn,Vi khuẩn,890,184,206,0,1280,1280,890,0
+Chili___Cercospora_leaf_spot,Ớt cay,Đốm lá Cercospora,Nấm,1176,253,254,0,1683,1683,1176,0
+Chili___Curl_virus,Ớt cay,Xoăn lá do virus (theo nhãn),Virus (chưa xác định cụ thể),1108,241,233,0,1582,1582,1108,0
+Chili___healthy,Ớt cay,Lá khỏe mạnh,Không có bệnh theo nhãn,1034,221,226,0,1481,1481,1034,0
+Coffee___Phoma,Cà phê,Đốm/cháy lá Phoma,Nấm,317,67,69,0,453,453,317,0
+Coffee___Rust,Cà phê,Gỉ sắt lá cà phê,Nấm,432,90,94,0,616,616,432,0
+Coffee___healthy,Cà phê,Lá khỏe mạnh,Không có bệnh theo nhãn,517,110,112,0,739,739,517,0
+Corn___Blight,Ngô,Bệnh cháy lá ngô,Tác nhân gây bệnh chưa xác định từ nhãn chung,835,182,183,4,1204,1204,801,0
+Corn___Common_rust,Ngô,Gỉ sắt thường trên ngô,Nấm,927,200,201,0,1328,1328,913,0
+Corn___Gray_leaf_spot,Ngô,Đốm lá xám,Nấm,407,88,90,0,585,585,400,0
+Corn___healthy,Ngô,Lá khỏe mạnh,Không có bệnh theo nhãn,813,174,175,0,1162,1162,813,0
+Durian___Algal,Sầu riêng,Đốm lá do tảo,Tảo,330,65,67,0,462,462,330,0
+Durian___Blight,Sầu riêng,Bệnh cháy lá (nhãn chung),Chưa rõ tác nhân,309,64,66,0,439,439,309,0
+Durian___Colletotrichum,Sầu riêng,Thán thư do Colletotrichum,Nấm,281,61,59,0,401,401,281,0
+Durian___Phomopsis,Sầu riêng,Bệnh lá liên quan Phomopsis,Nấm,287,61,63,0,411,411,287,0
+Durian___Rhizoctonia,Sầu riêng,Bệnh lá liên quan Rhizoctonia,Nấm,278,59,61,0,398,398,278,0
+Durian___healthy,Sầu riêng,Lá khỏe mạnh,Không có bệnh theo nhãn,342,69,73,0,484,484,342,0
+Guava___Anthracnose,Ổi,Bệnh thán thư,Nấm,165,36,36,0,237,237,165,0
+Guava___Canker,Ổi,Bệnh loét (nhãn chung),Chưa rõ tác nhân,134,28,30,0,192,192,134,0
+Guava___Dot,Ổi,Đốm trên lá (nhãn Dot chưa rõ),Chưa rõ tác nhân,146,31,32,0,209,209,0,146
+Guava___Rust,Ổi,Bệnh gỉ sắt,"Nấm (theo tên bệnh, cần đối chiếu nguồn)",110,23,24,0,157,157,110,0
+Guava___healthy,Ổi,Lá khỏe mạnh,Không có bệnh theo nhãn,872,187,189,0,1248,1248,872,0
+Jackfruit___Algal,Mít,Đốm lá do tảo,Tảo,151,32,34,0,217,217,151,0
+Jackfruit___Anthracnose,Mít,Bệnh thán thư,Nấm,223,47,50,0,320,320,223,0
+Jackfruit___Leaf_spot,Mít,Bệnh đốm lá (nhãn chung),Chưa rõ tác nhân,256,55,57,0,368,368,256,0
+Jackfruit___Phyllosticta,Mít,Đốm lá Phyllosticta,Nấm,241,51,52,0,344,344,241,0
+Jackfruit___Sooty_mould,Mít,Nấm bồ hóng,Nấm bồ hóng; thường liên quan dịch ngọt từ côn trùng,157,30,33,0,220,220,157,0
+Jackfruit___healthy,Mít,Lá khỏe mạnh,Không có bệnh theo nhãn,220,47,49,0,316,316,220,0
+Lemon___Anthracnose,Chanh,Bệnh thán thư,Nấm,70,14,16,0,100,100,70,0
+Lemon___Bacterial_blight,Chanh,Cháy lá do vi khuẩn,Vi khuẩn,73,15,17,0,105,105,73,0
+Lemon___Citrus_canker,Chanh,Loét cây có múi,Vi khuẩn,124,26,28,0,178,178,124,0
+Lemon___Curl_virus,Chanh,Xoăn lá do virus (theo nhãn),Virus (cần xác minh cụ thể),80,16,19,0,115,115,80,0
+Lemon___Deficiency_leaf,Chanh,Lá có dấu hiệu thiếu dinh dưỡng,Thiếu dinh dưỡng (chưa rõ nguyên tố),135,28,30,0,193,193,135,0
+Lemon___Dry_leaf,Chanh,Lá khô,Triệu chứng; chưa rõ nguyên nhân,129,27,29,0,185,185,129,0
+Lemon___Sooty_mould,Chanh,Nấm bồ hóng,Nấm bồ hóng; có thể liên quan côn trùng chích hút,106,22,24,0,152,152,106,0
+Lemon___Spider_mites,Chanh,Nhện hại lá,Nhện hại,79,17,18,0,114,114,79,0
+Lemon___healthy,Chanh,Lá khỏe mạnh,Không có bệnh theo nhãn,146,31,32,0,209,209,146,0
+Mango___Anthracnose,Xoài,Bệnh thán thư,Nấm,1444,309,310,0,2063,2063,1444,0
+Mango___Bacterial_canker,Xoài,Bệnh loét do vi khuẩn,Vi khuẩn,1998,428,430,0,2856,2856,1998,0
+Mango___Cutting_weevil,Xoài,Tổn thương do bọ vòi voi,Côn trùng,1318,280,282,0,1880,1880,1318,0
+Mango___Die_back,Xoài,Khô chết cành/ngọn,Triệu chứng; nhiều nguyên nhân có thể,1118,238,240,0,1596,1596,1118,0
+Mango___Gall_midge,Xoài,Tổn thương do muỗi gây u sưng,Côn trùng,1784,382,384,2,2552,2552,1784,0
+Mango___Powdery_mildew,Xoài,Bệnh phấn trắng,Nấm,686,147,148,0,981,981,686,0
+Mango___Sooty_mould,Xoài,Nấm bồ hóng,Nấm bồ hóng; thường liên quan côn trùng,1103,235,240,2,1580,1580,1103,0
+Mango___healthy,Xoài,Lá khỏe mạnh,Không có bệnh theo nhãn,1050,225,225,0,1500,1500,1050,0
+Papaya___Anthracnose,Đu đủ,Bệnh thán thư,Nấm,31,6,8,0,45,45,0,31
+Papaya___Bacterial_spot,Đu đủ,Đốm lá do vi khuẩn,Vi khuẩn,70,15,15,0,100,100,0,70
+Papaya___Curl,Đu đủ,Xoăn lá (chưa rõ nguyên nhân),Chưa rõ tác nhân,226,48,51,0,325,325,0,226
+Papaya___Mealybug,Đu đủ,Rệp sáp,Côn trùng,64,13,14,0,91,91,0,64
+Papaya___Mite_damage,Đu đủ,Lá bị nhện hại,Nhện hại,173,35,37,0,245,245,0,173
+Papaya___Mosaic,Đu đủ,Bệnh khảm lá (nhãn chung),Có thể do virus; cần xác minh,162,36,37,0,235,235,0,162
+Papaya___Ringspot,Đu đủ,Bệnh đốm vòng đu đủ,Virus (thường liên quan PRSV),170,34,41,0,245,245,0,170
+Papaya___healthy,Đu đủ,Lá khỏe mạnh,Không có bệnh theo nhãn,160,33,32,0,225,225,0,160
+Pepper__bell___Bacterial_spot,Ớt chuông,Đốm lá do vi khuẩn,Vi khuẩn,697,149,151,0,997,997,697,0
+Pepper__bell___healthy,Ớt chuông,Lá khỏe mạnh,Không có bệnh theo nhãn,1070,233,235,1,1539,1539,1034,0
+Potato___Early_blight,Khoai tây,Cháy lá sớm,Nấm Alternaria,765,170,172,9,1116,1116,700,0
+Potato___Late_blight,Khoai tây,Mốc sương/cháy lá muộn,Sinh vật giống nấm (Phytophthora),760,170,171,4,1105,1105,700,0
+Potato___healthy,Khoai tây,Lá khỏe mạnh,Không có bệnh theo nhãn,106,22,24,0,152,152,106,0
+Rice___Bacterial_leaf_blight,Lúa,Bạc lá do vi khuẩn,Vi khuẩn,28,6,6,0,40,40,28,0
+Rice___Brown_spot,Lúa,Bệnh đốm nâu,Nấm,28,6,6,0,40,40,28,0
+Rice___Leaf_smut,Lúa,Bệnh than lá,Nấm,28,6,6,0,40,40,28,0
+Rubber___Anthracnose,Cao su,Bệnh thán thư,Nấm,117,25,26,0,168,168,117,0
+Rubber___Dry_leaf,Cao su,Lá khô,Triệu chứng; chưa rõ nguyên nhân,314,67,69,0,450,450,314,0
+Rubber___Leaf_spot,Cao su,Bệnh đốm lá (nhãn chung),Chưa rõ tác nhân,338,72,74,0,484,484,338,0
+Rubber___healthy,Cao su,Lá khỏe mạnh,Không có bệnh theo nhãn,354,75,77,0,506,506,354,0
+Sugarcane___Banded_chlorosis,Mía,Vàng lá dạng dải,Triệu chứng; chưa rõ nguyên nhân,229,40,44,0,313,313,229,0
+Sugarcane___Brown_rust,Mía,Gỉ sắt nâu,Nấm,147,30,30,0,207,207,147,0
+Sugarcane___Brown_spot,Mía,Đốm nâu,Chưa rõ tác nhân từ nhãn,990,216,205,0,1411,1411,990,0
+Sugarcane___Dried_leaves,Mía,Lá khô,Triệu chứng; chưa rõ nguyên nhân,162,42,46,0,250,250,162,0
+Sugarcane___Grassy_shoot,Mía,Bệnh chồi cỏ mía,Vi khuẩn không vách tế bào (phytoplasma),237,51,58,0,346,346,237,0
+Sugarcane___Pokkah_boeng,Mía,Bệnh xoăn ngọn Pokkah boeng,Nấm (thường thuộc nhóm Fusarium),128,29,30,0,187,187,128,0
+Sugarcane___Sett_rot,Mía,Bệnh thối hom,Chưa rõ tác nhân từ nhãn,459,91,102,0,652,652,0,459
+Sugarcane___Smut,Mía,Bệnh than mía,Nấm,119,26,31,0,176,176,119,0
+Sugarcane___Viral_disease,Mía,Bệnh do virus (nhãn chung),Virus; chưa rõ loại,367,85,93,0,545,545,367,0
+Sugarcane___Yellow_leaf,Mía,Vàng lá mía,Chưa rõ tác nhân chỉ từ tên bệnh,618,137,130,0,885,885,618,0
+Sugarcane___healthy,Mía,Lá khỏe mạnh,Không có bệnh theo nhãn,284,61,72,0,417,417,284,0
+Tea___Blister_blight,Chè,Phồng rộp lá chè,Nấm,9450,225,225,0,9900,9900,9450,0
+Tea___Brown_blight,Chè,Cháy lá nâu,Chưa rõ tác nhân từ nhãn,9450,225,225,0,9900,9900,9450,0
+Tea___Red_rust,Chè,Gỉ đỏ trên lá chè,Tảo (thường là Cephaleuros),9450,225,225,0,9900,9900,9450,0
+Tea___Red_spider_mite,Chè,Nhện đỏ hại chè,Nhện hại,9450,225,225,0,9900,9900,9450,0
+Tea___Tea_mosquito_bug,Chè,Bọ xít muỗi hại chè,Côn trùng,9450,225,225,0,9900,9900,9450,0
+Tea___healthy,Chè,Lá khỏe mạnh,Không có bệnh theo nhãn,8978,225,225,0,9428,9428,8978,0
+Tomato_Bacterial_spot,Cà chua,Đốm lá do vi khuẩn,Vi khuẩn,1553,341,343,0,2237,2237,1488,0
+Tomato_Early_blight,Cà chua,Cháy lá sớm,Nấm Alternaria,748,167,167,6,1088,1088,700,0
+Tomato_Late_blight,Cà chua,Mốc sương/cháy lá muộn,Sinh vật giống nấm (Phytophthora),1391,307,307,7,2012,2012,1330,0
+Tomato_Leaf_Mold,Cà chua,Mốc lá,Nấm,721,160,162,0,1043,1043,666,0
+Tomato_Septoria_leaf_spot,Cà chua,Đốm lá Septoria,Nấm,1326,295,299,2,1922,1922,1239,0
+Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,Nhện đỏ hai chấm,Nhện hại,1173,252,253,0,1678,1678,1173,0
+Tomato__Target_Spot,Cà chua,Đốm hình bia,Nấm (thường là Corynespora),982,210,212,0,1404,1404,982,0
+Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,Virus xoăn vàng lá cà chua,Virus,2245,481,482,0,3208,3208,2245,0
+Tomato__Tomato_mosaic_virus,Cà chua,Virus khảm cà chua,Virus,293,66,68,0,427,427,261,0
+Tomato_healthy,Cà chua,Lá khỏe mạnh,Không có bệnh theo nhãn,1146,250,252,0,1648,1648,1109,0

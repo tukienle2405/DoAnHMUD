@@ -1,0 +1,20 @@
+{
+  "field_train": 689,
+  "field_val_crop": 233,
+  "field_val_disease": 205,
+  "old_val": 272,
+  "missing_old_train_crops": [
+    "Papaya"
+  ],
+  "missing_old_val_crops": [
+    "Papaya"
+  ],
+  "field_train_crops": {
+    "Pepper__bell": 78,
+    "Potato": 125,
+    "Tomato": 431,
+    "Corn": 55
+  },
+  "mode": "FIELD_TRAIN_AND_VALIDATION_ONLY_NO_TEST",
+  "critical_limitation": "Some crops lack verified old labels. Do not claim validation of all 18 crops."
+}

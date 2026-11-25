@@ -1,0 +1,21 @@
+V13 - THU CHON LOAI CAY THAY VI PHU THUOC HOAN TOAN VAO MODEL V3
+
+1. GIAI NEN ZIP TRUC TIEP vao:
+D:\DoanHMvUD\La benh ngoai train\V12
+De file kiem_tra_chon_cay_v13.py nam ngay trong thu muc V12, cung cap voi so_sanh_du_doan_v12c.py.
+
+2. MO POWERSHELL:
+cd "D:\DoanHMvUD\La benh ngoai train\V12"
+py -3 -u kiem_tra_chon_cay_v13.py --mode check
+
+3. NEU ready_for_compare = true, CHAY:
+py -3 -u kiem_tra_chon_cay_v13.py --mode compare --batch_size 4
+
+4. GUI LAI 3 FILE:
+D:\DoanHMvUD\La benh ngoai train\V12\KET_QUA_CHON_CAY_V13\TONG_KET_V13.json
+D:\DoanHMvUD\La benh ngoai train\V12\KET_QUA_CHON_CAY_V13\SO_SANH_CHON_CAY_V13.csv
+D:\DoanHMvUD\La benh ngoai train\V12\KET_QUA_CHON_CAY_V13\ANH_CAN_XEM_V13.zip
+
+GOI Y:
+V13 chi THU BANG CAY GOI Y TRONG FOLDER (CHUA DUOC XAC MINH). Khi dua vao Streamlit, CHI dung cay do NGUOI DUNG DA XAC NHAN. Neu nguoi dung khong biet cay nao, can hien canh bao, khong ep ket luan.
+KHONG dung V13 de tinh Accuracy. KHONG train, khong sua nhan, khong ghi de checkpoint, khong sua Streamlit.

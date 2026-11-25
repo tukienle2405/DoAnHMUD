@@ -1,0 +1,26 @@
+{
+  "locked_counts": {
+    "train": 689,
+    "val": 233,
+    "test": 238
+  },
+  "known_disease_counts": {
+    "train": 601,
+    "val": 205,
+    "test": 208
+  },
+  "unverified_disease_counts": {
+    "train": 88,
+    "val": 28,
+    "test": 30
+  },
+  "excluded_by_lock": 34,
+  "field_validated_class_count": 14,
+  "field_classes_absent_from_train": [
+    "Tomato_Spider_mites_Two_spotted_spider_mite"
+  ],
+  "source_test_is_never_used_for_model_selection": true,
+  "original_manifest": {
+    "locked_test_csv_consistent": true
+  }
+}

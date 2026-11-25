@@ -1,0 +1,43 @@
+{
+  "mode": "TRAIN_ONLY_METADATA_QUARANTINE",
+  "old_manifest_rows": 125228,
+  "old_train_unflagged": 100536,
+  "old_train_review": 2041,
+  "field_split_metadata_counts": {
+    "train": 689,
+    "val": 233,
+    "test": 238,
+    "exclude": 34
+  },
+  "field_train_candidate": 590,
+  "field_train_review": 99,
+  "field_quarantine_reasons": {
+    "GROUP_LABEL_NOT_VERIFIED": 88,
+    "FILE_SPECK_VS_GROUP_SPOT": 8,
+    "FILE_LATE_VS_GROUP_EARLY": 1,
+    "FILE_EARLY_VS_GROUP_LATE": 2
+  },
+  "total_train_candidate": 101126,
+  "total_train_quarantine": 2140,
+  "classes_with_candidate_train": 86,
+  "classes_without_candidate_train": [
+    "Banana___healthy",
+    "Guava___Dot",
+    "Papaya___Anthracnose",
+    "Papaya___Bacterial_spot",
+    "Papaya___Curl",
+    "Papaya___Mealybug",
+    "Papaya___Mite_damage",
+    "Papaya___Mosaic",
+    "Papaya___Ringspot",
+    "Papaya___healthy",
+    "Sugarcane___Sett_rot"
+  ],
+  "old_cross_split_group_collisions": 0,
+  "old_cross_split_near_group_collisions": 0,
+  "field_cross_split_cluster_collisions": 0,
+  "no_val_or_test_images_read": true,
+  "no_model_training": true,
+  "no_original_label_modified": true,
+  "important": "Unflagged/source group is not expert-verified. No new accuracy is claimed. TRAIN_CANDIDATE is provisional, not cleared for all 97 classes."
+}

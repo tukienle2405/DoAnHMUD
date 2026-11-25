@@ -1,0 +1,43 @@
+<!DOCTYPE html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>V8 – Báo cáo phân tích dữ liệu 97 lớp</title><style>body{font:15px/1.55 system-ui,Arial,sans-serif;max-width:1100px;margin:auto;padding:28px;color:#20252f;background:#f8fafc}h1,h2{color:#15243b}.panel{background:white;border:1px solid #d9e0e9;border-radius:12px;padding:18px;margin:16px 0}table{border-collapse:collapse;width:100%;font-size:13px}td,th{border-bottom:1px solid #e8edf2;text-align:left;padding:9px;vertical-align:top}th{background:#eef3f8}.muted{color:#5a6576}.kpi{display:inline-block;margin-right:24px;font-size:22px;font-weight:700}code{background:#f1f5fa;padding:2px 4px;border-radius:4px}</style></head><body>
+<h1>V8 – Phân tích sâu kết quả V7 & phạm vi dữ liệu 97 lớp</h1>
+<p class="muted">Phân tích từ CSV V7 + khóa PlantDoc + manifest 97 lớp. Không sử dụng hình ảnh Validation để huấn luyện, không sửa nhãn hoặc checkpoint.</p>
+<section class="panel"><span class="kpi">124 ảnh sai V7</span><span class="kpi">94 ảnh cà chua</span><span class="kpi">11 lớp thiếu Train không bị gắn cờ rà soát</span><p>124/124 ảnh khớp khóa <code>val</code>; kiểm tra pHash 0–4 bit không tìm thấy cặp ảnh thuộc hai split khác nhau. Đây chỉ là một phương pháp kiểm tra, không chứng minh dữ liệu tuyệt đối không trùng nguồn.</p></section>
+<section class="panel"><h2>Các nhầm lẫn loại cây nổi bật</h2><table><tr><th>Cây thật</th><th>Dự đoán</th><th>Số ảnh</th></tr>
+<tr><td>Tomato</td><td>Potato</td><td>20</td></tr>
+<tr><td>Potato</td><td>Tomato</td><td>16</td></tr>
+<tr><td>Tomato</td><td>Pepper__bell</td><td>9</td></tr>
+<tr><td>Tomato</td><td>Corn</td><td>5</td></tr>
+<tr><td>Pepper__bell</td><td>Tomato</td><td>3</td></tr>
+<tr><td>Pepper__bell</td><td>Potato</td><td>1</td></tr>
+<tr><td>Potato</td><td>Pepper__bell</td><td>1</td></tr>
+</table></section><section class="panel"><h2>Các cặp bệnh nhầm lẫn nhiều nhất khi đã đúng cây</h2><table><tr><th>Bệnh thật</th><th>Bệnh dự đoán</th><th>Số ảnh</th></tr>
+<tr><td>Tomato_Bacterial_spot</td><td>Tomato_Septoria_leaf_spot</td><td>8</td></tr>
+<tr><td>Tomato_Septoria_leaf_spot</td><td>Tomato_Early_blight</td><td>6</td></tr>
+<tr><td>Potato___Early_blight</td><td>Potato___Late_blight</td><td>5</td></tr>
+<tr><td>Tomato_Leaf_Mold</td><td>Tomato_Late_blight</td><td>5</td></tr>
+<tr><td>Tomato_Septoria_leaf_spot</td><td>Tomato_Bacterial_spot</td><td>4</td></tr>
+<tr><td>Tomato_healthy</td><td>Tomato_Leaf_Mold</td><td>3</td></tr>
+<tr><td>Tomato_Early_blight</td><td>Tomato_Bacterial_spot</td><td>3</td></tr>
+<tr><td>Tomato_Early_blight</td><td>Tomato_Septoria_leaf_spot</td><td>3</td></tr>
+<tr><td>Tomato_healthy</td><td>Tomato__Tomato_mosaic_virus</td><td>2</td></tr>
+<tr><td>Tomato__Tomato_mosaic_virus</td><td>Tomato_Leaf_Mold</td><td>2</td></tr>
+<tr><td>Tomato_Early_blight</td><td>Tomato_Late_blight</td><td>2</td></tr>
+<tr><td>Corn___Gray_leaf_spot</td><td>Corn___Blight</td><td>2</td></tr>
+</table></section><section class="panel"><h2>11 lớp thiếu ảnh Train không bị đánh dấu cần rà soát nhãn</h2><p class="muted">Quan trọng: <code>needs_label_review=NO</code> KHÔNG đồng nghĩa với nhãn được chuyên gia xác minh.</p><table><tr><th>Lớp</th><th>Train bị gắn cờ cần rà soát</th></tr>
+<tr><td>Banana___healthy</td><td>380</td></tr>
+<tr><td>Guava___Dot</td><td>146</td></tr>
+<tr><td>Papaya___Anthracnose</td><td>31</td></tr>
+<tr><td>Papaya___Bacterial_spot</td><td>70</td></tr>
+<tr><td>Papaya___Curl</td><td>226</td></tr>
+<tr><td>Papaya___Mealybug</td><td>64</td></tr>
+<tr><td>Papaya___Mite_damage</td><td>173</td></tr>
+<tr><td>Papaya___Mosaic</td><td>162</td></tr>
+<tr><td>Papaya___Ringspot</td><td>170</td></tr>
+<tr><td>Papaya___healthy</td><td>160</td></tr>
+<tr><td>Sugarcane___Sett_rot</td><td>459</td></tr>
+</table></section><section class="panel"><h2>3 cặp V7 báo gần trùng (cùng nhãn, cùng Validation)</h2><table><tr><th>Ảnh 1</th><th>Ảnh 2</th><th>Khoảng cách dHash</th></tr>
+<tr><td>#74</td><td>#76</td><td>1</td></tr>
+<tr><td>#78</td><td>#79</td><td>0</td></tr>
+<tr><td>#101</td><td>#108</td><td>0</td></tr>
+</table></section><section class="panel"><h2>Kết luận & hành động</h2><p><strong>Không tự động đổi nhãn.</strong> Những tên file chứa “bacterial speck” hoặc “ToBRFV” nhưng đang được gán bệnh khác là tín hiệu rà soát nguồn, không phải bằng chứng xét đoán bệnh.</p><p><strong>Không fine-tune trên Validation.</strong> Để cải thiện chất lượng thật, ưu tiên bổ sung ảnh Train đã được xác minh, đa dạng điều kiện chụp cho những bệnh nhầm lẫn cao, đồng thời xây dựng bộ ảnh kiểm tra độc lập có chuyên gia xác minh cho đủ 18 cây và 97 lớp.</p><p>Đánh giá cũ trên bộ PlantDoc khóa chỉ bao gồm 4 cây/14 bệnh. Vì vậy, chưa thể chứng nhận hệ thống cho toàn bộ 18 cây/97 lớp.</p></section>
+</body></html>

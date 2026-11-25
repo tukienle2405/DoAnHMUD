@@ -1,0 +1,12 @@
+﻿class,source_folder,train_review_flagged,status
+Banana___healthy,D:\DoanHMvUD\PlantVillage\Banana Leaf Image Dataset for Classification of Si\sanas,380,CAN_XAC_MINH_NHAN_NGUON
+Guava___Dot,D:\DoanHMvUD\PlantVillage\Image Dataset for Detection and classification of Diseases of Guava Fruits and Leaves\Guava Fruits_Dataset\ORGINAL\Guava Fruits and leaves Dataset\Guava_Leaf\Disease\Dot,146,CAN_XAC_MINH_NHAN_NGUON
+Papaya___Anthracnose,D:\DoanHMvUD\PlantVillage\Papaya Leaf Disease Image Dataset\new\Anthracnose,31,CAN_XAC_MINH_NHAN_NGUON
+Papaya___Bacterial_spot,D:\DoanHMvUD\PlantVillage\Papaya Leaf Disease Image Dataset\new\BacterialSpot,70,CAN_XAC_MINH_NHAN_NGUON
+Papaya___Curl,D:\DoanHMvUD\PlantVillage\Papaya Leaf Disease Image Dataset\new\Curl,226,CAN_XAC_MINH_NHAN_NGUON
+Papaya___Mealybug,D:\DoanHMvUD\PlantVillage\Papaya Leaf Disease Image Dataset\new\Mealybug,64,CAN_XAC_MINH_NHAN_NGUON
+Papaya___Mite_damage,D:\DoanHMvUD\PlantVillage\Papaya Leaf Disease Image Dataset\new\Mite disease,173,CAN_XAC_MINH_NHAN_NGUON
+Papaya___Mosaic,D:\DoanHMvUD\PlantVillage\Papaya Leaf Disease Image Dataset\new\Mosaic,162,CAN_XAC_MINH_NHAN_NGUON
+Papaya___Ringspot,D:\DoanHMvUD\PlantVillage\Papaya Leaf Disease Image Dataset\new\Ringspot,170,CAN_XAC_MINH_NHAN_NGUON
+Papaya___healthy,D:\DoanHMvUD\PlantVillage\Papaya Leaf Disease Image Dataset\new\Healthy,160,CAN_XAC_MINH_NHAN_NGUON
+Sugarcane___Sett_rot,D:\DoanHMvUD\PlantVillage\Sugarcane Leaf Image Dataset\Diseases\Sett Rot,459,CAN_XAC_MINH_NHAN_NGUON

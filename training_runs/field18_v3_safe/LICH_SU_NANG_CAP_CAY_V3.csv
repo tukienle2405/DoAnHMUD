@@ -1,0 +1,7 @@
+﻿epoch,stage,train_loss,train_acc_pct,field_val_crop_correct,field_val_crop_pct,field_val_joint_correct,field_val_joint_pct,old_val_crop_pct,old_retention_ok,field_crop_not_worse
+1,head,0.7016,82.17,148,63.52,74,36.1,99.26,True,True
+2,backbone+head,0.66142,82.92,166,71.24,80,39.02,99.26,True,True
+3,backbone+head,0.52499,86.25,169,72.53,81,39.51,98.9,True,True
+4,backbone+head,0.56516,84.58,152,65.24,74,36.1,99.26,True,True
+5,backbone+head,0.48548,87.67,167,71.67,80,39.02,99.26,True,True
+6,backbone+head,0.47395,88.08,173,74.25,81,39.51,99.63,True,True

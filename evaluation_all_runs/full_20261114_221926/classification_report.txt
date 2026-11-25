@@ -1,0 +1,47 @@
+                                             precision    recall  f1-score   support
+
+                     Chili___Bacterial_spot     0.9957    0.9896    0.9926      1629
+               Chili___Cercospora_leaf_spot     0.9879    0.9910    0.9895      1898
+                         Chili___Curl_virus     0.9818    0.9855    0.9837      1590
+                            Chili___healthy     0.9890    0.9866    0.9878      1647
+                             Coffee___Phoma     0.9234    0.9559    0.9394      1110
+                              Coffee___Rust     0.9563    0.8914    0.9227      1031
+                           Coffee___healthy     0.9667    0.9954    0.9808      1079
+                              Corn___Blight     0.9477    0.9485    0.9481      1146
+                         Corn___Common_rust     0.9900    0.9877    0.9889      1306
+                      Corn___Gray_leaf_spot     0.9117    0.8990    0.9053       574
+                             Corn___healthy     0.9966    1.0000    0.9983      1162
+                        Mango___Anthracnose     0.9823    0.9918    0.9871      2075
+                   Mango___Bacterial_canker     0.9938    0.9924    0.9931      2894
+                     Mango___Cutting_weevil     0.9989    0.9905    0.9947      1890
+                           Mango___Die_back     0.9994    0.9994    0.9994      1600
+                         Mango___Gall_midge     0.9838    0.9988    0.9913      2552
+                     Mango___Powdery_mildew     1.0000    1.0000    1.0000       981
+                        Mango___Sooty_mould     0.9994    0.9748    0.9869      1590
+                            Mango___healthy     0.9993    1.0000    0.9997      1500
+              Pepper__bell___Bacterial_spot     1.0000    0.9940    0.9970       997
+                     Pepper__bell___healthy     0.9966    0.9980    0.9973      1478
+                      Potato___Early_blight     1.0000    1.0000    1.0000      1000
+                       Potato___Late_blight     0.9833    0.9990    0.9911      1000
+                           Potato___healthy     0.9869    0.9934    0.9902       152
+               Rice___Bacterial_leaf_blight     0.9756    1.0000    0.9877        40
+                          Rice___Brown_spot     0.8605    0.9250    0.8916        40
+                           Rice___Leaf_smut     0.7857    0.8250    0.8049        40
+                       Rubber___Anthracnose     1.0000    1.0000    1.0000       300
+                          Rubber___Dry_leaf     1.0000    1.0000    1.0000       450
+                         Rubber___Leaf_spot     1.0000    1.0000    1.0000       484
+                           Rubber___healthy     0.9980    1.0000    0.9990       506
+                      Tomato_Bacterial_spot     0.9986    0.9929    0.9958      2127
+                        Tomato_Early_blight     0.9878    0.9710    0.9793      1000
+                         Tomato_Late_blight     0.9916    0.9890    0.9903      1909
+                           Tomato_Leaf_Mold     0.9917    1.0000    0.9958       952
+                  Tomato_Septoria_leaf_spot     0.9977    0.9887    0.9932      1771
+Tomato_Spider_mites_Two_spotted_spider_mite     0.9823    0.9928    0.9875      1676
+                        Tomato__Target_Spot     0.9877    0.9729    0.9803      1404
+      Tomato__Tomato_YellowLeaf__Curl_Virus     0.9966    0.9994    0.9980      3208
+                Tomato__Tomato_mosaic_virus     0.9514    0.9973    0.9738       373
+                             Tomato_healthy     0.9950    0.9975    0.9962      1591
+
+                                   accuracy                         0.9876     51752
+                                  macro avg     0.9773    0.9808    0.9790     51752
+                               weighted avg     0.9877    0.9876    0.9876     51752

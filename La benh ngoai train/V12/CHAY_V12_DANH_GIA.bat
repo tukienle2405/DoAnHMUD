@@ -1,0 +1,4 @@
+@echo off
+cd /d "%~dp0"
+py -3 -u danh_gia_v12.py --mode evaluate --batch_size 8
+pause

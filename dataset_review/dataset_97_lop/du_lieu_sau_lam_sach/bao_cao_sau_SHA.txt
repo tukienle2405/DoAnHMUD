@@ -1,0 +1,20 @@
+BAO CAO LAM SACH DATASET 97 LOP
+==================================================
+Tong anh dau vao: 129,169
+So lop dau vao: 97
+So lop con anh: 97
+
+KET QUA:
+BAN_SAO_CUNG_NHAN: 3,100
+FILE_RONG: 102
+GIU_LAI: 125,228
+MAU_THUAN_NHAN: 739
+
+So lop het anh: 0
+
+LUU Y:
+Khong xoa hay di chuyen anh goc.
+Chua kiem tra anh gan trung tren toan bo dataset.
+Chua xac minh nhan benh bang chuyen gia.
+Giu nguyen split pending chua duoc chia.
+Chua san sang train mo hinh 97 lop.

@@ -1,0 +1,501 @@
+﻿image_path,actual_crop,actual_class,predicted_class,predicted_crop,is_correct,confidence_percent
+D:\DoanHMvUD\PlantVillage\Potato___Late_blight\265e32dc-44f3-40f8-8c5d-8bc223dd0f52___RS_LB 4859.JPG,Khoai tây,Potato___Late_blight,Potato___Late_blight,Khoai tây,1,99.9997
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (285).JPG,Ngô,Corn___Blight,Corn___Blight,Ngô,1,99.9856
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_381.jpg,Cà phê,Coffee___Phoma,Coffee___Phoma,Cà phê,1,99.9957
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\67b7c85c-f6e2-419f-b3a7-20bcae8c3afa___UF.GRC_YLCV_Lab 01429.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9948
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_049.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,100.0
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\1dd56ebe-f509-4ec1-a43e-13bd49b263e5___GCREC_Bact.Sp 3832.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.9762
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\1a8e252e-a75b-4d39-9dfb-e09434029183___Com.G_TgS_FL 0711.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,71.1755
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\3b746726-44a4-450e-b8e7-1bf33d5d8d4b___Matt.S_CG 7852.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.9978
+D:\DoanHMvUD\PlantVillage\corndisease\Healthy\Corn_Health (288).jpg,Ngô,Corn___healthy,Corn___healthy,Ngô,1,99.9985
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\29290d4b-f5ac-4c05-9408-60a0e5fcf867___Com.G_TgS_FL 1009.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,99.8989
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_1_IMG_20241103_214803_546.jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,91.5273
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_363.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.998
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_6_IMG_20211106_135234 (Custom).jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.7641
+D:\DoanHMvUD\PlantVillage\Potato___Early_blight\92757a8e-b68a-45b3-9d70-0281c8ea90ca___RS_Early.B 7199.JPG,Khoai tây,Potato___Early_blight,Potato___Early_blight,Khoai tây,1,100.0
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\f24f1078-123e-4c89-bba8-2e1f7cf264bb___JR_HL 8196.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,98.6378
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\8e19f6ec-51c4-496a-9970-746085371064___RS_HL 9829.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.9987
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_243.jpg,Cà phê,Coffee___healthy,Coffee___healthy,Cà phê,1,99.9995
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_738.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.9985
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_184.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9988
+D:\DoanHMvUD\PlantVillage\Mango Dataset\die back\20211129_160611 (Custom).jpg,Xoài,Mango___Die_back,Mango___Die_back,Xoài,1,99.9998
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\538b69f4-6f98-4bd6-8da7-8f8448c8731b___GCREC_Bact.Sp 5775.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.966
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Healthy\20211231_125015 (Custom).jpg,Xoài,Mango___healthy,Mango___healthy,Xoài,1,99.9971
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_1_IMG-20241104-WA0154.jpg,Xoài,Mango___Sooty_mould,Mango___Sooty_mould,Xoài,1,87.8563
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_793.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9988
+D:\DoanHMvUD\PlantVillage\Mango Dataset\die back\20211129_162744 (Custom).jpg,Xoài,Mango___Die_back,Mango___Die_back,Xoài,1,99.9999
+D:\DoanHMvUD\PlantVillage\corndisease\Healthy\Corn_Health (28).jpg,Ngô,Corn___healthy,Corn___healthy,Ngô,1,99.9988
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\a6c99119-aca8-43e0-bb73-5616aa205bbc___GCREC_Bact.Sp 5577.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,88.1916
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\2d4f2887-d7e7-4986-ab54-754b8fa3eeb4___Com.G_TgS_FL 8102.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,99.9693
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\f1f40bbd-df07-4674-a604-03201e6096f7___Com.G_SpM_FL 8679.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,99.9665
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\676eaef6-b16c-4f13-a39d-86c22f64da83___GH_HL Leaf 356.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.9997
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\4dae1983-04d3-44f9-a226-e94f256677e0___JR_HL 8355.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.8939
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_128.jpg,Cà phê,Coffee___Rust,Coffee___Rust,Cà phê,1,97.1959
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (858).JPG,Ngô,Corn___Blight,Corn___Blight,Ngô,1,99.6475
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\190e5d27-784d-4261-8704-51e4767b4835___YLCV_GCREC 2310.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,100.0
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Dry_Leaf\dry_405.jpg,Cao su,Rubber___Dry_leaf,Rubber___Dry_leaf,Cao su,1,99.9988
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_1043.jpg,Cà phê,Coffee___healthy,Coffee___healthy,Cà phê,1,99.9952
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_1_IMG_20211011_165838 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,99.9949
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_7_IMG_20211106_161527 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.976
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\8ed27b95-17ba-4d1c-a149-ef4603dd8f61___UF.GRC_YLCV_Lab 01969.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9879
+D:\DoanHMvUD\PlantVillage\corndisease\Healthy\Corn_Health (754).jpg,Ngô,Corn___healthy,Corn___healthy,Ngô,1,99.2396
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_929.jpg,Cà phê,Coffee___Phoma,Coffee___Phoma,Cà phê,1,99.9696
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_3_IMG_20211106_162805 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.9852
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_5_IMG_20211106_161506 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.9986
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Healthy\aug_2_20211231_155835 (Custom).jpg,Xoài,Mango___healthy,Mango___healthy,Xoài,1,99.9998
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\bba9c7cc-21d8-43b7-acb2-9c079f810f89___RS_Late.B 6798.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,99.6799
+D:\DoanHMvUD\PlantVillage\Potato___Late_blight\6616bc3c-e3be-440d-ac55-ae3bb665e8b4___RS_LB 5071.JPG,Khoai tây,Potato___Late_blight,Potato___Late_blight,Khoai tây,1,99.9418
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_323.jpg,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,97.4183
+D:\DoanHMvUD\PlantVillage\Potato___Early_blight\c5b121ff-fc3c-406a-8127-2a7e413a0903___RS_Early.B 9006.JPG,Khoai tây,Potato___Early_blight,Potato___Early_blight,Khoai tây,1,99.999
+D:\DoanHMvUD\PlantVillage\Tomato_Leaf_Mold\a835e550-89cc-4662-b065-d00d5a9eefd3___Crnl_L.Mold 6651.JPG,Cà chua,Tomato_Leaf_Mold,Tomato_Leaf_Mold,Cà chua,1,100.0
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_351.png,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,99.9814
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\98558acc-09f4-4d2f-bdff-5e8e915ea606___NREC_B.Spot 9141.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,Ớt chuông,1,99.9485
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\7627db62-eca7-44fd-8b81-b818575821aa___GH_HL Leaf 356.1.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.9999
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\3e6c73ad-cfcb-4614-b927-150c2c642c9e___RS_HL 0074.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.9981
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\a5f763b2-2034-4df0-a69e-69e4e9137be9___Com.G_TgS_FL 0872.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,98.3356
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_1236.png,Ớt cay,Chili___Bacterial_spot,Chili___Bacterial_spot,Ớt cay,1,99.9925
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_1147.jpg,Cà phê,Coffee___healthy,Coffee___healthy,Cà phê,1,99.9035
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1201.png,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,99.6742
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\3b8e8f98-bbc7-446d-82a9-5130e10f1b4a___Matt.S_CG 6618.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.9846
+D:\DoanHMvUD\PlantVillage\Potato___Late_blight\4358aa91-bce4-4788-a39f-1e1e4810bd51___RS_LB 3047.JPG,Khoai tây,Potato___Late_blight,Potato___Late_blight,Khoai tây,1,99.9985
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\5218d91e-425f-41f9-bbaf-29098cb34cc7___Matt.S_CG 6218.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.9995
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_1_IMG_20211106_162650 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.9983
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_1223.png,Ớt cay,Chili___Bacterial_spot,Chili___Bacterial_spot,Ớt cay,1,99.9248
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\84eb25b9-4855-4fde-9a2c-28c2de1bfb22___RS_HL 9680.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.9993
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Healthy\healthy_99.jpg,Cao su,Rubber___healthy,Rubber___healthy,Cao su,1,99.9986
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\acb8c617-8f07-44b5-95bc-74c11726ace7___JR_Sept.L.S 2660.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.9945
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_909.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.9727
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\1622f25f-5dfe-4fc1-ad11-b0bf3effbd68___UF.GRC_YLCV_Lab 02392.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9984
+D:\DoanHMvUD\PlantVillage\Potato___Late_blight\9c230647-02da-4948-9c52-dfc87bb1d34a___RS_LB 4593.JPG,Khoai tây,Potato___Late_blight,Potato___Late_blight,Khoai tây,1,99.8813
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_1_IMG_20211108_120228 (Custom).jpg,Xoài,Mango___Sooty_mould,Mango___Sooty_mould,Xoài,1,99.9984
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\IMG_20211011_164702 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,99.9996
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_256.png,Ớt cay,Chili___Bacterial_spot,Chili___Bacterial_spot,Ớt cay,1,99.5775
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_5_IMG_20241103_214535_783.jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9673
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_3_20241028_153813.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.8727
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_812.jpg,Cà phê,Coffee___Rust,Coffee___Rust,Cà phê,1,99.9463
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\63f6ad32-28e1-459f-a8ab-100f52fc5a2c___JR_HL 7878.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.9995
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\27644d9c-5518-4df3-9391-16bc2cba20f8___Com.G_SpM_FL 1741.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,99.4626
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (21).jpg,Ngô,Corn___Blight,Corn___Common_rust,Ngô,0,70.3649
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_4_IMG_20211106_135050 (Custom).jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.9389
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\5d209c37-f93b-44f3-a0b6-1df6da4ca057___UF.GRC_YLCV_Lab 03353.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9992
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_127.jpg,Cà phê,Coffee___Phoma,Coffee___Rust,Cà phê,0,68.8208
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_814.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Bacterial_spot,Ớt cay,1,99.9127
+D:\DoanHMvUD\PlantVillage\Potato___Late_blight\84e85005-c647-4381-8762-c487074c9571___RS_LB 5186.JPG,Khoai tây,Potato___Late_blight,Potato___Late_blight,Khoai tây,1,99.9858
+D:\DoanHMvUD\PlantVillage\corndisease\Healthy\Corn_Health (340).jpg,Ngô,Corn___healthy,Corn___healthy,Ngô,1,99.9896
+D:\DoanHMvUD\PlantVillage\corndisease\Healthy\Corn_Health (1075).jpg,Ngô,Corn___healthy,Corn___healthy,Ngô,1,99.9664
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_6_IMG_20241103_214714_768.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.9795
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_467.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9998
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_1383.png,Ớt cay,Chili___Bacterial_spot,Chili___Bacterial_spot,Ớt cay,1,99.6725
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\4b5b48f8-7d82-400a-af7a-43f7804896c6___Com.G_TgS_FL 9762.JPG,Cà chua,Tomato__Target_Spot,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,0,73.6219
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\75631753-160d-48e2-ab6a-30649f66b044___Com.G_TgS_FL 8110.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,92.6651
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\20211011_162456 (Custom).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9986
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1577.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9998
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\c9fa4b23-358b-4df7-a457-79573e018906___GHLB2 Leaf 8870.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,99.9963
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_mosaic_virus\f12723c6-e944-4473-9cb1-19ba52417fe7___PSU_CG 2362.JPG,Cà chua,Tomato__Tomato_mosaic_virus,Tomato__Tomato_mosaic_virus,Cà chua,1,99.9994
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Powdery Mildew\aug_2_20211109_122343 (Custom).jpg,Xoài,Mango___Powdery_mildew,Mango___Powdery_mildew,Xoài,1,99.9946
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\5c3904f4-3df0-493b-a204-d57d1011004a___YLCV_GCREC 2766.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9994
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Anthracnose\anthracnose_55.jpg,Cao su,Rubber___Anthracnose,Rubber___Anthracnose,Cao su,1,99.8931
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\749e717c-f4d4-44ec-9265-1cb37aae66ca___UF.GRC_YLCV_Lab 02145.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.999
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\1af98b62-adaf-43d0-b4eb-83ab3f1ee084___RS_Late.B 4908.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,92.2563
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\a69cf9dd-83c8-4b5c-8cd2-dbcba3aa1eb7___UF.GRC_BS_Lab Leaf 8884.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,97.1453
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_4_20241028_151218.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.9726
+D:\DoanHMvUD\PlantVillage\Mango Dataset\die back\aug_4_20211129_161058 (Custom).jpg,Xoài,Mango___Die_back,Mango___Die_back,Xoài,1,99.9999
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (422).jpg,Ngô,Corn___Blight,Corn___Blight,Ngô,1,68.4011
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\e3dbf007-97df-47da-ad33-9e7a1b19eb04___JR_Sept.L.S 2632.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.995
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_1_IMG_20211108_121632 (Custom).jpg,Xoài,Mango___Sooty_mould,Mango___Sooty_mould,Xoài,1,99.9995
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_1_IMG-20241104-WA0191.jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,93.8093
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_486.jpg,Cà phê,Coffee___Phoma,Coffee___Phoma,Cà phê,1,99.9959
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\1d5d8433-3df8-4b82-9399-c139eaa3a8e6___YLCV_GCREC 1989.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9962
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\4803a0a5-ac23-431f-b792-d60a25a268bd___RS_Erly.B 9508.JPG,Cà chua,Tomato_Early_blight,Tomato_Late_blight,Cà chua,0,53.2137
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\551a9326-bcff-4651-a4e9-cb037ef8ca52___Com.G_TgS_FL 0864.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,99.958
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\d2e09fdd-8ee6-4cd1-8bd4-16124dc16962___JR_HL 7918.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.9916
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_733.jpg,Cà phê,Coffee___Phoma,Coffee___Phoma,Cà phê,1,95.0692
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\8b50f2db-cbf2-4758-bea6-a011f0cc1497___JR_B.Spot 3235.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,Ớt chuông,1,99.4704
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_3_20241028_160612.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.9301
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_5_IMG_20211106_161300 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.863
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\748290c1-48f9-46ab-bf30-70db00d1aa76___JR_Sept.L.S 2547.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.8201
+D:\DoanHMvUD\PlantVillage\Mango Dataset\die back\aug_1_20211129_162850 (Custom).jpg,Xoài,Mango___Die_back,Mango___Die_back,Xoài,1,99.9996
+D:\DoanHMvUD\PlantVillage\corndisease\Healthy\Corn_Health (1018).jpg,Ngô,Corn___healthy,Corn___healthy,Ngô,1,99.9969
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\e4739018-9e7b-4251-917f-c8502e8b5e86___RS_Erly.B 9443.JPG,Cà chua,Tomato_Early_blight,Tomato_Early_blight,Cà chua,1,99.8603
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_1_IMG-20241104-WA0119.jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,61.2557
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_602.jpg,Cà phê,Coffee___Rust,Coffee___Rust,Cà phê,1,99.2897
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\76b4f612-9baa-4144-8e9d-e5702493f905___Com.G_TgS_FL 8247.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,99.8043
+D:\DoanHMvUD\PlantVillage\Mango Dataset\die back\aug_4_20211129_164137 (Custom).jpg,Xoài,Mango___Die_back,Mango___Die_back,Xoài,1,100.0
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\820a7257-dc1d-46af-ba5a-b006c35fc1b1___JR_B.Spot 3116.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,Ớt chuông,1,99.9929
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_359.png,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,99.9647
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\b7103e2b-ef67-441b-b462-be6f0513dee0___JR_HL 8452.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.9728
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_5_IMG_20241103_214832_213.jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.996
+D:\DoanHMvUD\PlantVillage\Mango Dataset\die back\IMG_20211028_002750 (Custom).jpg,Xoài,Mango___Die_back,Mango___Die_back,Xoài,1,100.0
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\4adf8989-4cc7-4145-a1be-834e2e3ca9a8___GCREC_Bact.Sp 5671.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.9983
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_4_20241028_145954.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.9992
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_025.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9999
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\b1f047e9-a4c2-45c1-8861-d52828c1444d___GHLB2 Leaf 106.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,98.8233
+D:\DoanHMvUD\PlantVillage\Tomato_Leaf_Mold\2715ba21-6d2a-485a-bd10-ea6e8177250d___Crnl_L.Mold 6863.JPG,Cà chua,Tomato_Leaf_Mold,Tomato_Leaf_Mold,Cà chua,1,99.992
+D:\DoanHMvUD\PlantVillage\Tomato_Leaf_Mold\73045f6c-d0c7-43a3-a229-1f521a7ff33f___Crnl_L.Mold 8851.JPG,Cà chua,Tomato_Leaf_Mold,Tomato_Leaf_Mold,Cà chua,1,99.9895
+D:\DoanHMvUD\PlantVillage\Potato___Early_blight\d9303294-b0d9-4066-85d1-4ef58977b78e___RS_Early.B 7337.JPG,Khoai tây,Potato___Early_blight,Potato___Early_blight,Khoai tây,1,100.0
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Healthy\healthy_264.jpg,Cao su,Rubber___healthy,Rubber___healthy,Cao su,1,99.9982
+D:\DoanHMvUD\PlantVillage\rice_leaf_diseases\Bacterial leaf blight\DSC_0376.JPG,Lúa nước,Rice___Bacterial_leaf_blight,Rice___Bacterial_leaf_blight,Lúa nước,1,99.4992
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\0894c925-d193-412f-961d-d188b57ee337___GH_HL Leaf 393.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.9788
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\24336aa8-a0ad-404e-9669-3661d9920aec___GH_HL Leaf 435.1.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.9947
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_158.jpg,Cà phê,Coffee___Phoma,Coffee___Phoma,Cà phê,1,82.599
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_159.jpg,Cà phê,Coffee___Phoma,Coffee___Phoma,Cà phê,1,82.599
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\2b562d10-5ccf-4f20-aadc-2e1480bd303e___JR_B.Spot 3256.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,Ớt chuông,1,99.7879
+D:\DoanHMvUD\PlantVillage\Mango Dataset\die back\20211129_162050 (Custom).jpg,Xoài,Mango___Die_back,Mango___Die_back,Xoài,1,100.0
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Healthy\healthy_345.jpg,Cao su,Rubber___healthy,Rubber___healthy,Cao su,1,99.9999
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_1_IMG_20211106_162425 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.9969
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\b338fbbd-ec79-4807-be12-a5c678d1f78d___JR_B.Spot 8881.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,Ớt chuông,1,99.9998
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\7503d4d1-fa90-458d-8833-0550b8ce5f07___JR_HL 8694.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.9999
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_241.jpg,Cà phê,Coffee___Rust,Coffee___Phoma,Cà phê,0,51.4439
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_691.jpg,Cà phê,Coffee___Rust,Coffee___Rust,Cà phê,1,99.5669
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\a28aff2c-263a-4bb1-b858-3ca8eea1774c___JR_HL 8269.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.9998
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\356ff048-7937-4c55-b0d4-f831c7cb80e4___Com.G_TgS_FL 0680.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,97.5091
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_116.png,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,99.5376
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\8a4cf703-385a-4c50-9ce2-a751ae6334e1___RS_HL 9963.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.998
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\0a7f1993-85ae-4ba4-865b-df96bb0b52b4___YLCV_NREC 2416.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,100.0
+D:\DoanHMvUD\PlantVillage\Potato___Late_blight\b0eebb8f-c322-4b56-8897-2cc98d474440___RS_LB 5286.JPG,Khoai tây,Potato___Late_blight,Potato___Late_blight,Khoai tây,1,99.9998
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_256.jpg,Cà phê,Coffee___healthy,Coffee___healthy,Cà phê,1,99.9932
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_852.png,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,99.9937
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Dry_Leaf\dry_291.jpg,Cao su,Rubber___Dry_leaf,Rubber___Dry_leaf,Cao su,1,99.9999
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (617).JPG,Ngô,Corn___Common_rust,Corn___Common_rust,Ngô,1,99.9968
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_1136.jpg,Cà phê,Coffee___healthy,Coffee___healthy,Cà phê,1,99.9356
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\0576dd21-3958-46a5-ab99-f9865371bd1a___NREC_B.Spot 1957.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,Ớt chuông,1,99.9991
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\024dc5bb-7990-4256-b2b4-a8495b71cbd4___RS_Late.B 6064.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,99.3087
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_516.jpg,Cà phê,Coffee___Phoma,Coffee___Phoma,Cà phê,1,99.6147
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\e1cb3386-f090-4170-b8c1-d602d49583f8___Com.G_SpM_FL 1399.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,99.9194
+D:\DoanHMvUD\PlantVillage\Tomato_Leaf_Mold\aaac4e3a-fe49-435a-a933-e7099b3456a5___Crnl_L.Mold 9093.JPG,Cà chua,Tomato_Leaf_Mold,Tomato_Leaf_Mold,Cà chua,1,99.7386
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (389).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Gray_leaf_spot,Ngô,1,94.7303
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_821.jpg,Cà phê,Coffee___Phoma,Coffee___Phoma,Cà phê,1,99.9778
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Anthracnose\anthracnose_88.jpg,Cao su,Rubber___Anthracnose,Rubber___Anthracnose,Cao su,1,99.9062
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_mosaic_virus\faaab5c4-517e-4417-b471-fa1d762e35c4___PSU_CG 2173.JPG,Cà chua,Tomato__Tomato_mosaic_virus,Tomato__Tomato_mosaic_virus,Cà chua,1,99.9997
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_2_20241028_150154.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.9703
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (941).JPG,Ngô,Corn___Common_rust,Corn___Common_rust,Ngô,1,99.998
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\431d6abc-9adb-4454-a3c6-e6b6a3ec79db___GCREC_Bact.Sp 6045.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.9979
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\eecaf451-abc4-4079-b612-f6a15d95ca6e___JR_B.Spot 3398.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,Ớt chuông,1,99.9457
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_367.jpg,Cà phê,Coffee___Phoma,Coffee___Phoma,Cà phê,1,99.9849
+D:\DoanHMvUD\PlantVillage\Tomato_Leaf_Mold\73f77cb0-f4ee-4500-ac3f-2cd6c79585ed___Crnl_L.Mold 7000.JPG,Cà chua,Tomato_Leaf_Mold,Tomato_Leaf_Mold,Cà chua,1,100.0
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\IMG_20211106_161442 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.9995
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_1405.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.9991
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_838.jpg,Cà phê,Coffee___Rust,Coffee___Rust,Cà phê,1,99.8592
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\5e4d96fa-4eec-4d95-a3a2-6d6afbc5a004___Com.G_SpM_FL 9496.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,99.7981
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\a8ef94be-07d4-45ed-82de-d2070f14861a___JR_Sept.L.S 2554.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.9996
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_1_IMG_20211011_164036 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,99.9879
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Healthy\aug_3_20211231_124322 (Custom).jpg,Xoài,Mango___healthy,Mango___healthy,Xoài,1,99.9967
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\8e605b54-e83c-4f6c-b9ab-b61d37cefeac___UF.GRC_YLCV_Lab 03245.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9939
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_2_IMG_20211011_161628 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,99.9998
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\e0d0a755-6ed0-4cf1-b35d-87547f87a17a___JR_HL 8565.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.9989
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_5_20211011_162419 (Custom).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9605
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (1214).JPG,Ngô,Corn___Common_rust,Corn___Common_rust,Ngô,1,99.9996
+D:\DoanHMvUD\PlantVillage\Tomato_Leaf_Mold\076334e5-f0a2-4f7a-b936-02a89ddd0cf5___Crnl_L.Mold 8857.JPG,Cà chua,Tomato_Leaf_Mold,Tomato_Leaf_Mold,Cà chua,1,99.9962
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\1ea67ad6-cd45-45f3-a5a0-30474042f0fc___Com.G_SpM_FL 9389.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,99.9642
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_365.png,Ớt cay,Chili___Bacterial_spot,Chili___Bacterial_spot,Ớt cay,1,99.9389
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_5_IMG_20211106_161400 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.9796
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_7_IMG_20211106_135426 (Custom).jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.8856
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\2bdecb58-7e31-4129-83ff-125b7a31c0f6___RS_Erly.B 9506.JPG,Cà chua,Tomato_Early_blight,Tomato_Early_blight,Cà chua,1,99.4122
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Powdery Mildew\20211109_121929 (Custom).jpg,Xoài,Mango___Powdery_mildew,Mango___Powdery_mildew,Xoài,1,99.9997
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_59.jpg,Cà phê,Coffee___Rust,Coffee___Rust,Cà phê,1,85.7744
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\bd0f06fb-1f9a-4de8-8c96-926d312cea27___RS_Erly.B 7603.JPG,Cà chua,Tomato_Early_blight,Tomato_Early_blight,Cà chua,1,99.448
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_1_IMG_20211106_163908 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,95.2227
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Powdery Mildew\aug_3_20211109_121900 (Custom).jpg,Xoài,Mango___Powdery_mildew,Mango___Powdery_mildew,Xoài,1,99.9934
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (1255).JPG,Ngô,Corn___Common_rust,Corn___Common_rust,Ngô,1,99.9998
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1870.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9422
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Healthy\aug_4_20211231_124210 (Custom).jpg,Xoài,Mango___healthy,Mango___healthy,Xoài,1,99.9824
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\5e8c40ac-42c2-47da-87d4-c136216c6bea___GHLB_PS Leaf 49 Day 18.jpg,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,99.97
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (860).JPG,Ngô,Corn___Blight,Corn___Blight,Ngô,1,99.8842
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\33a87165-b88b-4396-a327-4c5e1fa8022f___YLCV_GCREC 5200.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9889
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (885).JPG,Ngô,Corn___Common_rust,Corn___Common_rust,Ngô,1,99.9612
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\f15cec7f-fe4f-4837-a3f0-1ec2bceaa10d___UF.GRC_BS_Lab Leaf 0226.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.749
+D:\DoanHMvUD\PlantVillage\corndisease\Healthy\Corn_Health (920).jpg,Ngô,Corn___healthy,Corn___healthy,Ngô,1,99.9998
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_943.jpg,Cà phê,Coffee___Rust,Coffee___Rust,Cà phê,1,99.9704
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\afaca2fc-774c-4401-9915-e7493f89a72a___GHLB2 Leaf 114.1.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,98.9952
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\7f9211d8-d3f6-4b8e-917c-0cd74a77bc42___GCREC_Bact.Sp 6276.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.6971
+D:\DoanHMvUD\PlantVillage\Potato___Late_blight\59dcc102-c55f-4a13-991e-8c53db4ce76d___RS_LB 5189.JPG,Khoai tây,Potato___Late_blight,Potato___Late_blight,Khoai tây,1,99.9935
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1205.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,100.0
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_3_20241028_154555.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.6539
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_1225.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.998
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Dry_Leaf\dry_349.jpg,Cao su,Rubber___Dry_leaf,Rubber___Dry_leaf,Cao su,1,99.9998
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_7_IMG_20241103_214701_509.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.9975
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_1_20211011_161828 (Custom).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9975
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_689.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Bacterial_spot,Ớt cay,1,76.9808
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\b9f908ad-b621-476a-9d0f-bc7ca4f0f7da___JR_Sept.L.S 2584.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.89
+D:\DoanHMvUD\PlantVillage\Potato___Early_blight\78071f69-3d02-4576-bd46-28732dd528aa___RS_Early.B 9228.JPG,Khoai tây,Potato___Early_blight,Potato___Early_blight,Khoai tây,1,99.9999
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Powdery Mildew\aug_2_20211109_122002 (Custom).jpg,Xoài,Mango___Powdery_mildew,Mango___Powdery_mildew,Xoài,1,99.9999
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\3816382b-fc42-4661-b2fe-de651d2ca2ba___Com.G_SpM_FL 9294.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,99.9449
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\7b371f7e-a8de-4b89-812d-0526237a6fea___JR_B.Spot 3404.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,Ớt chuông,1,99.9466
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_5_IMG_20211108_121652 (Custom).jpg,Xoài,Mango___Sooty_mould,Mango___Sooty_mould,Xoài,1,99.9988
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_563.png,Ớt cay,Chili___Bacterial_spot,Chili___Bacterial_spot,Ớt cay,1,99.8958
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\2e7bcbb2-4e05-4b27-aebc-1e442eb58268___JR_HL 8514.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.9972
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_1_IMG_20211108_121926 (Custom).jpg,Xoài,Mango___Sooty_mould,Mango___Sooty_mould,Xoài,1,99.9943
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\506f85e7-6f27-40e2-bb9c-5ddb6f35a787___RS_Erly.B 8406.JPG,Cà chua,Tomato_Early_blight,Tomato_Early_blight,Cà chua,1,99.9592
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_5_IMG_20211108_122530 (Custom).jpg,Xoài,Mango___Sooty_mould,Mango___Sooty_mould,Xoài,1,99.9747
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_1456.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.98
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Healthy\aug_5_20211231_161035 (Custom).jpg,Xoài,Mango___healthy,Mango___healthy,Xoài,1,100.0
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\IMG_20211106_163010 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.9999
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\e0837534-7480-4ba7-8f04-34f232f76008___Com.G_SpM_FL 8565.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,99.9965
+D:\DoanHMvUD\PlantVillage\Potato___Early_blight\83f244c6-e33e-4fbb-a9ef-3996cd25a547___RS_Early.B 8700.JPG,Khoai tây,Potato___Early_blight,Potato___Early_blight,Khoai tây,1,99.7632
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\94e7e9be-2df8-4d15-908b-043a6d76853b___YLCV_GCREC 5174.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9986
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (243).JPG,Ngô,Corn___Common_rust,Corn___Common_rust,Ngô,1,99.9894
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_1065.jpg,Cà phê,Coffee___Phoma,Coffee___Phoma,Cà phê,1,99.9192
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\3fdbfdf3-ae31-49eb-8012-04cb4d3fc051___NREC_B.Spot 1973.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,Ớt chuông,1,100.0
+D:\DoanHMvUD\PlantVillage\Potato___Late_blight\be6b5fab-c3de-4d33-b7fc-87bf794d8705___RS_LB 4850.JPG,Khoai tây,Potato___Late_blight,Potato___Late_blight,Khoai tây,1,99.9998
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_1_20241028_161833.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.9895
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_4_20241027_144320.jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9941
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_5_IMG_20211106_164027 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.9978
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\fcfe91fc-c578-4c6d-8fe4-b8ff4cfdb766___GHLB2 Leaf 75.1.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,99.9395
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_558.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9973
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\e5b81597-d794-40e5-8f14-0b5792c4a680___RS_Late.B 6757.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,99.9451
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\IMG_20241103_214848_542.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.4163
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Leaf_Spot\leaf_spot_110.jpg,Cao su,Rubber___Leaf_spot,Rubber___Leaf_spot,Cao su,1,99.9929
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\90e48fa5-fa6d-4408-84db-cc5a53315b1f___JR_HL 7902.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,96.9464
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_226.jpg,Cà phê,Coffee___Phoma,Coffee___Phoma,Cà phê,1,98.3671
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_978.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.9999
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_316.png,Ớt cay,Chili___Bacterial_spot,Chili___Bacterial_spot,Ớt cay,1,99.9413
+D:\DoanHMvUD\PlantVillage\Mango Dataset\die back\aug_4_20211129_164303 (Custom).jpg,Xoài,Mango___Die_back,Mango___Die_back,Xoài,1,100.0
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_2_20211011_160625 (Custom).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9994
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\10da71b1-049d-4d99-babb-0270692f7641___UF.GRC_YLCV_Lab 01681.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9343
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (505).JPG,Ngô,Corn___Common_rust,Corn___Common_rust,Ngô,1,99.9937
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1825.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9346
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\20211011_161544 (Custom).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9992
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\810258c9-5ae1-4893-a29b-606db35f3fb0___UF.GRC_YLCV_Lab 02627.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9982
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\722659bb-4ce3-4f02-9799-8adb171d194f___JR_Sept.L.S 8511.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.9892
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_668.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9995
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\7d65cfe5-fc9b-48d2-817f-79ad914bae38___YLCV_NREC 0306.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.999
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Powdery Mildew\aug_1_IMG_20211107_122453 (Custom).jpg,Xoài,Mango___Powdery_mildew,Mango___Powdery_mildew,Xoài,1,99.9997
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_3_20241028_153520.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.8921
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Powdery Mildew\aug_4_IMG_20211107_115508 (Custom).jpg,Xoài,Mango___Powdery_mildew,Mango___Powdery_mildew,Xoài,1,99.9907
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\8ce8a9a0-3f3a-4a42-b5b0-1b2221af3d2a___Com.G_TgS_FL 9811.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,98.991
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\7aaadf3c-f135-450a-85de-138061ea76ee___JR_Sept.L.S 2516.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.7617
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\0730f5a3-7001-4d2c-9949-5633c30ce3a5___Com.G_SpM_FL 8809.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,99.8509
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (17).jpg,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,99.2925
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\abb40b01-9ffd-4dd8-b46a-371a115110ea___JR_Sept.L.S 8358.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato__Target_Spot,Cà chua,0,47.1494
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (706).JPG,Ngô,Corn___Blight,Corn___Blight,Ngô,1,99.0015
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\3726eff6-547d-411e-bc00-f8b533d067e3___RS_Erly.B 6494.JPG,Cà chua,Tomato_Early_blight,Tomato_Early_blight,Cà chua,1,99.9631
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Powdery Mildew\aug_2_20211109_122035 (Custom).jpg,Xoài,Mango___Powdery_mildew,Mango___Powdery_mildew,Xoài,1,99.9997
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\c2d782db-6a77-4ab8-bd0a-c0ca6c2bec7e___GCREC_Bact.Sp 3263.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.9904
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\a4bba0de-ed14-417b-9080-5aabf9c5d451___JR_Sept.L.S 8401.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.8619
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_6_IMG_20211106_162849 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.996
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_2_20241028_150129.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.8255
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\dd52a1b4-1d20-4417-96c9-48baac62f15b___RS_Late.B 5202.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,98.5318
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_4_IMG_20211011_164644 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,99.9996
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_2_20211011_162530(0) (Custom) (Custom).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9897
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_1_IMG_20211011_140433 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,99.9982
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_1_IMG_20211008_113736 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,99.9979
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Powdery Mildew\aug_3_IMG_20211107_120151 (Custom).jpg,Xoài,Mango___Powdery_mildew,Mango___Powdery_mildew,Xoài,1,100.0
+D:\DoanHMvUD\PlantVillage\Mango Dataset\die back\aug_2_20211129_162244 (Custom).jpg,Xoài,Mango___Die_back,Mango___Die_back,Xoài,1,99.9999
+D:\DoanHMvUD\PlantVillage\Potato___healthy\dbe4f332-9189-4b76-b30c-f0c9a55e48d3___RS_HL 1841.JPG,Khoai tây,Potato___healthy,Potato___healthy,Khoai tây,1,99.9776
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_644.jpg,Ớt cay,Chili___Bacterial_spot,Chili___Bacterial_spot,Ớt cay,1,59.911
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_5_IMG_20241103_214646_965.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.9907
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_745.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9925
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_mosaic_virus\02cb8c4e-4542-4020-bb46-025de54d97ae___PSU_CG 2098.JPG,Cà chua,Tomato__Tomato_mosaic_virus,Tomato__Tomato_mosaic_virus,Cà chua,1,99.9986
+D:\DoanHMvUD\PlantVillage\Potato___Early_blight\691161ad-7897-4654-a7bc-14d8b5839621___RS_Early.B 6976.JPG,Khoai tây,Potato___Early_blight,Potato___Early_blight,Khoai tây,1,99.9944
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\206708e1-3916-4b23-890c-eb77d3b23728___JR_HL 8431.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.9924
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_4_20211011_161418(0) (Custom) (1).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9944
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Healthy\healthy_175.jpg,Cao su,Rubber___healthy,Rubber___healthy,Cao su,1,99.9858
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_3_IMG_20241103_214729_524.jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9695
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_1144.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.9971
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\2b8306e4-7898-4f27-b659-b0061c4c3832___RS_HL 0440.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.9991
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Healthy\aug_3_20211231_155015 (Custom).jpg,Xoài,Mango___healthy,Mango___healthy,Xoài,1,99.9936
+D:\DoanHMvUD\PlantVillage\corndisease\Healthy\Corn_Health (784).jpg,Ngô,Corn___healthy,Corn___healthy,Ngô,1,99.9984
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_1_IMG_20211011_162059 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,100.0
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\423ec8f2-4225-45e8-a085-8e017fb49df5___UF.GRC_YLCV_Lab 01687.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9798
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\7e2dddcf-d20a-4bd9-a79d-69c12872c24d___YLCV_GCREC 2626.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9999
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\9b617d8b-b252-4a29-9af5-10ea563eb785___RS_Erly.B 7707.JPG,Cà chua,Tomato_Early_blight,Tomato_Early_blight,Cà chua,1,99.605
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_4_20211011_170540 (Custom) (Custom).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9448
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\ef5f4371-8cb7-4eff-900e-7290201af53e___JR_Sept.L.S 8393.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.7246
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\d9787ae7-82d5-4447-97ad-32a9dbb3866f___Com.G_SpM_FL 1166.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,99.9289
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Leaf_Spot\leaf_spot_150.jpg,Cao su,Rubber___Leaf_spot,Rubber___Leaf_spot,Cao su,1,99.9996
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\20211011_162523(0) (Custom).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9997
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_805.jpg,Cà phê,Coffee___Rust,Coffee___Rust,Cà phê,1,98.4018
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\639816b9-94ca-4c14-b698-ee7d2da58e28___UF.GRC_YLCV_Lab 02235.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9499
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Healthy\aug_2_20211231_160327 (Custom).jpg,Xoài,Mango___healthy,Mango___healthy,Xoài,1,99.9979
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_4_IMG_20241103_214618_047 (1).jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.986
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\33e05db1-0a59-49f4-b4e3-52b52ca31a14___GHLB2 Leaf 155.1.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,91.9871
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\52a7b480-2795-4a77-b301-1df31e4e4718___GCREC_Bact.Sp 6118.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.9517
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_053.png,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,99.9891
+D:\DoanHMvUD\PlantVillage\corndisease\Healthy\Corn_Health (153).jpg,Ngô,Corn___healthy,Corn___healthy,Ngô,1,99.9922
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_7_IMG_20241103_214843_839.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.9082
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_1_IMG_20211106_162744 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.9997
+D:\DoanHMvUD\PlantVillage\Potato___Late_blight\5fe37f29-fe15-42ac-93b5-90aa5337bd55___RS_LB 2514.JPG,Khoai tây,Potato___Late_blight,Potato___Late_blight,Khoai tây,1,98.3745
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_126.jpg,Cà phê,Coffee___Rust,Coffee___Rust,Cà phê,1,97.1959
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Powdery Mildew\aug_1_IMG_20211107_121310 (Custom).jpg,Xoài,Mango___Powdery_mildew,Mango___Powdery_mildew,Xoài,1,99.9987
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (169).JPG,Ngô,Corn___Common_rust,Corn___Common_rust,Ngô,1,99.997
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_421.jpg,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,97.9783
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_409.png,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,99.9974
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\a154b0c0-ad46-47ec-b9f4-50a4ee625849___RS_HL 9827.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.9972
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\c2327b45-3e5f-4f36-8f5b-2146c89d446d___RS_Late.B 6343.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,99.9283
+D:\DoanHMvUD\PlantVillage\rice_leaf_diseases\Brown spot\DSC_0107.jpg,Lúa nước,Rice___Brown_spot,Rice___Brown_spot,Lúa nước,1,99.0646
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_mosaic_virus\a4453e9a-4ede-4377-be38-fd77e9bf16f0___PSU_CG 2308.JPG,Cà chua,Tomato__Tomato_mosaic_virus,Tomato__Tomato_mosaic_virus,Cà chua,1,99.9976
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_201.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.9166
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_736.jpg,Cà phê,Coffee___Rust,Coffee___Rust,Cà phê,1,99.7391
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\7cb20744-6c1f-481a-aa39-6f502ba0bfc4___Keller.St_CG 1971.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.9994
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1612.jpg,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,99.1132
+D:\DoanHMvUD\PlantVillage\Tomato_Leaf_Mold\d568ebda-a7c9-43dc-8afe-41778448d54a___Crnl_L.Mold 6696.JPG,Cà chua,Tomato_Leaf_Mold,Tomato_Leaf_Mold,Cà chua,1,99.9994
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\4523ca34-56f9-467b-9194-a297cf47e09a___GCREC_Bact.Sp 3854.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.9967
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (346).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Gray_leaf_spot,Ngô,1,97.4122
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_484.png,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,99.9981
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\a7c57992-340e-47f6-9ed4-31a0df3490e8___JR_Sept.L.S 2715.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.8838
+D:\DoanHMvUD\PlantVillage\Potato___healthy\1f9870b3-899e-46fb-98c9-cfc2ce92895b___RS_HL 1816.JPG,Khoai tây,Potato___healthy,Potato___healthy,Khoai tây,1,99.9776
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_226.jpg,Cà phê,Coffee___healthy,Coffee___healthy,Cà phê,1,99.9962
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_1564.png,Ớt cay,Chili___Bacterial_spot,Chili___Bacterial_spot,Ớt cay,1,99.8574
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\34c81c57-e1fa-49dd-a49d-34fe8b2385fe___GH_HL Leaf 466.1.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.9993
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1869.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,52.9023
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Leaf_Spot\leaf_spot_468.jpg,Cao su,Rubber___Leaf_spot,Rubber___Leaf_spot,Cao su,1,99.9995
+D:\DoanHMvUD\PlantVillage\Potato___Early_blight\60418916-8278-448a-af45-21ee8ef60a95___RS_Early.B 7957.JPG,Khoai tây,Potato___Early_blight,Potato___Early_blight,Khoai tây,1,99.9999
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\c4e95382-4bc7-4271-89ba-889f1dc55a2b___GHLB2 Leaf 9093.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,99.8368
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (1056).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,71.2878
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_2_20211011_165922 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,99.9998
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_142.jpg,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,44.6451
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\514c4d20-c1a2-49bd-9ebe-3e76e9f4aa2c___YLCV_GCREC 5215.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,100.0
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\a36dc1d6-a057-4a87-bd51-ac663666ae14___Com.G_SpM_FL 1465.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,88.0273
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_3_20211011_162530(0) (Custom) (Custom).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9983
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_5_20211011_161627 (Custom).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9802
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\IMG_20211108_121019 (Custom).jpg,Xoài,Mango___Sooty_mould,Mango___Sooty_mould,Xoài,1,99.9995
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_839.jpg,Cà phê,Coffee___healthy,Coffee___healthy,Cà phê,1,99.9989
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\916d0944-bcd8-42c4-879d-4a36cf68fa5e___YLCV_GCREC 2297.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9933
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_543.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9973
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_556.png,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,99.9751
+D:\DoanHMvUD\PlantVillage\Potato___Early_blight\610fd102-fd1b-45c3-978b-68c65d432382___RS_Early.B 7819.JPG,Khoai tây,Potato___Early_blight,Potato___Early_blight,Khoai tây,1,100.0
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\5025cbd9-e9e6-4c16-a9c8-b915a5e30f13___RS_Late.B 7009.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,98.9799
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\79a7c962-7360-413b-bbfd-099bf13e147e___YLCV_NREC 2256.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9785
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_3_20211011_133438 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,99.9986
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\2bf8e05e-8a65-4cf7-8171-3013044c1e9c___JR_HL 8209.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.9944
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\95379b0d-f7b4-4f9c-8eb4-860556e2eabb___Com.G_SpM_FL 1621.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,99.7604
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_735.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9981
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (982).JPG,Ngô,Corn___Common_rust,Corn___Common_rust,Ngô,1,99.9643
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_358.jpg,Cà phê,Coffee___Rust,Coffee___Rust,Cà phê,1,91.9108
+D:\DoanHMvUD\PlantVillage\Potato___Early_blight\37d94308-8783-4657-9ca6-eaca86e1015a___RS_Early.B 7825.JPG,Khoai tây,Potato___Early_blight,Potato___Early_blight,Khoai tây,1,99.9996
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\83825263-0e8f-4e27-a6e2-b432323efe49___JR_HL 7593.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.9894
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\8da4b5fb-fee2-437e-9544-6c9f4ed0ed1e___UF.GRC_YLCV_Lab 02080.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9993
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_1194.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.9896
+D:\DoanHMvUD\PlantVillage\Potato___healthy\45bc0b37-ca59-4a89-8531-705af42a6fd5___RS_HL 1946.JPG,Khoai tây,Potato___healthy,Potato___healthy,Khoai tây,1,99.9735
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\c17bbdf8-c589-44bc-a805-6dec51568733___GH_HL Leaf 402.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.9979
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\e601dd19-754a-4db4-926b-5e71609f628e___GCREC_Bact.Sp 3342.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.9811
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_3_IMG_20241103_214905_653.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,89.4024
+D:\DoanHMvUD\PlantVillage\chileleaf\Bacterial_Spot\Bacterial_Spot_1194.png,Ớt cay,Chili___Bacterial_spot,Chili___Bacterial_spot,Ớt cay,1,99.9957
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_3_IMG_20211106_161435 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.9599
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_6_IMG-20241104-WA0106.jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.9979
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\55d4f7b2-17d3-4987-92fe-6aff1a8c4f3a___RS_Erly.B 7558.JPG,Cà chua,Tomato_Early_blight,Tomato_Early_blight,Cà chua,1,100.0
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_013.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9999
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\9d742c04-bb79-470d-b924-2dce2506d055___Com.G_SpM_FL 1546.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,98.7535
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_504.png,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,99.9928
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1426.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9998
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\6e8def24-a55a-464e-88a3-624075de0cf1___GCREC_Bact.Sp 2952.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.9991
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_4_20211011_134117 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,100.0
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_mosaic_virus\eeeb214a-2f7d-4e91-991f-003a3a9508be___PSU_CG 2078.JPG,Cà chua,Tomato__Tomato_mosaic_virus,Tomato__Tomato_mosaic_virus,Cà chua,1,99.9914
+D:\DoanHMvUD\PlantVillage\corndisease\Healthy\Corn_Health (682).jpg,Ngô,Corn___healthy,Corn___healthy,Ngô,1,99.995
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_5_20211011_161418(0) (Custom) (1).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9962
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_239.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.794
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\9b50c55a-466c-4f71-8260-cd69394912ff___Com.G_TgS_FL 0703.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,97.6352
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_2_IMG_20211011_153604 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,99.9847
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_3_IMG_20211011_165851 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,100.0
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Anthracnose\anthracnose_50.jpg,Cao su,Rubber___Anthracnose,Rubber___Anthracnose,Cao su,1,99.976
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_530.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.9417
+D:\DoanHMvUD\PlantVillage\Potato___Late_blight\cf336796-9b96-4156-adc4-6fbeaebf2a6a___RS_LB 3207.JPG,Khoai tây,Potato___Late_blight,Potato___Late_blight,Khoai tây,1,99.9845
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (415).JPG,Ngô,Corn___Common_rust,Corn___Common_rust,Ngô,1,100.0
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\9965b863-cf76-4d26-91a4-9681fbdd3ceb___Com.G_TgS_FL 8156.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,99.8704
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\09ea6962-1c6a-46c5-9948-013f8f7ee101___YLCV_NREC 2808.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9675
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_1_IMG_20241103_214736_922.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,96.7168
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\4e784c6d-82f9-4c33-8e43-21ae676f699b___UF.GRC_YLCV_Lab 01845.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9965
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\058832c8-adaa-4353-b792-93c9b0ea1c72___JR_HL 5931.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.9938
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\85079132-5a03-4f38-a5be-46af26d521f5___GCREC_Bact.Sp 3772.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.9775
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\0b126ce6-af82-477f-8f4e-1de79d84a6dd___Com.G_TgS_FL 8294.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,93.2668
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\75fbe8d1-9d11-4039-9973-ba2599641426___UF.GRC_YLCV_Lab 02548.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9972
+D:\DoanHMvUD\PlantVillage\Potato___Late_blight\dc289122-aa0d-454b-b617-16824440fce4___RS_LB 2959.JPG,Khoai tây,Potato___Late_blight,Potato___Late_blight,Khoai tây,1,99.9993
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\c9c8854f-00f2-4bec-b263-f03354f58114___RS_Late.B 6997.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,99.5785
+D:\DoanHMvUD\PlantVillage\Mango Dataset\die back\aug_3_20211129_161512 (Custom).jpg,Xoài,Mango___Die_back,Mango___Die_back,Xoài,1,100.0
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\bd18b0d8-3ee7-4c96-a2d4-cf8db766c047___GH_HL Leaf 498.2.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.8893
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_6_20241028_151212.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.9926
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_1_IMG_20211108_120804 (Custom).jpg,Xoài,Mango___Sooty_mould,Mango___Sooty_mould,Xoài,1,99.8788
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_5_20211011_161424 (Custom) (Custom).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9978
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_1683.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9973
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\4bc2aee8-39cb-4d93-a92f-eb193d4a9624___YLCV_NREC 2449.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,100.0
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_43.jpg,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,97.9927
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_1012.jpg,Cà phê,Coffee___Phoma,Coffee___Phoma,Cà phê,1,98.3373
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (98).jpg,Ngô,Corn___Blight,Corn___Blight,Ngô,1,99.959
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\IMG_20211106_162952 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.998
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Healthy\aug_2_20211231_161436 (Custom).jpg,Xoài,Mango___healthy,Mango___healthy,Xoài,1,99.9983
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_2_IMG_20241103_214810_811.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.9799
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Dry_Leaf\dry_88.jpg,Cao su,Rubber___Dry_leaf,Rubber___Dry_leaf,Cao su,1,99.9996
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\cb3ab315-c340-469c-8291-abe02183b05a___RS_HL 0161.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.9975
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\1385e1e7-c7a5-4edb-8273-2f6a54c583fa___NREC_B.Spot 9128.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,Ớt chuông,1,100.0
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_6_20241028_150154.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.9592
+D:\DoanHMvUD\PlantVillage\Tomato_Leaf_Mold\cbcf61e4-9a69-4483-9252-ae649102fb63___Crnl_L.Mold 6858.JPG,Cà chua,Tomato_Leaf_Mold,Tomato_Leaf_Mold,Cà chua,1,100.0
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\82946234-504f-4bc0-b98e-ec8d2bbfc2d4___Matt.S_CG 7715.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,71.218
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\phoma\2300_1030.jpg,Cà phê,Coffee___Phoma,Coffee___Phoma,Cà phê,1,99.8735
+D:\DoanHMvUD\PlantVillage\Potato___healthy\57e262fc-e0ba-44db-a967-5ba6f1826e49___RS_HL 1897.JPG,Khoai tây,Potato___healthy,Potato___healthy,Khoai tây,1,99.7034
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\0184dc6b-bfc1-4515-ac59-bbadaf524e1a___GH_HL Leaf 422.1.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.9975
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_1058.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.9824
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_681.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.7215
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_956.png,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,99.9105
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_1091.jpg,Cà phê,Coffee___healthy,Coffee___healthy,Cà phê,1,99.8453
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\1df9cbc2-e14f-4cf8-8ce0-fead77aad080___JR_HL 5855.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.9956
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\8c53833e-df06-4326-adfb-0395949b3c61___YLCV_NREC 0120.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9996
+D:\DoanHMvUD\PlantVillage\corndisease\Blight\Corn_Blight (695).JPG,Ngô,Corn___Blight,Corn___Gray_leaf_spot,Ngô,0,89.0874
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\301d485a-0ee5-46a8-89fd-30f8165dae18___Com.G_SpM_FL 8510.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,99.9963
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_164.jpg,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.7337
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\00a7c269-3476-4d25-b744-44d6353cd921___GCREC_Bact.Sp 5807.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.9874
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_3_IMG_20211106_140710 (Custom).jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.9892
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\edd2f1b0-cf20-4328-9e7e-e132f7f4a1bb___Com.G_SpM_FL 1561.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,99.9757
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_1569.jpg,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,73.1384
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_255.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.9833
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_838.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,99.9986
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_5_IMG_20211011_162801 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,100.0
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\aug_5_20211011_162523 (Custom) (Custom).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9986
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Leaf_Spot\leaf_spot_185.jpg,Cao su,Rubber___Leaf_spot,Rubber___Leaf_spot,Cao su,1,99.9803
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\IMG_20241103_214752_248.jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.8757
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_56.jpg,Cà phê,Coffee___healthy,Coffee___healthy,Cà phê,1,99.9999
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_1034.jpg,Cà phê,Coffee___healthy,Coffee___healthy,Cà phê,1,99.9976
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\39e48a24-3108-482a-89b8-447645e2f5db___YLCV_NREC 2515.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9755
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_3_IMG_20211011_161702 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,99.9996
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Cutting Weevil\20211011_161931 (Custom).jpg,Xoài,Mango___Cutting_weevil,Mango___Cutting_weevil,Xoài,1,99.9944
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\0e09d4f6-8101-4913-b543-1df3510793a0___YLCV_GCREC 2618.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9997
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_7_IMG_20211106_161118 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.9931
+D:\DoanHMvUD\PlantVillage\Tomato_Leaf_Mold\c7f4b724-0adc-4290-b02f-0cda8d148c73___Crnl_L.Mold 8830.JPG,Cà chua,Tomato_Leaf_Mold,Tomato_Leaf_Mold,Cà chua,1,100.0
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\d55856f3-d983-4722-87bf-8cc294623355___Com.G_SpM_FL 1308.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,99.9949
+D:\DoanHMvUD\PlantVillage\Pepper__bell___Bacterial_spot\22a8af9b-34c3-447d-bd82-559f7d2206af___JR_B.Spot 3289.JPG,Ớt chuông,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,Ớt chuông,1,99.8641
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_110.jpg,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,97.9174
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_534.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.8928
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_908.jpg,Cà phê,Coffee___Rust,Coffee___Rust,Cà phê,1,99.8267
+D:\DoanHMvUD\PlantVillage\chileleaf\Cercospora_Leaf_Spot\Cercospora Leaf Spot_621.jpg,Ớt cay,Chili___Cercospora_leaf_spot,Chili___Cercospora_leaf_spot,Ớt cay,1,100.0
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_3_IMG_20211106_161408 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.9689
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_1_IMG-20241104-WA0238.jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.8155
+D:\DoanHMvUD\PlantVillage\Tomato_healthy\647d15d1-5520-458d-92a4-bd647bbccb90___RS_HL 9934.JPG,Cà chua,Tomato_healthy,Tomato_healthy,Cà chua,1,99.9967
+D:\DoanHMvUD\PlantVillage\Mango Dataset\die back\20211129_160615 (Custom).jpg,Xoài,Mango___Die_back,Mango___Die_back,Xoài,1,100.0
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_3_IMG_20211011_162822 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,99.9999
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\432a3897-5e80-45d6-b795-4fa206a58e26___JR_HL 8595.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.9999
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\0e763e60-8821-4484-9793-f8ee4f515127___Com.G_TgS_FL 8135.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,99.9931
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Healthy\healthy_491.jpg,Cao su,Rubber___healthy,Rubber___healthy,Cao su,1,99.9996
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\a7132fc4-1fd0-4848-9514-381a60edc288___Com.G_TgS_FL 8157.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,99.9258
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Dry_Leaf\dry_144.jpg,Cao su,Rubber___Dry_leaf,Rubber___Dry_leaf,Cao su,1,100.0
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\9c84ba58-c218-481c-844c-ef562860a15a___Com.G_TgS_FL 0954.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,99.9933
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\e6a975f7-b2f0-4dec-b360-c944abd984da___GCREC_Bact.Sp 3249.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.9918
+D:\DoanHMvUD\PlantVillage\Tomato_Leaf_Mold\c02f3863-3012-4f3a-873e-8003d73a54f9___Crnl_L.Mold 6520.JPG,Cà chua,Tomato_Leaf_Mold,Tomato_Leaf_Mold,Cà chua,1,99.9995
+D:\DoanHMvUD\PlantVillage\Tomato_Septoria_leaf_spot\b06560a7-6ad1-438a-8ea2-badfe58a5f1e___Matt.S_CG 1250.JPG,Cà chua,Tomato_Septoria_leaf_spot,Tomato_Septoria_leaf_spot,Cà chua,1,99.9038
+D:\DoanHMvUD\PlantVillage\Tomato_Spider_mites_Two_spotted_spider_mite\0100e504-f6bc-464a-a181-38262117f30a___Com.G_SpM_FL 1202.JPG,Cà chua,Tomato_Spider_mites_Two_spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,Cà chua,1,99.9963
+D:\DoanHMvUD\PlantVillage\Mango Dataset\die back\aug_2_20211129_162345 (Custom).jpg,Xoài,Mango___Die_back,Mango___Die_back,Xoài,1,100.0
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_mosaic_virus\aab31aa2-ac8f-46a1-9b9b-7b728a776e8d___PSU_CG 2250.JPG,Cà chua,Tomato__Tomato_mosaic_virus,Tomato__Tomato_mosaic_virus,Cà chua,1,99.9995
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Sooty Mould\aug_2_IMG_20211108_122056 (Custom).jpg,Xoài,Mango___Sooty_mould,Mango___Sooty_mould,Xoài,1,99.9975
+D:\DoanHMvUD\PlantVillage\Rubber_Leaf_Dataset\Raw_Dataset\Leaf_Spot\leaf_spot_455.jpg,Cao su,Rubber___Leaf_spot,Rubber___Leaf_spot,Cao su,1,99.9876
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\90ede7d6-c45b-4a97-8e77-9e8f66206418___RS_Erly.B 9581.JPG,Cà chua,Tomato_Early_blight,Tomato_Early_blight,Cà chua,1,99.7648
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_4_IMG_20211011_153442 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,99.9897
+D:\DoanHMvUD\PlantVillage\Potato___Early_blight\8ee79bf1-78d0-4c93-b42c-301d54e64f41___RS_Early.B 8388.JPG,Khoai tây,Potato___Early_blight,Potato___Early_blight,Khoai tây,1,99.8523
+D:\DoanHMvUD\PlantVillage\corndisease\Gray_Leaf_Spot\Corn_Gray_Spot (422).JPG,Ngô,Corn___Gray_leaf_spot,Corn___Gray_leaf_spot,Ngô,1,99.9038
+D:\DoanHMvUD\PlantVillage\chileleaf\Curl_Virus\Curl Virus_1307.png,Ớt cay,Chili___Curl_virus,Chili___Curl_virus,Ớt cay,1,99.9491
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_133.jpg,Cà phê,Coffee___healthy,Coffee___healthy,Cà phê,1,99.9964
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\leaf rust\1200_319.jpg,Cà phê,Coffee___Rust,Coffee___Rust,Cà phê,1,93.9971
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Gall Midge\aug_1_IMG_20211106_162943 (Custom).jpg,Xoài,Mango___Gall_midge,Mango___Gall_midge,Xoài,1,99.9559
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_3_20211011_133419 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,99.9995
+D:\DoanHMvUD\PlantVillage\A Machine  Learning Dataset for Classification of Common Coffee Leaf Diseases in Uganda\coffee dataset\Health leaves\1_1134.jpg,Cà phê,Coffee___healthy,Coffee___healthy,Cà phê,1,99.9782
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Anthracnose\aug_3_IMG_20211011_164850 (Custom).jpg,Xoài,Mango___Anthracnose,Mango___Anthracnose,Xoài,1,100.0
+D:\DoanHMvUD\PlantVillage\Mango Dataset\Bacterial Canker\aug_3_IMG_20211106_140500 (Custom).jpg,Xoài,Mango___Bacterial_canker,Mango___Bacterial_canker,Xoài,1,99.6964
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_805.png,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,99.9978
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\0a5431ac-44ff-4507-a8aa-6eee46235015___UF.GRC_YLCV_Lab 03031.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9964
+D:\DoanHMvUD\PlantVillage\Tomato_Late_blight\bb487e34-b328-40b9-a33f-592701216063___RS_Late.B 5175.JPG,Cà chua,Tomato_Late_blight,Tomato_Late_blight,Cà chua,1,97.8528
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\26df0b3a-ed4f-4f41-a016-942e76039753___UF.GRC_YLCV_Lab 09555.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9892
+D:\DoanHMvUD\PlantVillage\Pepper__bell___healthy\8e6e9efb-4150-491b-a60e-bee4024d6791___JR_HL 5919.JPG,Ớt chuông,Pepper__bell___healthy,Pepper__bell___healthy,Ớt chuông,1,99.7998
+D:\DoanHMvUD\PlantVillage\Potato___Late_blight\29a30aec-e060-43f2-bd81-27d8ad1cebf2___RS_LB 4911.JPG,Khoai tây,Potato___Late_blight,Potato___Late_blight,Khoai tây,1,99.9163
+D:\DoanHMvUD\PlantVillage\Tomato_Early_blight\90fd6e55-0c2c-4c8e-8742-5a87bc669633___RS_Erly.B 7356.JPG,Cà chua,Tomato_Early_blight,Tomato_Early_blight,Cà chua,1,99.9831
+D:\DoanHMvUD\PlantVillage\Tomato__Tomato_YellowLeaf__Curl_Virus\249c9700-e21c-405d-94a9-dbdd4964a38c___YLCV_NREC 2786.JPG,Cà chua,Tomato__Tomato_YellowLeaf__Curl_Virus,Tomato__Tomato_YellowLeaf__Curl_Virus,Cà chua,1,99.9999
+D:\DoanHMvUD\PlantVillage\chileleaf\Healthy_Leaf\Healthy_Leaf_666.png,Ớt cay,Chili___healthy,Chili___healthy,Ớt cay,1,99.9884
+D:\DoanHMvUD\PlantVillage\Tomato__Target_Spot\e0c87a77-8444-4ef8-bb83-5232c0deea03___Com.G_TgS_FL 8202.JPG,Cà chua,Tomato__Target_Spot,Tomato__Target_Spot,Cà chua,1,99.9824
+D:\DoanHMvUD\PlantVillage\corndisease\Common_Rust\Corn_Common_Rust (1235).JPG,Ngô,Corn___Common_rust,Corn___Common_rust,Ngô,1,99.9997
+D:\DoanHMvUD\PlantVillage\Tomato_Bacterial_spot\b3c9f756-9328-46de-989b-a75859b40027___GCREC_Bact.Sp 3403.JPG,Cà chua,Tomato_Bacterial_spot,Tomato_Bacterial_spot,Cà chua,1,99.9966

@@ -1,0 +1,13 @@
+{
+  "all_images": 238,
+  "labeled_images": 208,
+  "old_joint_correct": 67,
+  "new_joint_correct": 80,
+  "new_crop_correct_labeled": 162,
+  "new_crop_wrong_labeled": 46,
+  "correct_crop_wrong_disease": 82,
+  "old_only_correct": 5,
+  "new_only_correct": 18,
+  "either_model_correct": 85,
+  "note": "Based on previously examined locked PlantDoc Test, for error analysis only. Never tune V5 parameters from this report."
+}
